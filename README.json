@@ -57,7 +57,7 @@
             "last_commit": "2023-04-03T23:20:25Z",
             "owner": "hetio",
             "repo": "hetionet",
-            "stars": 357
+            "stars": 358
           }
         },
         {
@@ -133,7 +133,7 @@
             "last_commit": "2026-03-25T03:54:18Z",
             "owner": "OATML-Markslab",
             "repo": "ProteinGym",
-            "stars": 460
+            "stars": 459
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2024-05-03T19:43:39Z",
             "owner": "OpenBioLink",
             "repo": "OpenBioLink",
-            "stars": 161
+            "stars": 162
           }
         },
         {
@@ -248,10 +248,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-13T15:32:05Z",
+            "last_commit": "2026-08-15T05:04:47Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3552
+            "stars": 3557
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2025-03-18T01:34:34Z",
             "owner": "alexdobin",
             "repo": "STAR",
-            "stars": 2232
+            "stars": 2233
           }
         },
         {
@@ -304,7 +304,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T19:50:53Z",
+            "last_commit": "2026-08-14T21:13:22Z",
             "owner": "cdk",
             "repo": "cdk",
             "stars": 599
@@ -391,7 +391,7 @@
             "last_commit": "2026-08-10T17:01:05Z",
             "owner": "CSOgroup",
             "repo": "cellcharter",
-            "stars": 186
+            "stars": 187
           }
         },
         {
@@ -514,7 +514,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T06:22:53Z",
+            "last_commit": "2026-08-14T21:26:50Z",
             "owner": "cafferychen777",
             "repo": "ChatSpatial",
             "stars": 43
@@ -775,7 +775,7 @@
             "last_commit": "2024-06-10T00:41:46Z",
             "owner": "kexinhuang12345",
             "repo": "DeepPurpose",
-            "stars": 1178
+            "stars": 1179
           }
         },
         {
@@ -1079,7 +1079,7 @@
             "last_commit": "2024-07-25T10:33:53Z",
             "owner": "microsoft",
             "repo": "BioGPT",
-            "stars": 4490
+            "stars": 4489
           }
         },
         {
@@ -1090,10 +1090,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:29:38Z",
+            "last_commit": "2026-08-14T09:04:56Z",
             "owner": "ClawBio",
             "repo": "ClawBio",
-            "stars": 1103
+            "stars": 1105
           }
         },
         {
@@ -1121,7 +1121,7 @@
             "last_commit": "2024-03-18T19:27:27Z",
             "owner": "yiqunchen",
             "repo": "GenePT",
-            "stars": 321
+            "stars": 320
           }
         },
         {
@@ -1207,7 +1207,7 @@
             "last_commit": "2026-04-29T17:41:42Z",
             "owner": "bowang-lab",
             "repo": "scGPT",
-            "stars": 1615
+            "stars": 1612
           }
         },
         {
@@ -1221,7 +1221,7 @@
             "last_commit": "2025-11-23T08:31:22Z",
             "owner": "biomap-research",
             "repo": "scFoundation",
-            "stars": 424
+            "stars": 422
           }
         },
         {
@@ -1235,7 +1235,7 @@
             "last_commit": "2025-02-01T09:35:37Z",
             "owner": "snap-stanford",
             "repo": "GEARS",
-            "stars": 391
+            "stars": 392
           }
         },
         {
@@ -1249,7 +1249,7 @@
             "last_commit": "2023-12-13T08:42:37Z",
             "owner": "TencentAILabHealthcare",
             "repo": "scBERT",
-            "stars": 360
+            "stars": 359
           }
         },
         {
@@ -1381,7 +1381,7 @@
             "last_commit": "2025-11-23T13:38:26Z",
             "owner": "theislab",
             "repo": "nicheformer",
-            "stars": 170
+            "stars": 169
           }
         },
         {
@@ -1423,7 +1423,7 @@
             "last_commit": "2026-08-12T09:28:44Z",
             "owner": "ratschlab",
             "repo": "DeepSpotM",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -1471,7 +1471,7 @@
             "last_commit": "2026-08-12T17:58:38Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1675
+            "stars": 1673
           }
         },
         {
@@ -1485,7 +1485,7 @@
             "last_commit": "2026-08-12T17:58:38Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1675
+            "stars": 1673
           }
         },
         {
@@ -1693,7 +1693,7 @@
             "last_commit": "2026-06-26T11:25:32Z",
             "owner": "theislab",
             "repo": "scarches",
-            "stars": 407
+            "stars": 406
           }
         },
         {
@@ -1805,7 +1805,7 @@
             "last_commit": "2024-02-07T03:31:38Z",
             "owner": "facebookresearch",
             "repo": "esm",
-            "stars": 4170
+            "stars": 4169
           }
         },
         {
@@ -1864,10 +1864,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T11:01:44Z",
+            "last_commit": "2026-08-14T10:33:29Z",
             "owner": "google-deepmind",
             "repo": "alphafold3",
-            "stars": 8453
+            "stars": 8457
           }
         },
         {
@@ -1881,7 +1881,7 @@
             "last_commit": "2024-02-07T03:31:38Z",
             "owner": "facebookresearch",
             "repo": "esm",
-            "stars": 4170
+            "stars": 4169
           }
         },
         {
@@ -1895,7 +1895,7 @@
             "last_commit": "2026-05-29T08:20:25Z",
             "owner": "jwohlwend",
             "repo": "boltz",
-            "stars": 4162
+            "stars": 4164
           }
         },
         {
@@ -1909,7 +1909,7 @@
             "last_commit": "2025-12-16T09:41:53Z",
             "owner": "aqlaboratory",
             "repo": "openfold",
-            "stars": 3414
+            "stars": 3416
           }
         },
         {
@@ -1923,7 +1923,7 @@
             "last_commit": "2026-07-15T18:08:01Z",
             "owner": "RosettaCommons",
             "repo": "RFdiffusion",
-            "stars": 3012
+            "stars": 3013
           }
         },
         {
@@ -1934,10 +1934,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-07-28T23:19:47Z",
+            "last_commit": "2026-08-15T02:42:00Z",
             "owner": "Biohub",
             "repo": "esm",
-            "stars": 2903
+            "stars": 2902
           }
         },
         {
@@ -1951,7 +1951,7 @@
             "last_commit": "2024-02-15T15:28:32Z",
             "owner": "RosettaCommons",
             "repo": "RoseTTAFold",
-            "stars": 2252
+            "stars": 2253
           }
         },
         {
@@ -1965,7 +1965,7 @@
             "last_commit": "2026-06-30T07:48:29Z",
             "owner": "chaidiscovery",
             "repo": "chai-lab",
-            "stars": 1977
+            "stars": 1978
           }
         },
         {
@@ -1979,7 +1979,7 @@
             "last_commit": "2024-08-14T02:57:30Z",
             "owner": "dauparas",
             "repo": "ProteinMPNN",
-            "stars": 1825
+            "stars": 1826
           }
         },
         {
@@ -2123,7 +2123,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15152
+            "stars": 15153
           }
         },
         {
@@ -2276,9 +2276,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:37:39.334Z",
+    "last_updated": "2026-08-15T07:43:52.007Z",
     "original_repository": "inoue0426/awesome-computational-biology",
-    "original_repository_sha": "696bbae85208edb6a0e156da1cb57d35b34778f1",
+    "original_repository_sha": "92dbe56393303536ece71215bc4eb714bc38ca48",
     "enhanced_repository": "enhansome/enhansome-computational-biology",
     "enhanced_repository_description": null,
     "title": "Awesome Computational Biology with stars"
