@@ -19,7 +19,7 @@
                     "last_commit": "2026-06-30T17:40:31Z",
                     "owner": "mims-harvard",
                     "repo": "PrimeKG",
-                    "stars": 811
+                    "stars": 810
                   }
                 },
                 {
@@ -125,7 +125,7 @@
             "last_commit": "2024-02-11T08:59:38Z",
             "owner": "BenevolentAI",
             "repo": "guacamol",
-            "stars": 528
+            "stars": 529
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-03-25T03:54:18Z",
             "owner": "OATML-Markslab",
             "repo": "ProteinGym",
-            "stars": 460
+            "stars": 461
           }
         },
         {
@@ -263,10 +263,10 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-18T04:42:47Z",
+            "last_commit": "2026-08-19T11:54:30Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3562
+            "stars": 3563
           }
         },
         {
@@ -1160,7 +1160,7 @@
                 "archived": false,
                 "id": 1166871123,
                 "language": "Python",
-                "last_commit": "2026-08-18T08:46:54Z",
+                "last_commit": "2026-08-19T08:48:08Z",
                 "owner": "ClawBio",
                 "repo": "ClawBio",
                 "stars": 1109
@@ -1193,7 +1193,7 @@
                 "last_commit": "2024-03-18T19:27:27Z",
                 "owner": "yiqunchen",
                 "repo": "GenePT",
-                "stars": 320
+                "stars": 321
               }
             },
             {
@@ -1279,7 +1279,7 @@
                         "last_commit": "2026-04-29T17:41:42Z",
                         "owner": "bowang-lab",
                         "repo": "scGPT",
-                        "stars": 1613
+                        "stars": 1614
                       }
                     },
                     {
@@ -1294,7 +1294,7 @@
                         "last_commit": "2025-11-23T08:31:22Z",
                         "owner": "biomap-research",
                         "repo": "scFoundation",
-                        "stars": 422
+                        "stars": 423
                       }
                     },
                     {
@@ -1354,7 +1354,7 @@
                         "last_commit": "2024-07-03T02:00:59Z",
                         "owner": "snap-stanford",
                         "repo": "SATURN",
-                        "stars": 170
+                        "stars": 171
                       }
                     },
                     {
@@ -1563,7 +1563,7 @@
                         "last_commit": "2026-08-18T05:50:12Z",
                         "owner": "scverse",
                         "repo": "scvi-tools",
-                        "stars": 1675
+                        "stars": 1676
                       }
                     },
                     {
@@ -1578,7 +1578,7 @@
                         "last_commit": "2026-08-18T05:50:12Z",
                         "owner": "scverse",
                         "repo": "scvi-tools",
-                        "stars": 1675
+                        "stars": 1676
                       }
                     },
                     {
@@ -1608,7 +1608,7 @@
                         "last_commit": "2026-08-05T15:19:33Z",
                         "owner": "bioFAM",
                         "repo": "MOFA2",
-                        "stars": 417
+                        "stars": 418
                       }
                     },
                     {
@@ -2010,7 +2010,7 @@
                         "last_commit": "2026-05-29T08:20:25Z",
                         "owner": "jwohlwend",
                         "repo": "boltz",
-                        "stars": 4166
+                        "stars": 4167
                       }
                     },
                     {
@@ -2040,7 +2040,7 @@
                         "last_commit": "2026-07-15T18:08:01Z",
                         "owner": "RosettaCommons",
                         "repo": "RFdiffusion",
-                        "stars": 3019
+                        "stars": 3020
                       }
                     },
                     {
@@ -2085,7 +2085,7 @@
                         "last_commit": "2026-06-30T07:48:29Z",
                         "owner": "chaidiscovery",
                         "repo": "chai-lab",
-                        "stars": 1979
+                        "stars": 1980
                       }
                     },
                     {
@@ -2269,7 +2269,7 @@
                     "last_commit": "2026-03-20T20:58:37Z",
                     "owner": "evo-design",
                     "repo": "evo",
-                    "stars": 1555
+                    "stars": 1556
                   }
                 },
                 {
@@ -2356,7 +2356,7 @@
                     "archived": false,
                     "id": 462508804,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-19T07:34:05Z",
+                    "last_commit": "2026-08-19T09:59:27Z",
                     "owner": "songlab-cal",
                     "repo": "gpn",
                     "stars": 352
@@ -2422,8 +2422,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:53:49.841Z",
+    "last_updated": "2026-08-19T12:22:43.796Z",
     "original_repository": "inoue0426/awesome-computational-biology",
+    "original_repository_id": 459787963,
     "original_repository_sha": "dd96b38e5775c672020b9372e78dfa8e8b8ecdb6",
     "enhanced_repository": "enhansome/enhansome-computational-biology",
     "enhanced_repository_description": null,
