@@ -19,7 +19,7 @@
                     "last_commit": "2026-06-30T17:40:31Z",
                     "owner": "mims-harvard",
                     "repo": "PrimeKG",
-                    "stars": 810
+                    "stars": 811
                   }
                 },
                 {
@@ -95,7 +95,7 @@
             "last_commit": "2024-07-08T06:36:49Z",
             "owner": "molecularsets",
             "repo": "moses",
-            "stars": 988
+            "stars": 987
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-03-25T03:54:18Z",
             "owner": "OATML-Markslab",
             "repo": "ProteinGym",
-            "stars": 461
+            "stars": 463
           }
         },
         {
@@ -251,7 +251,7 @@
             "last_commit": "2026-08-10T18:48:19Z",
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6944
+            "stars": 6943
           }
         },
         {
@@ -263,10 +263,10 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-19T11:54:30Z",
+            "last_commit": "2026-08-20T06:08:52Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3563
+            "stars": 3562
           }
         },
         {
@@ -326,7 +326,7 @@
             "last_commit": "2026-08-17T20:11:07Z",
             "owner": "cdk",
             "repo": "cdk",
-            "stars": 599
+            "stars": 601
           }
         },
         {
@@ -341,7 +341,7 @@
             "last_commit": "2025-03-21T11:20:52Z",
             "owner": "chris-mcginnis-ucsf",
             "repo": "DoubletFinder",
-            "stars": 557
+            "stars": 558
           }
         },
         {
@@ -1148,7 +1148,7 @@
                 "last_commit": "2024-07-25T10:33:53Z",
                 "owner": "microsoft",
                 "repo": "BioGPT",
-                "stars": 4487
+                "stars": 4486
               }
             },
             {
@@ -1163,7 +1163,7 @@
                 "last_commit": "2026-08-19T08:48:08Z",
                 "owner": "ClawBio",
                 "repo": "ClawBio",
-                "stars": 1109
+                "stars": 1110
               }
             },
             {
@@ -1339,7 +1339,7 @@
                         "last_commit": "2026-07-08T17:49:55Z",
                         "owner": "snap-stanford",
                         "repo": "UCE",
-                        "stars": 326
+                        "stars": 328
                       }
                     },
                     {
@@ -1421,7 +1421,7 @@
                         "last_commit": "2025-03-26T04:45:41Z",
                         "owner": "mahmoodlab",
                         "repo": "UNI",
-                        "stars": 766
+                        "stars": 767
                       }
                     },
                     {
@@ -1481,7 +1481,7 @@
                         "last_commit": "2025-02-13T03:54:12Z",
                         "owner": "bowang-lab",
                         "repo": "scGPT-spatial",
-                        "stars": 143
+                        "stars": 142
                       }
                     },
                     {
@@ -1563,7 +1563,7 @@
                         "last_commit": "2026-08-18T05:50:12Z",
                         "owner": "scverse",
                         "repo": "scvi-tools",
-                        "stars": 1676
+                        "stars": 1677
                       }
                     },
                     {
@@ -1578,7 +1578,7 @@
                         "last_commit": "2026-08-18T05:50:12Z",
                         "owner": "scverse",
                         "repo": "scvi-tools",
-                        "stars": 1676
+                        "stars": 1677
                       }
                     },
                     {
@@ -1824,7 +1824,7 @@
                         "last_commit": "2025-05-29T07:41:36Z",
                         "owner": "deepmodeling",
                         "repo": "Uni-Mol",
-                        "stars": 1149
+                        "stars": 1150
                       }
                     },
                     {
@@ -1854,7 +1854,7 @@
                         "last_commit": "2025-09-17T23:33:44Z",
                         "owner": "IBM",
                         "repo": "molformer",
-                        "stars": 408
+                        "stars": 409
                       }
                     },
                     {
@@ -1913,7 +1913,7 @@
                         "last_commit": "2024-02-07T03:31:38Z",
                         "owner": "facebookresearch",
                         "repo": "esm",
-                        "stars": 4169
+                        "stars": 4170
                       }
                     },
                     {
@@ -1977,10 +1977,10 @@
                         "archived": false,
                         "id": 886637886,
                         "language": "Python",
-                        "last_commit": "2026-08-14T10:33:29Z",
+                        "last_commit": "2026-08-19T15:43:52Z",
                         "owner": "google-deepmind",
                         "repo": "alphafold3",
-                        "stars": 8472
+                        "stars": 8476
                       }
                     },
                     {
@@ -1995,7 +1995,7 @@
                         "last_commit": "2024-02-07T03:31:38Z",
                         "owner": "facebookresearch",
                         "repo": "esm",
-                        "stars": 4169
+                        "stars": 4170
                       }
                     },
                     {
@@ -2010,7 +2010,7 @@
                         "last_commit": "2026-05-29T08:20:25Z",
                         "owner": "jwohlwend",
                         "repo": "boltz",
-                        "stars": 4167
+                        "stars": 4168
                       }
                     },
                     {
@@ -2052,10 +2052,10 @@
                         "archived": false,
                         "id": 819771555,
                         "language": "Jupyter Notebook",
-                        "last_commit": "2026-08-17T17:40:57Z",
+                        "last_commit": "2026-08-19T23:52:35Z",
                         "owner": "Biohub",
                         "repo": "esm",
-                        "stars": 2911
+                        "stars": 2912
                       }
                     },
                     {
@@ -2085,7 +2085,7 @@
                         "last_commit": "2026-06-30T07:48:29Z",
                         "owner": "chaidiscovery",
                         "repo": "chai-lab",
-                        "stars": 1980
+                        "stars": 1981
                       }
                     },
                     {
@@ -2100,7 +2100,7 @@
                         "last_commit": "2024-08-14T02:57:30Z",
                         "owner": "dauparas",
                         "repo": "ProteinMPNN",
-                        "stars": 1829
+                        "stars": 1830
                       }
                     },
                     {
@@ -2254,7 +2254,7 @@
                     "last_commit": "2026-06-17T13:51:27Z",
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15157
+                    "stars": 15159
                   }
                 },
                 {
@@ -2314,7 +2314,7 @@
                     "last_commit": "2026-01-22T20:30:14Z",
                     "owner": "jerryji1993",
                     "repo": "DNABERT",
-                    "stars": 775
+                    "stars": 777
                   }
                 },
                 {
@@ -2422,7 +2422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:22:43.796Z",
+    "last_updated": "2026-08-20T07:56:29.106Z",
     "original_repository": "inoue0426/awesome-computational-biology",
     "original_repository_id": 459787963,
     "original_repository_sha": "dd96b38e5775c672020b9372e78dfa8e8b8ecdb6",
