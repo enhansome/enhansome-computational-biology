@@ -185,7 +185,7 @@
             "last_commit": "2025-02-25T16:38:01Z",
             "owner": "sanderlab",
             "repo": "scPerturb",
-            "stars": 183
+            "stars": 184
           }
         },
         {
@@ -251,7 +251,7 @@
             "last_commit": "2026-08-20T19:01:34Z",
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6945
+            "stars": 6951
           }
         },
         {
@@ -263,10 +263,10 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-21T02:51:46Z",
+            "last_commit": "2026-08-22T06:25:26Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3560
+            "stars": 3561
           }
         },
         {
@@ -323,10 +323,10 @@
             "archived": false,
             "id": 660443,
             "language": "Java",
-            "last_commit": "2026-08-17T20:11:07Z",
+            "last_commit": "2026-08-21T13:07:18Z",
             "owner": "cdk",
             "repo": "cdk",
-            "stars": 601
+            "stars": 600
           }
         },
         {
@@ -461,7 +461,7 @@
             "last_commit": "2026-07-11T14:41:24Z",
             "owner": "Durenlab",
             "repo": "LINGER",
-            "stars": 132
+            "stars": 133
           }
         },
         {
@@ -815,7 +815,7 @@
                     "last_commit": "2024-06-10T00:41:46Z",
                     "owner": "kexinhuang12345",
                     "repo": "DeepPurpose",
-                    "stars": 1180
+                    "stars": 1181
                   }
                 },
                 {
@@ -986,7 +986,7 @@
                     "last_commit": "2025-05-02T13:59:19Z",
                     "owner": "gcorso",
                     "repo": "DiffDock",
-                    "stars": 1567
+                    "stars": 1568
                   }
                 },
                 {
@@ -1160,10 +1160,10 @@
                 "archived": false,
                 "id": 1166871123,
                 "language": "Python",
-                "last_commit": "2026-08-20T08:45:39Z",
+                "last_commit": "2026-08-21T17:39:50Z",
                 "owner": "ClawBio",
                 "repo": "ClawBio",
-                "stars": 1110
+                "stars": 1112
               }
             },
             {
@@ -1339,7 +1339,7 @@
                         "last_commit": "2026-07-08T17:49:55Z",
                         "owner": "snap-stanford",
                         "repo": "UCE",
-                        "stars": 328
+                        "stars": 329
                       }
                     },
                     {
@@ -1511,7 +1511,7 @@
                         "last_commit": "2026-08-12T09:28:44Z",
                         "owner": "ratschlab",
                         "repo": "DeepSpotM",
-                        "stars": 37
+                        "stars": 38
                       }
                     },
                     {
@@ -1563,7 +1563,7 @@
                         "last_commit": "2026-08-18T05:50:12Z",
                         "owner": "scverse",
                         "repo": "scvi-tools",
-                        "stars": 1677
+                        "stars": 1679
                       }
                     },
                     {
@@ -1578,7 +1578,7 @@
                         "last_commit": "2026-08-18T05:50:12Z",
                         "owner": "scverse",
                         "repo": "scvi-tools",
-                        "stars": 1677
+                        "stars": 1679
                       }
                     },
                     {
@@ -1605,7 +1605,7 @@
                         "archived": false,
                         "id": 105765144,
                         "language": "R",
-                        "last_commit": "2026-08-20T09:14:24Z",
+                        "last_commit": "2026-08-21T13:55:04Z",
                         "owner": "bioFAM",
                         "repo": "MOFA2",
                         "stars": 418
@@ -1824,7 +1824,7 @@
                         "last_commit": "2025-05-29T07:41:36Z",
                         "owner": "deepmodeling",
                         "repo": "Uni-Mol",
-                        "stars": 1150
+                        "stars": 1151
                       }
                     },
                     {
@@ -1980,7 +1980,22 @@
                         "last_commit": "2026-08-19T15:43:52Z",
                         "owner": "google-deepmind",
                         "repo": "alphafold3",
-                        "stars": 8479
+                        "stars": 8482
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Boltz-1",
+                      "description": "Open-source all-atom biomolecular structure prediction model for proteins, nucleic acids, small molecules, and their complexes achieving AlphaFold3-level accuracy.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 889915078,
+                        "language": "Python",
+                        "last_commit": "2026-05-29T08:20:25Z",
+                        "owner": "jwohlwend",
+                        "repo": "boltz",
+                        "stars": 4171
                       }
                     },
                     {
@@ -2000,21 +2015,6 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "Boltz-1",
-                      "description": "Open-source all-atom biomolecular structure prediction model for proteins, nucleic acids, small molecules, and their complexes achieving AlphaFold3-level accuracy.",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "id": 889915078,
-                        "language": "Python",
-                        "last_commit": "2026-05-29T08:20:25Z",
-                        "owner": "jwohlwend",
-                        "repo": "boltz",
-                        "stars": 4169
-                      }
-                    },
-                    {
-                      "node_type": "item",
                       "title": "OpenFold",
                       "description": "Trainable, memory-efficient open-source reproduction of AlphaFold2 enabling custom protein structure prediction workflows.",
                       "children": [],
@@ -2025,7 +2025,7 @@
                         "last_commit": "2025-12-16T09:41:53Z",
                         "owner": "aqlaboratory",
                         "repo": "openfold",
-                        "stars": 3416
+                        "stars": 3418
                       }
                     },
                     {
@@ -2040,7 +2040,7 @@
                         "last_commit": "2026-07-15T18:08:01Z",
                         "owner": "RosettaCommons",
                         "repo": "RFdiffusion",
-                        "stars": 3023
+                        "stars": 3024
                       }
                     },
                     {
@@ -2052,10 +2052,10 @@
                         "archived": false,
                         "id": 819771555,
                         "language": "Jupyter Notebook",
-                        "last_commit": "2026-08-21T00:56:24Z",
+                        "last_commit": "2026-08-22T01:24:15Z",
                         "owner": "Biohub",
                         "repo": "esm",
-                        "stars": 2914
+                        "stars": 2915
                       }
                     },
                     {
@@ -2100,7 +2100,7 @@
                         "last_commit": "2024-08-14T02:57:30Z",
                         "owner": "dauparas",
                         "repo": "ProteinMPNN",
-                        "stars": 1830
+                        "stars": 1831
                       }
                     },
                     {
@@ -2254,7 +2254,7 @@
                     "last_commit": "2026-06-17T13:51:27Z",
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15157
+                    "stars": 15159
                   }
                 },
                 {
@@ -2269,7 +2269,7 @@
                     "last_commit": "2026-03-20T20:58:37Z",
                     "owner": "evo-design",
                     "repo": "evo",
-                    "stars": 1556
+                    "stars": 1557
                   }
                 },
                 {
@@ -2389,7 +2389,7 @@
                     "last_commit": "2026-03-18T20:09:28Z",
                     "owner": "kuleshov-group",
                     "repo": "caduceus",
-                    "stars": 250
+                    "stars": 249
                   }
                 },
                 {
@@ -2422,7 +2422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:57:06.628Z",
+    "last_updated": "2026-08-22T07:45:54.602Z",
     "original_repository": "inoue0426/awesome-computational-biology",
     "original_repository_id": 459787963,
     "original_repository_sha": "dd96b38e5775c672020b9372e78dfa8e8b8ecdb6",
