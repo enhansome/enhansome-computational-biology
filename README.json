@@ -263,7 +263,7 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-24T07:10:38Z",
+            "last_commit": "2026-08-24T09:44:50Z",
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3562
@@ -1160,7 +1160,7 @@
                 "archived": false,
                 "id": 1166871123,
                 "language": "Python",
-                "last_commit": "2026-08-23T08:53:16Z",
+                "last_commit": "2026-08-24T08:50:43Z",
                 "owner": "ClawBio",
                 "repo": "ClawBio",
                 "stars": 1114
@@ -1279,7 +1279,7 @@
                         "last_commit": "2026-04-29T17:41:42Z",
                         "owner": "bowang-lab",
                         "repo": "scGPT",
-                        "stars": 1616
+                        "stars": 1617
                       }
                     },
                     {
@@ -1294,7 +1294,7 @@
                         "last_commit": "2025-11-23T08:31:22Z",
                         "owner": "biomap-research",
                         "repo": "scFoundation",
-                        "stars": 424
+                        "stars": 425
                       }
                     },
                     {
@@ -1560,10 +1560,10 @@
                         "archived": false,
                         "id": 102567256,
                         "language": "Python",
-                        "last_commit": "2026-08-18T05:50:12Z",
+                        "last_commit": "2026-08-24T13:28:07Z",
                         "owner": "scverse",
                         "repo": "scvi-tools",
-                        "stars": 1679
+                        "stars": 1680
                       }
                     },
                     {
@@ -1575,10 +1575,10 @@
                         "archived": false,
                         "id": 102567256,
                         "language": "Python",
-                        "last_commit": "2026-08-18T05:50:12Z",
+                        "last_commit": "2026-08-24T13:28:07Z",
                         "owner": "scverse",
                         "repo": "scvi-tools",
-                        "stars": 1679
+                        "stars": 1680
                       }
                     },
                     {
@@ -1824,7 +1824,7 @@
                         "last_commit": "2025-05-29T07:41:36Z",
                         "owner": "deepmodeling",
                         "repo": "Uni-Mol",
-                        "stars": 1153
+                        "stars": 1154
                       }
                     },
                     {
@@ -1980,7 +1980,7 @@
                         "last_commit": "2026-08-19T15:43:52Z",
                         "owner": "google-deepmind",
                         "repo": "alphafold3",
-                        "stars": 8487
+                        "stars": 8489
                       }
                     },
                     {
@@ -2085,7 +2085,7 @@
                         "last_commit": "2026-06-30T07:48:29Z",
                         "owner": "chaidiscovery",
                         "repo": "chai-lab",
-                        "stars": 1985
+                        "stars": 1986
                       }
                     },
                     {
@@ -2254,7 +2254,7 @@
                     "last_commit": "2026-06-17T13:51:27Z",
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15165
+                    "stars": 15166
                   }
                 },
                 {
@@ -2422,7 +2422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:03:54.177Z",
+    "last_updated": "2026-08-24T14:38:27.065Z",
     "original_repository": "inoue0426/awesome-computational-biology",
     "original_repository_id": 459787963,
     "original_repository_sha": "dd96b38e5775c672020b9372e78dfa8e8b8ecdb6",
