@@ -1824,7 +1824,7 @@
                         "last_commit": "2025-05-29T07:41:36Z",
                         "owner": "deepmodeling",
                         "repo": "Uni-Mol",
-                        "stars": 1154
+                        "stars": 1155
                       }
                     },
                     {
@@ -2422,7 +2422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:29:06.843Z",
+    "last_updated": "2026-08-25T07:58:07.685Z",
     "original_repository": "inoue0426/awesome-computational-biology",
     "original_repository_id": 459787963,
     "original_repository_sha": "dd96b38e5775c672020b9372e78dfa8e8b8ecdb6",
