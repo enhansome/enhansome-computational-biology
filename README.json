@@ -140,7 +140,7 @@
             "last_commit": "2026-03-25T03:54:18Z",
             "owner": "OATML-Markslab",
             "repo": "ProteinGym",
-            "stars": 465
+            "stars": 466
           }
         },
         {
@@ -263,10 +263,10 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-27T03:32:26Z",
+            "last_commit": "2026-08-27T14:14:53Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3565
+            "stars": 3566
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2026-02-25T16:21:49Z",
             "owner": "theislab",
             "repo": "scvelo",
-            "stars": 507
+            "stars": 508
           }
         },
         {
@@ -1163,7 +1163,7 @@
                 "last_commit": "2026-08-27T08:48:55Z",
                 "owner": "ClawBio",
                 "repo": "ClawBio",
-                "stars": 1118
+                "stars": 1119
               }
             },
             {
@@ -1279,7 +1279,7 @@
                         "last_commit": "2026-04-29T17:41:42Z",
                         "owner": "bowang-lab",
                         "repo": "scGPT",
-                        "stars": 1620
+                        "stars": 1621
                       }
                     },
                     {
@@ -1980,7 +1980,7 @@
                         "last_commit": "2026-08-19T15:43:52Z",
                         "owner": "google-deepmind",
                         "repo": "alphafold3",
-                        "stars": 8497
+                        "stars": 8498
                       }
                     },
                     {
@@ -1995,7 +1995,7 @@
                         "last_commit": "2026-05-29T08:20:25Z",
                         "owner": "jwohlwend",
                         "repo": "boltz",
-                        "stars": 4179
+                        "stars": 4180
                       }
                     },
                     {
@@ -2055,7 +2055,7 @@
                         "last_commit": "2026-08-25T22:04:31Z",
                         "owner": "Biohub",
                         "repo": "esm",
-                        "stars": 2928
+                        "stars": 2929
                       }
                     },
                     {
@@ -2100,7 +2100,7 @@
                         "last_commit": "2024-08-14T02:57:30Z",
                         "owner": "dauparas",
                         "repo": "ProteinMPNN",
-                        "stars": 1834
+                        "stars": 1835
                       }
                     },
                     {
@@ -2269,7 +2269,7 @@
                     "last_commit": "2026-03-20T20:58:37Z",
                     "owner": "evo-design",
                     "repo": "evo",
-                    "stars": 1560
+                    "stars": 1561
                   }
                 },
                 {
@@ -2374,7 +2374,7 @@
                     "last_commit": "2025-08-28T17:25:24Z",
                     "owner": "calico",
                     "repo": "borzoi",
-                    "stars": 260
+                    "stars": 261
                   }
                 },
                 {
@@ -2422,7 +2422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:19.874Z",
+    "last_updated": "2026-08-27T18:17:09.224Z",
     "original_repository_info": {
       "archived": false,
       "id": 459787963,
