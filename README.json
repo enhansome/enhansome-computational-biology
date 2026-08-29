@@ -14,12 +14,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Precision Medicine Knowledge Graph (PrimeKG)",
+                    "homepage": "https://zitniklab.hms.harvard.edu/projects/PrimeKG",
                     "id": 482717861,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2026-06-30T17:40:31Z",
+                    "open_issues": 7,
                     "owner": "mims-harvard",
                     "repo": "PrimeKG",
-                    "stars": 817
+                    "stars": 817,
+                    "topics": [
+                      "bioinformatics",
+                      "dataset",
+                      "graph-machine-learning",
+                      "knowledge-graph",
+                      "network-medicine",
+                      "nlp-machine-learning",
+                      "precision-medicine",
+                      "therapeutics"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -30,12 +44,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A knowledge graph and a set of tools for drug repurposing",
+                    "homepage": null,
                     "id": 254278386,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-04-19T16:44:16Z",
+                    "open_issues": 22,
                     "owner": "gnn4dr",
                     "repo": "DRKG",
-                    "stars": 705
+                    "stars": 705,
+                    "topics": [
+                      "dgl",
+                      "dgl-ke",
+                      "drug-repurposing",
+                      "graph-neural-networks",
+                      "knowledge-graph",
+                      "knowledge-graph-embeddings"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -46,12 +72,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hetionet: an integrative network of disease",
+                    "homepage": "https://neo4j.het.io",
                     "id": 56091268,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2023-04-03T23:20:25Z",
+                    "open_issues": 14,
                     "owner": "hetio",
                     "repo": "hetionet",
-                    "stars": 360
+                    "stars": 360,
+                    "topics": [
+                      "data-integration",
+                      "drug-repurposing",
+                      "hetionet",
+                      "hetnet",
+                      "neo4j",
+                      "network",
+                      "rephetio"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -62,12 +101,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A database of paths that represent the mechanism of action from a drug to a disease in an indication.",
+                    "homepage": null,
                     "id": 216676041,
                     "language": "Jupyter Notebook",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-06-03T01:25:56Z",
+                    "open_issues": 12,
                     "owner": "SuLab",
                     "repo": "DrugMechDB",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": [
+                      "ncats-translator"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 }
@@ -94,12 +140,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models",
+            "homepage": "https://arxiv.org/abs/1811.12823",
             "id": 159494117,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-08T06:36:49Z",
+            "open_issues": 31,
             "owner": "molecularsets",
             "repo": "moses",
-            "stars": 988
+            "stars": 988,
+            "topics": [
+              "benchmark",
+              "drug-discovery",
+              "generative-models",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -110,12 +166,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tasks Assessing Protein Embeddings (TAPE), a set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology.",
+            "homepage": "https://www.biorxiv.org/content/10.1101/676825v1",
             "id": 226796593,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-12-11T00:20:03Z",
+            "open_issues": 30,
             "owner": "songlab-cal",
             "repo": "tape",
-            "stars": 744
+            "stars": 744,
+            "topics": [
+              "benchmark",
+              "dataset",
+              "deep-learning",
+              "language-modeling",
+              "protein-sequences",
+              "protein-structure",
+              "pytorch",
+              "semi-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -126,12 +196,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmarks for generative chemistry",
+            "homepage": null,
             "id": 157866463,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-11T08:59:38Z",
+            "open_issues": 13,
             "owner": "BenevolentAI",
             "repo": "guacamol",
-            "stars": 531
+            "stars": 531,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -142,12 +217,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for the ProteinGym benchmarks",
+            "homepage": "https://proteingym.org/",
             "id": 578803085,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-03-25T03:54:18Z",
+            "open_issues": 32,
             "owner": "OATML-Markslab",
             "repo": "ProteinGym",
-            "stars": 467
+            "stars": 467,
+            "topics": [
+              "benchmark",
+              "computational-biology",
+              "protein",
+              "protein-design",
+              "protein-fitness"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -158,12 +244,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmarking analysis of data integration tools",
+            "homepage": null,
             "id": 197154974,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-27T20:13:28Z",
+            "open_issues": 43,
             "owner": "theislab",
             "repo": "scib",
-            "stars": 429
+            "stars": 429,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -174,12 +265,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Images and other data from the JUMP Cell Painting Consortium",
+            "homepage": null,
             "id": 552371375,
             "language": "Shell",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T18:22:34Z",
+            "open_issues": 26,
             "owner": "jump-cellpainting",
             "repo": "datasets",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -190,12 +286,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "scPerturb: A resource and a python/R tool for single-cell perturbation data",
+            "homepage": "http://www.sanderlab.org/scPerturb/",
             "id": 524195971,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-25T16:38:01Z",
+            "open_issues": 13,
             "owner": "sanderlab",
             "repo": "scPerturb",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "cite-seq",
+              "database",
+              "perturbation",
+              "python",
+              "r",
+              "scatac-seq",
+              "science",
+              "scrna-seq",
+              "single-cell",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -206,12 +318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenBioLink is a resource and evaluation framework for evaluating link prediction models on heterogeneous biomedical graph data.",
+            "homepage": null,
             "id": 199718903,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-03T19:43:39Z",
+            "open_issues": 11,
             "owner": "OpenBioLink",
             "repo": "OpenBioLink",
-            "stars": 163
+            "stars": 163,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -222,12 +339,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of tasks to probe the effectiveness of protein sequence representations in modeling aspects of protein design",
+            "homepage": null,
             "id": 367129997,
             "language": "Jupyter Notebook",
+            "license": "AFL-3.0",
             "last_commit": "2026-04-23T17:29:32Z",
+            "open_issues": 3,
             "owner": "J-SNACKKB",
             "repo": "FLIP",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "protein",
+              "protein-design",
+              "protein-fitness-prediction",
+              "protein-function-prediction",
+              "protein-sequences",
+              "representation-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -238,12 +367,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UV-first benchmark for protein-ligand docking with reproducible annotation, pocket similarity, and HPC workflows.",
+            "homepage": null,
             "id": 1124683203,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-03-04T07:57:37Z",
+            "open_issues": 0,
             "owner": "LigandPro",
             "repo": "Bento",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "benchmark",
+              "bioinformatics",
+              "cheminformatics",
+              "computational-chemistry",
+              "drug-discovery",
+              "hpc",
+              "molecular-docking",
+              "protein-ligand-docking",
+              "python",
+              "slurm",
+              "structure-based-drug-design",
+              "uv"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         }
@@ -260,12 +407,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology",
+            "homepage": "https://deepchem.io/",
             "id": 43098215,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
+            "open_issues": 1167,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6967
+            "stars": 6967,
+            "topics": [
+              "biology",
+              "deep-learning",
+              "drug-discovery",
+              "hacktoberfest",
+              "materials-science",
+              "quantum-chemistry"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -276,12 +435,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official sources for the RDKit library",
+            "homepage": null,
             "id": 10009991,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T07:20:52Z",
+            "open_issues": 67,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3570
+            "stars": 3570,
+            "topics": [
+              "c-plus-plus",
+              "cheminformatics",
+              "python",
+              "rdkit"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -292,12 +461,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RNA-seq aligner",
+            "homepage": null,
             "id": 17778869,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-03-18T01:34:34Z",
+            "open_issues": 1006,
             "owner": "alexdobin",
             "repo": "STAR",
-            "stars": 2241
+            "stars": 2241,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -308,12 +482,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data",
+            "homepage": null,
             "id": 259225467,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-06T18:23:14Z",
+            "open_issues": 454,
             "owner": "sqjin",
             "repo": "CellChat",
-            "stars": 793
+            "stars": 793,
+            "topics": [
+              "cell-cell-communication",
+              "cell-cell-interaction",
+              "microenvironment",
+              "single-cell-analysis"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -324,12 +508,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, sensitive and accurate integration of single-cell data with Harmony",
+            "homepage": "https://portals.broadinstitute.org/harmony/",
             "id": 137140168,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-05T17:44:33Z",
+            "open_issues": 84,
             "owner": "immunogenomics",
             "repo": "harmony",
-            "stars": 670
+            "stars": 670,
+            "topics": [
+              "algorithm",
+              "data-integration",
+              "r",
+              "scrna-seq"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -340,12 +534,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Chemistry Development Kit",
+            "homepage": "https://cdk.github.io/",
             "id": 660443,
             "language": "Java",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-21T13:07:18Z",
+            "open_issues": 10,
             "owner": "cdk",
             "repo": "cdk",
-            "stars": 602
+            "stars": 602,
+            "topics": [
+              "bioinformatics",
+              "blueobelisk",
+              "cheminformatics",
+              "chemistry",
+              "code4lib",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -356,12 +562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R package for detecting doublets in single-cell RNA sequencing data",
+            "homepage": null,
             "id": 138660553,
             "language": "R",
+            "license": null,
             "last_commit": "2025-03-21T11:20:52Z",
+            "open_issues": 23,
             "owner": "chris-mcginnis-ucsf",
             "repo": "DoubletFinder",
-            "stars": 560
+            "stars": 560,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -372,12 +583,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RNA Velocity generalized through dynamical modeling",
+            "homepage": "https://scvelo.org",
             "id": 145459109,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-02-25T16:21:49Z",
+            "open_issues": 82,
             "owner": "theislab",
             "repo": "scvelo",
-            "stars": 508
+            "stars": 508,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -388,12 +604,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for semi-automatic cell type classification",
+            "homepage": "https://www.celltypist.org/",
             "id": 368993696,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-22T21:50:29Z",
+            "open_issues": 48,
             "owner": "Teichlab",
             "repo": "celltypist",
-            "stars": 502
+            "stars": 502,
+            "topics": [
+              "cell-type-classification",
+              "label-transfer",
+              "machine-learning",
+              "python",
+              "scrna-seq",
+              "single-cell"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -404,12 +632,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SCENIC is an R package to infer Gene Regulatory Networks and cell types from single-cell RNA-seq data.",
+            "homepage": "http://scenic.aertslab.org",
             "id": 63242557,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-05T09:56:19Z",
+            "open_issues": 113,
             "owner": "aertslab",
             "repo": "SCENIC",
-            "stars": 496
+            "stars": 496,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -420,12 +653,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haplotype-aware CNV analysis from single-cell RNA-seq, ATAC-seq, and multiome",
+            "homepage": "https://kharchenkolab.github.io/numbat/",
             "id": 370728618,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-04T05:00:43Z",
+            "open_issues": 80,
             "owner": "kharchenkolab",
             "repo": "numbat",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "cancer-genomics",
+              "cnv-detection",
+              "lineage-tracing",
+              "phylogeny",
+              "single-cell",
+              "single-cell-analysis",
+              "single-cell-atac-seq",
+              "single-cell-omics",
+              "single-cell-rna-seq",
+              "spatial-transcriptomics"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -436,12 +685,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python package for the identification, characterization and comparison of spatial clusters from spatial -omics data.",
+            "homepage": "https://cellcharter.readthedocs.io/en/latest/",
             "id": 559861395,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T17:01:44Z",
+            "open_issues": 17,
             "owner": "CSOgroup",
             "repo": "cellcharter",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -452,12 +706,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MOGONET (Multi-Omics Graph cOnvolutional NETworks) is a novel multi-omics data integrative analysis framework for classification tasks in biomedical applications.",
+            "homepage": null,
             "id": 353480451,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-03-31T20:51:34Z",
+            "open_issues": 0,
             "owner": "txWang",
             "repo": "MOGONET",
-            "stars": 187
+            "stars": 187,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -468,12 +727,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 402794978,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-25T13:59:53Z",
+            "open_issues": 27,
             "owner": "zcang",
             "repo": "COMMOT",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -484,12 +748,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 673085339,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-07-11T14:41:24Z",
+            "open_issues": 54,
             "owner": "Durenlab",
             "repo": "LINGER",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -500,12 +769,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning cell communication from spatial graphs of cells",
+            "homepage": "https://ncem.readthedocs.io/",
             "id": 364226196,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-01-15T21:36:37Z",
+            "open_issues": 34,
             "owner": "theislab",
             "repo": "ncem",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "cell-cell-communication",
+              "cell-cell-interaction",
+              "cvae",
+              "encoder-decoder-model",
+              "glm",
+              "gnn",
+              "scanpy",
+              "squidpy",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -516,12 +800,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 148958580,
             "language": "R",
+            "license": null,
             "last_commit": "2021-04-05T15:48:17Z",
+            "open_issues": 41,
             "owner": "akdess",
             "repo": "CaSpER",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -532,12 +821,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 595855871,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-03-23T01:13:35Z",
+            "open_issues": 2,
             "owner": "yutongo",
             "repo": "TIGON",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -548,12 +842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adaptive Graph Attention Auto-encoder for Spatial Domain Identification of Spatial Transcriptomics",
+            "homepage": null,
             "id": 398185411,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-28T03:49:03Z",
+            "open_issues": 12,
             "owner": "RucDongLab",
             "repo": "STAGATE",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -564,12 +863,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous multi-agent framework to optimize scientific software",
+            "homepage": "https://www.autozyme.com",
             "id": 1267799183,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-16T10:01:32Z",
+            "open_issues": 1,
             "owner": "ElliotXie",
             "repo": "autozyme",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "acceleration",
+              "agentic-ai",
+              "ai-agents",
+              "bioinformatics",
+              "code-optimization",
+              "genomics",
+              "llm",
+              "performance-optimization",
+              "python",
+              "rstats",
+              "scanpy",
+              "scientific-computing",
+              "scrna-seq",
+              "seurat",
+              "single-cell",
+              "spatial-transcriptomics",
+              "speedup"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -580,12 +902,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+            "homepage": "https://docs.cafferyang.com/",
             "id": 978519611,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-15T10:26:50Z",
+            "open_issues": 13,
             "owner": "cafferychen777",
             "repo": "ChatSpatial",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "agentic-ai",
+              "bioinformatics",
+              "cell-communication",
+              "claude-desktop",
+              "computational-biology",
+              "deconvolution",
+              "genomics",
+              "llm-agent",
+              "machine-learning",
+              "mcp-server",
+              "model-context-protocol",
+              "python",
+              "pytorch",
+              "scanpy",
+              "single-cell",
+              "spatial-analysis",
+              "spatial-domains",
+              "spatial-transcriptomics",
+              "squidpy",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -596,12 +944,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deciphering cell-cell communication from spatially resolved transcriptomic data at single-cell resolution with subgraph-based attentional graph neural network",
+            "homepage": null,
             "id": 721541096,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-09-06T04:10:04Z",
+            "open_issues": 9,
             "owner": "JiangBioLab",
             "repo": "DeepTalk",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -612,12 +965,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast spatial deconvolution via leverage-score sketching — scales to million-spot datasets while preserving rare cell type signals.",
+            "homepage": null,
             "id": 1114934837,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-30T12:55:30Z",
+            "open_issues": 0,
             "owner": "cafferychen777",
             "repo": "flashdeconv",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "bioinformatics",
+              "cell-type-deconvolution",
+              "computational-biology",
+              "deconvolution",
+              "python",
+              "scanpy",
+              "single-cell",
+              "spatial-transcriptomics",
+              "visium"
+            ]
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         },
@@ -628,12 +996,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 402004150,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-30T20:27:44Z",
+            "open_issues": 3,
             "owner": "jlakkis",
             "repo": "sciPENN",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
         }
@@ -654,12 +1027,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Exploring the space of drug combinations to discover synergistic drugs using Active Learning",
+                    "homepage": null,
                     "id": 320327566,
                     "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-08-13T10:01:39Z",
+                    "open_issues": 3,
                     "owner": "RECOVERcoalition",
                     "repo": "Recover",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -670,12 +1048,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch implementation of \"TGSA: Protein-Protein Association-Based Twin Graph Neural Networks for Drug Response Prediction with Similarity Augmentation\"",
+                    "homepage": null,
                     "id": 377412768,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-12-15T12:35:22Z",
+                    "open_issues": 1,
                     "owner": "violet-sto",
                     "repo": "TGSA",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -686,12 +1069,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 268580997,
                     "language": "R",
+                    "license": null,
                     "last_commit": "2022-03-23T16:12:29Z",
+                    "open_issues": 2,
                     "owner": "CutillasLab",
                     "repo": "DRUMLR",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -702,12 +1090,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 336330281,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-07-28T12:47:24Z",
+                    "open_issues": 6,
                     "owner": "weiba",
                     "repo": "MOFGCN",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -718,12 +1111,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DeepAEG: A model for predicting cancer drug response based on data enhancement and edge-collaborative update strategies",
+                    "homepage": null,
                     "id": 735766711,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-12-26T02:55:01Z",
+                    "open_issues": 0,
                     "owner": "zhejiangzhuque",
                     "repo": "DeepAEG",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -734,12 +1132,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1000350707,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2026-02-27T14:56:57Z",
+                    "open_issues": 1,
                     "owner": "inoue0426",
                     "repo": "drGT",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -750,12 +1153,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GNN-based gene-selection deep learning model for drug response prediction",
+                    "homepage": null,
                     "id": 745329789,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-02-24T13:36:11Z",
+                    "open_issues": 0,
                     "owner": "minwoopak",
                     "repo": "heteronet",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 }
@@ -773,12 +1181,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Learning Single-Cell Perturbation Responses using Neural Optimal Transport",
+                    "homepage": null,
                     "id": 508223426,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-10-31T23:34:58Z",
+                    "open_issues": 12,
                     "owner": "bunnech",
                     "repo": "cellot",
-                    "stars": 181
+                    "stars": 181,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -789,12 +1202,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for \"Predicting Cellular Responses to Novel Drug Perturbations at a Single-Cell Resolution\", NeurIPS 2022.",
+                    "homepage": "https://arxiv.org/abs/2204.13545",
                     "id": 383423931,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2025-02-06T15:11:37Z",
+                    "open_issues": 7,
                     "owner": "theislab",
                     "repo": "chemCPA",
-                    "stars": 157
+                    "stars": 157,
+                    "topics": [
+                      "disentanglement",
+                      "drug-discovery",
+                      "genomics",
+                      "perturbation",
+                      "single-cell",
+                      "transfer-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -805,12 +1230,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PRnet is a flexible and scalable perturbation-conditioned generative model predicting transcriptional responses to unseen complex perturbations at bulk and single-cell levels.",
+                    "homepage": null,
                     "id": 746721413,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-12-13T11:46:53Z",
+                    "open_issues": 18,
                     "owner": "Perturbation-Response-Prediction",
                     "repo": "PRnet",
-                    "stars": 88
+                    "stars": 89,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -821,12 +1251,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Conditional Monge Gap (2026; Nature Machine Intelligence)",
+                    "homepage": "https://ibm.biz/conditional-monge-gap",
                     "id": 777971163,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2026-08-10T14:46:13Z",
+                    "open_issues": 0,
                     "owner": "AI4SCR",
                     "repo": "conditional-monge-gap",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "optimal-transport",
+                      "single-cell"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -837,12 +1275,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Interpretable modeling of cellular responses to drug perturbations using cycle consistence learning",
+                    "homepage": null,
                     "id": 747181032,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-01-24T08:43:04Z",
+                    "open_issues": 0,
                     "owner": "hliulab",
                     "repo": "cycleCDR",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 }
@@ -860,12 +1303,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Deep Learning Toolkit for DTI, Drug Property, PPI, DDI, Protein Function Prediction (Bioinformatics)",
+                    "homepage": "https://doi.org/10.1093/bioinformatics/btaa1005",
                     "id": 248374167,
                     "language": "Jupyter Notebook",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-06-10T00:41:46Z",
+                    "open_issues": 18,
                     "owner": "kexinhuang12345",
                     "repo": "DeepPurpose",
-                    "stars": 1184
+                    "stars": 1184,
+                    "topics": [
+                      "bioinformatics",
+                      "covid19",
+                      "ddi",
+                      "deep-learning",
+                      "drug-discovery",
+                      "drug-drug-interaction",
+                      "drug-property-prediction",
+                      "drug-repurposing",
+                      "drug-target-interaction",
+                      "drug-target-interactions",
+                      "dti-prediction",
+                      "ppi",
+                      "protein-function-prediction",
+                      "protein-protein-interaction",
+                      "qsar",
+                      "repurposing-drugs",
+                      "side-effects",
+                      "toolkit",
+                      "virtual-screening"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -876,12 +1344,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 790082862,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2025-01-21T07:29:03Z",
+                    "open_issues": 19,
                     "owner": "myzhengSIMM",
                     "repo": "TranSiGen",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 }
@@ -899,12 +1372,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GraphDTA: Predicting drug-target binding affinity with graph neural networks",
+                    "homepage": "https://doi.org/10.1093/bioinformatics/btaa921",
                     "id": 191466400,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-04-13T05:13:35Z",
+                    "open_issues": 2,
                     "owner": "thinng",
                     "repo": "GraphDTA",
-                    "stars": 307
+                    "stars": 307,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -915,12 +1393,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code for \"DeepDTA: deep drug-target binding affinity prediction\"",
+                    "homepage": null,
                     "id": 119281466,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-09-22T19:19:45Z",
+                    "open_issues": 5,
                     "owner": "hkmztrk",
                     "repo": "DeepDTA",
-                    "stars": 304
+                    "stars": 304,
+                    "topics": [
+                      "convolutional-neural-networks",
+                      "protein-ligand-interactions"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -931,12 +1417,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MolTrans: Molecular Interaction Transformer for Drug Target Interaction Prediction (Bioinformatics)",
+                    "homepage": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa880/5929692",
                     "id": 280031086,
                     "language": "Jupyter Notebook",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2022-07-15T09:47:19Z",
+                    "open_issues": 4,
                     "owner": "kexinhuang12345",
                     "repo": "MolTrans",
-                    "stars": 242
+                    "stars": 242,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -947,12 +1438,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Network Integration Approach for Drug-Target Interaction Prediction",
+                    "homepage": null,
                     "id": 69422181,
                     "language": "MATLAB",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-10-30T16:57:12Z",
+                    "open_issues": 8,
                     "owner": "luoyunan",
                     "repo": "DTINet",
-                    "stars": 190
+                    "stars": 190,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -963,12 +1459,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Interpretable bilinear attention network with domain adaptation improves drug-target prediction.",
+                    "homepage": null,
                     "id": 519562997,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-02-19T20:16:42Z",
+                    "open_issues": 8,
                     "owner": "peizhenbai",
                     "repo": "DrugBAN",
-                    "stars": 153
+                    "stars": 153,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -979,12 +1480,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NeoDTI: Neural integration of neighbor information from a heterogeneous network for discovering new drug-target interactions",
+                    "homepage": null,
                     "id": 126759614,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-05-13T09:39:35Z",
+                    "open_issues": 3,
                     "owner": "FangpingWan",
                     "repo": "NeoDTI",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": [
+                      "bioinformatics",
+                      "computational-biology",
+                      "deep-learning",
+                      "graph-convolution",
+                      "machine-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 }
@@ -1002,12 +1514,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TransformerCPI: Improving compound–protein interaction prediction by sequence-based deep learning with self-attention mechanism and label reversal experiments(BIOINFORMATICS 2020)  https://doi.org/10.1093/bioinformatics/btaa524",
+                    "homepage": null,
                     "id": 245420580,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-06-30T03:15:58Z",
+                    "open_issues": 1,
                     "owner": "lifanchen-simm",
                     "repo": "transformerCPI",
-                    "stars": 160
+                    "stars": 160,
+                    "topics": [
+                      "compound-protein-interaction",
+                      "drug-discovery",
+                      "drug-target-identification",
+                      "self-attention",
+                      "structure-free-virtual-sreening",
+                      "transformercpi"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -1018,12 +1542,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 151077237,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-08-25T08:38:37Z",
+                    "open_issues": 0,
                     "owner": "mhlee0903",
                     "repo": "multi_channels_PINN",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 }
@@ -1041,12 +1570,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking",
+                    "homepage": "https://arxiv.org/abs/2210.01776",
                     "id": 545595027,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-05-02T13:59:19Z",
+                    "open_issues": 132,
                     "owner": "gcorso",
                     "repo": "DiffDock",
-                    "stars": 1570
+                    "stars": 1570,
+                    "topics": [
+                      "binding",
+                      "computational-biology",
+                      "diffusion-models",
+                      "docking",
+                      "equivariance",
+                      "machine-learning",
+                      "non-euclidean-geometry",
+                      "score-based-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -1057,12 +1600,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Junction Tree Variational Autoencoder for Molecular Graph Generation (ICML 2018)",
+                    "homepage": null,
                     "id": 122777902,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-12-01T17:36:05Z",
+                    "open_issues": 30,
                     "owner": "wengong-jin",
                     "repo": "icml18-jtnn",
-                    "stars": 565
+                    "stars": 565,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -1073,12 +1621,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Euclidean diffusion model for structure-based drug design.",
+                    "homepage": null,
                     "id": 543080472,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-25T14:07:18Z",
+                    "open_issues": 30,
                     "owner": "arneschneuing",
                     "repo": "DiffSBDD",
-                    "stars": 529
+                    "stars": 529,
+                    "topics": [
+                      "ddpm",
+                      "drug-design",
+                      "equivariance",
+                      "generative-model",
+                      "graph-neural-networks",
+                      "machine-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -1089,12 +1649,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 155719302,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-04-18T16:52:27Z",
+                    "open_issues": 3,
                     "owner": "pschwllr",
                     "repo": "MolecularTransformer",
-                    "stars": 429
+                    "stars": 429,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -1105,12 +1670,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 248080601,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-05-24T11:22:03Z",
+                    "open_issues": 1,
                     "owner": "MolecularAI",
                     "repo": "Reinvent",
-                    "stars": 377
+                    "stars": 377,
+                    "topics": [
+                      "astrazeneca",
+                      "cheminformatics",
+                      "denovo-design",
+                      "neural-networks",
+                      "reinforcement-learning",
+                      "transfer-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -1121,12 +1698,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep Reinforcement Learning for de-novo Drug Design",
+                    "homepage": null,
                     "id": 131170808,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2021-12-08T19:49:36Z",
+                    "open_issues": 27,
                     "owner": "isayev",
                     "repo": "ReLeaSE",
-                    "stars": 373
+                    "stars": 373,
+                    "topics": [
+                      "cheminformatics",
+                      "deeplearning",
+                      "drug-discovery",
+                      "molecular-modeling",
+                      "qsar",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -1137,12 +1726,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official implementation of 3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction (ICLR 2023)",
+                    "homepage": null,
                     "id": 608422802,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-01-10T15:18:14Z",
+                    "open_issues": 13,
                     "owner": "guanjq",
                     "repo": "targetdiff",
-                    "stars": 347
+                    "stars": 347,
+                    "topics": [
+                      "ai-for-science",
+                      "diffusion-models",
+                      "drug-design",
+                      "equivariant-networks",
+                      "iclr2023"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -1153,12 +1753,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 365688710,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-07-15T03:27:56Z",
+                    "open_issues": 22,
                     "owner": "devalab",
                     "repo": "molgpt",
-                    "stars": 176
+                    "stars": 176,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -1169,12 +1774,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multi-stage Riemannian flow matching for physically valid molecular docking, with GNINA scoring, PoseBusters filtering, CLI inference, and benchmarks.",
+                    "homepage": null,
                     "id": 1073484574,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-14T07:40:31Z",
+                    "open_issues": 2,
                     "owner": "LigandPro",
                     "repo": "Matcha",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": [
+                      "alphafold3",
+                      "computational-chemistry",
+                      "docking",
+                      "drug-design",
+                      "drug-discovery",
+                      "flowmatching",
+                      "geometric-deep-learning",
+                      "gnina",
+                      "ml",
+                      "molecular-docking",
+                      "posebusters",
+                      "protein-ligand",
+                      "pytorch",
+                      "rdkit"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -1185,12 +1810,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generative models for transcriptomic-driven or protein-driven molecular design (PaccMann^RL).",
+                    "homepage": null,
                     "id": 219584883,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-05-22T20:36:24Z",
+                    "open_issues": 0,
                     "owner": "PaccMann",
                     "repo": "paccmann_generator",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "deep-reinforcement-learning",
+                      "drug-discovery",
+                      "generative-model",
+                      "molecule-generation",
+                      "vae"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 }
@@ -1213,12 +1849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 524871042,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:33:53Z",
+                "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "BioGPT",
-                "stars": 4488
+                "stars": 4488,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:12.684Z"
             },
@@ -1229,12 +1870,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦖 ClawBio - The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Open. Free.",
+                "homepage": "https://clawbio.github.io/ClawBio/",
                 "id": 1166871123,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T08:46:10Z",
+                "open_issues": 30,
                 "owner": "ClawBio",
                 "repo": "ClawBio",
-                "stars": 1120
+                "stars": 1119,
+                "topics": [
+                  "ai-agents",
+                  "bioinformatics",
+                  "equity",
+                  "genomics",
+                  "local-first",
+                  "openclaw",
+                  "population-genetics",
+                  "reproducibility"
+                ]
               },
               "first_seen": "2026-08-28T19:26:12.684Z"
             },
@@ -1245,12 +1900,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and data for GeneGPT.",
+                "homepage": "https://academic.oup.com/bioinformatics/article/40/2/btae075/7606338",
                 "id": 632510141,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-08T01:12:43Z",
+                "open_issues": 0,
                 "owner": "ncbi",
                 "repo": "GeneGPT",
-                "stars": 431
+                "stars": 431,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:12.684Z"
             },
@@ -1261,12 +1921,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 700035498,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-03-18T19:27:27Z",
+                "open_issues": 17,
                 "owner": "yiqunchen",
                 "repo": "GenePT",
-                "stars": 324
+                "stars": 324,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:12.684Z"
             },
@@ -1277,12 +1942,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Associated Repository for \"Translation between Molecules and Natural Language\"",
+                "homepage": null,
                 "id": 485139755,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-09-15T22:05:10Z",
+                "open_issues": 0,
                 "owner": "blender-nlp",
                 "repo": "MolT5",
-                "stars": 196
+                "stars": 196,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:26:12.684Z"
             },
@@ -1293,12 +1963,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM for Drug Editing, ICLR 2024",
+                "homepage": "https://chao1224.github.io/ChatDrug",
                 "id": 642452221,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-28T19:44:44Z",
+                "open_issues": 0,
                 "owner": "chao1224",
                 "repo": "ChatDrug",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "chatgpt",
+                  "chatgpt3",
+                  "conversation",
+                  "domain-feedback",
+                  "drug",
+                  "drug-discovery",
+                  "drug-editing",
+                  "editing",
+                  "llm",
+                  "molecule",
+                  "motif",
+                  "peptide",
+                  "protein",
+                  "retrieval",
+                  "secondary-structure",
+                  "small-molecule",
+                  "structure"
+                ]
               },
               "first_seen": "2026-08-28T19:26:12.684Z"
             },
@@ -1309,12 +2002,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏃 The go-to single-cell Foundation Model",
+                "homepage": "https://cantinilab.github.io/scPRINT/",
                 "id": 839405325,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-11T10:12:46Z",
+                "open_issues": 0,
                 "owner": "cantinilab",
                 "repo": "scPRINT",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "ai",
+                  "batch-correction",
+                  "cell-biology",
+                  "celltype-annotation",
+                  "denoising",
+                  "embeddings",
+                  "foundation-models",
+                  "foundational-datasets",
+                  "gene-regulatory-network",
+                  "large-cell-models",
+                  "large-language-models",
+                  "llms",
+                  "open-source",
+                  "rnaseq",
+                  "single-cell-rna-seq",
+                  "sprint",
+                  "zero-imputation",
+                  "zero-shot-learning"
+                ]
               },
               "first_seen": "2026-08-28T19:26:12.684Z"
             },
@@ -1325,12 +2042,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CASSIA: A Multi-Agent LLM-Based Single-Cell Cell Type Annotation Framework",
+                "homepage": "https://elliotxie.github.io/CASSIA/",
                 "id": 860582551,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-21T18:30:21Z",
+                "open_issues": 3,
                 "owner": "ElliotXie",
                 "repo": "CASSIA",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "ai4science",
+                  "annotation",
+                  "bioinformatics",
+                  "cell-annotation",
+                  "llm",
+                  "multiagent-systems",
+                  "prompt-engineering",
+                  "retrieved-augmented-generation",
+                  "rna-seq",
+                  "single-cell",
+                  "singlecell",
+                  "singlecell-data-analysis",
+                  "singlecellgenomics"
+                ]
               },
               "first_seen": "2026-08-28T19:26:12.684Z"
             }
@@ -1352,12 +2088,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": "https://scgpt.readthedocs.io/en/latest/",
                         "id": 631705933,
                         "language": "Jupyter Notebook",
+                        "license": "MIT",
                         "last_commit": "2026-04-29T17:41:42Z",
+                        "open_issues": 176,
                         "owner": "bowang-lab",
                         "repo": "scGPT",
-                        "stars": 1621
+                        "stars": 1621,
+                        "topics": [
+                          "foundation-model",
+                          "gpt",
+                          "single-cell"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1368,12 +2113,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 649004529,
                         "language": "Jupyter Notebook",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-11-23T08:31:22Z",
+                        "open_issues": 31,
                         "owner": "biomap-research",
                         "repo": "scFoundation",
-                        "stars": 427
+                        "stars": 427,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1384,12 +2134,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "GEARS is a geometric deep learning model that predicts outcomes of novel multi-gene perturbations",
+                        "homepage": null,
                         "id": 429198395,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-02-01T09:35:37Z",
+                        "open_issues": 21,
                         "owner": "snap-stanford",
                         "repo": "GEARS",
-                        "stars": 401
+                        "stars": 401,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1400,12 +2155,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 443328112,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2023-12-13T08:42:37Z",
+                        "open_issues": 26,
                         "owner": "TencentAILabHealthcare",
                         "repo": "scBERT",
-                        "stars": 361
+                        "stars": 361,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1416,12 +2176,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "UCE is a zero-shot foundation model for single-cell gene expression data",
+                        "homepage": null,
                         "id": 697460325,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-07-08T17:49:55Z",
+                        "open_issues": 3,
                         "owner": "snap-stanford",
                         "repo": "UCE",
-                        "stars": 332
+                        "stars": 332,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1432,12 +2197,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 560559633,
                         "language": "Jupyter Notebook",
+                        "license": "MIT",
                         "last_commit": "2024-07-03T02:00:59Z",
+                        "open_issues": 4,
                         "owner": "snap-stanford",
                         "repo": "SATURN",
-                        "stars": 173
+                        "stars": 173,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1448,12 +2218,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official repo for CellPLM: Pre-training of Cell Language Model Beyond Single Cells.",
+                        "homepage": null,
                         "id": 700001503,
                         "language": "Jupyter Notebook",
+                        "license": "BSD-2-Clause",
                         "last_commit": "2024-03-28T20:01:04Z",
+                        "open_issues": 10,
                         "owner": "OmicsML",
                         "repo": "CellPLM",
-                        "stars": 106
+                        "stars": 106,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1464,12 +2239,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "BulkFormer: A large-scale foundation model for human bulk transcriptomes",
+                        "homepage": null,
                         "id": 993564936,
                         "language": "Jupyter Notebook",
+                        "license": "MIT",
                         "last_commit": "2026-07-03T13:52:05Z",
+                        "open_issues": 6,
                         "owner": "KangBoming",
                         "repo": "BulkFormer",
-                        "stars": 79
+                        "stars": 79,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1480,12 +2260,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "CancerFoundation: A single-cell RNA sequencing foundation model to decipher drug resistance in cancer",
+                        "homepage": null,
                         "id": 871630009,
                         "language": "Jupyter Notebook",
+                        "license": "MIT",
                         "last_commit": "2025-09-12T11:51:44Z",
+                        "open_issues": 1,
                         "owner": "BoevaLab",
                         "repo": "CancerFoundation",
-                        "stars": 31
+                        "stars": 31,
+                        "topics": [
+                          "cancer",
+                          "foundation-model",
+                          "single-cell"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     }
@@ -1503,12 +2292,35 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Pathology Foundation Model - Nature Medicine",
+                        "homepage": null,
                         "id": 751712341,
                         "language": "Jupyter Notebook",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-03-26T04:45:41Z",
+                        "open_issues": 32,
                         "owner": "mahmoodlab",
                         "repo": "UNI",
-                        "stars": 769
+                        "stars": 769,
+                        "topics": [
+                          "computational-pathology",
+                          "digital-pathology",
+                          "foundation",
+                          "foundation-model",
+                          "histopathology",
+                          "mahmoodlab",
+                          "mass-100k",
+                          "nature-medicine",
+                          "pathology",
+                          "pathology-dinov2",
+                          "pathology-fm",
+                          "pathology-foundation",
+                          "pathology-foundation-model",
+                          "pathology-self-supervised",
+                          "quantitative-pathology",
+                          "uni",
+                          "uni-foundation-model"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1519,12 +2331,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Prov-GigaPath: A whole-slide foundation model for digital pathology from real-world data",
+                        "homepage": null,
                         "id": 780197597,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-08-07T17:33:17Z",
+                        "open_issues": 74,
                         "owner": "prov-gigapath",
                         "repo": "prov-gigapath",
-                        "stars": 631
+                        "stars": 631,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1535,12 +2352,33 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Vision-Language Pathology Foundation Model - Nature Medicine",
+                        "homepage": null,
                         "id": 737443214,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-03-26T04:44:28Z",
+                        "open_issues": 16,
                         "owner": "mahmoodlab",
                         "repo": "CONCH",
-                        "stars": 526
+                        "stars": 526,
+                        "topics": [
+                          "bioimage-analysis",
+                          "bioimage-informatics",
+                          "computational-pathology",
+                          "conch",
+                          "digital-pathology",
+                          "foundation-model",
+                          "health-informatics",
+                          "histopathology",
+                          "mahmoodlab",
+                          "medical-imaging",
+                          "nature-medicine",
+                          "nlp-machine-learning",
+                          "pathology",
+                          "quantitative-pathology",
+                          "vision-language-pathology"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1551,12 +2389,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Repository for Nicheformer: a foundation model for single-cell and spatial omics",
+                        "homepage": null,
                         "id": 786971640,
                         "language": "Jupyter Notebook",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2025-11-23T13:38:26Z",
+                        "open_issues": 24,
                         "owner": "theislab",
                         "repo": "nicheformer",
-                        "stars": 170
+                        "stars": 170,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1567,12 +2410,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 926840334,
                         "language": "Jupyter Notebook",
+                        "license": "MIT",
                         "last_commit": "2025-02-13T03:54:12Z",
+                        "open_issues": 11,
                         "owner": "bowang-lab",
                         "repo": "scGPT-spatial",
-                        "stars": 143
+                        "stars": 143,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1583,12 +2431,34 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "DeepSpot: Deep learning model for predicting spatial transcriptomics from H&E histopathology images. Supports spot-level (Visium) and single-cell (Xenium) resolution.",
+                        "homepage": "https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3",
                         "id": 861854293,
                         "language": "Jupyter Notebook",
+                        "license": "MIT",
                         "last_commit": "2026-08-17T06:10:04Z",
+                        "open_issues": 0,
                         "owner": "ratschlab",
                         "repo": "DeepSpot",
-                        "stars": 95
+                        "stars": 95,
+                        "topics": [
+                          "bioinformatics",
+                          "cancer-research",
+                          "computational-pathology",
+                          "deep-learning",
+                          "digital-pathology",
+                          "foundation-models",
+                          "gene-expression",
+                          "histopathology",
+                          "machine-learning",
+                          "pathology",
+                          "pytorch",
+                          "single-cell",
+                          "spatial-biology",
+                          "spatial-transcriptomics",
+                          "visium",
+                          "xenium"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1599,12 +2469,36 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Multimodal foundation model predicting transcriptome-wide virtual spatial transcriptomics from histology.",
+                        "homepage": "https://doi.org/10.64898/2026.06.19.26356060 ",
                         "id": 1268116731,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-08-12T09:28:44Z",
+                        "open_issues": 1,
                         "owner": "ratschlab",
                         "repo": "DeepSpotM",
-                        "stars": 41
+                        "stars": 44,
+                        "topics": [
+                          "bioinformatics",
+                          "cancer",
+                          "computational-pathology",
+                          "deep-learning",
+                          "digital-pathology",
+                          "foundation-model",
+                          "gene-expression",
+                          "he-staining",
+                          "histology",
+                          "hugging-face",
+                          "medical-imaging",
+                          "multimodal",
+                          "oncology",
+                          "pytorch",
+                          "spatial-transcriptomics",
+                          "transcriptomics",
+                          "virtual-spatial-transcriptomics",
+                          "whole-slide-imaging"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1615,12 +2509,31 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "AESTETIK: Convolutional autoencoder for learning spot representations from spatial transcriptomics and morphology data",
+                        "homepage": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag316/8692433",
                         "id": 757518853,
                         "language": "Jupyter Notebook",
+                        "license": "MIT",
                         "last_commit": "2026-08-18T11:22:27Z",
+                        "open_issues": 0,
                         "owner": "ratschlab",
                         "repo": "aestetik",
-                        "stars": 26
+                        "stars": 26,
+                        "topics": [
+                          "autoencoder",
+                          "bioinformatics",
+                          "computational-pathology",
+                          "deep-learning",
+                          "digital-pathology",
+                          "histopathology",
+                          "machine-learning",
+                          "multimodal",
+                          "pytorch",
+                          "representation-learning",
+                          "single-cell",
+                          "spatial-biology",
+                          "spatial-transcriptomics"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1631,12 +2544,31 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "DeepSpot2Cell: Predicting virtual single-cell spatial transcriptomics from H&E images using spot-level supervision",
+                        "homepage": "https://www.biorxiv.org/content/10.1101/2025.09.23.678121v3",
                         "id": 1075947904,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-08-17T06:07:52Z",
+                        "open_issues": 0,
                         "owner": "ratschlab",
                         "repo": "DeepSpot2Cell",
-                        "stars": 18
+                        "stars": 18,
+                        "topics": [
+                          "bioinformatics",
+                          "cell-segmentation",
+                          "computational-pathology",
+                          "deconvolution",
+                          "deep-learning",
+                          "digital-pathology",
+                          "foundation-models",
+                          "gene-expression",
+                          "histopathology",
+                          "pytorch",
+                          "single-cell",
+                          "spatial-biology",
+                          "spatial-transcriptomics"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     }
@@ -1654,12 +2586,28 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Deep probabilistic analysis of single-cell and spatial omics data",
+                        "homepage": "http://scvi-tools.org/",
                         "id": 102567256,
                         "language": "Python",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2026-08-25T14:35:41Z",
+                        "open_issues": 22,
                         "owner": "scverse",
                         "repo": "scvi-tools",
-                        "stars": 1683
+                        "stars": 1683,
+                        "topics": [
+                          "cite-seq",
+                          "deep-generative-model",
+                          "deep-learning",
+                          "human-cell-atlas",
+                          "scrna-seq",
+                          "scverse",
+                          "single-cell-genomics",
+                          "single-cell-rna-seq",
+                          "variational-autoencoder",
+                          "variational-bayes"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1670,12 +2618,28 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Deep probabilistic analysis of single-cell and spatial omics data",
+                        "homepage": "http://scvi-tools.org/",
                         "id": 102567256,
                         "language": "Python",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2026-08-25T14:35:41Z",
+                        "open_issues": 22,
                         "owner": "scverse",
                         "repo": "scvi-tools",
-                        "stars": 1683
+                        "stars": 1683,
+                        "topics": [
+                          "cite-seq",
+                          "deep-generative-model",
+                          "deep-learning",
+                          "human-cell-atlas",
+                          "scrna-seq",
+                          "scverse",
+                          "single-cell-genomics",
+                          "single-cell-rna-seq",
+                          "variational-autoencoder",
+                          "variational-bayes"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1686,12 +2650,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Graph-linked unified embedding for single-cell multi-omics data integration",
+                        "homepage": null,
                         "id": 398781299,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-02-09T00:27:33Z",
+                        "open_issues": 24,
                         "owner": "gao-lab",
                         "repo": "GLUE",
-                        "stars": 477
+                        "stars": 477,
+                        "topics": [
+                          "bioinformatics",
+                          "deep-learning",
+                          "single-cell",
+                          "single-cell-multiomics"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1702,12 +2676,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Multi-Omics Factor Analysis",
+                        "homepage": "https://biofam.github.io/MOFA2/",
                         "id": 105765144,
                         "language": "R",
+                        "license": "LGPL-3.0",
                         "last_commit": "2026-08-26T14:57:34Z",
+                        "open_issues": 66,
                         "owner": "bioFAM",
                         "repo": "MOFA2",
-                        "stars": 420
+                        "stars": 420,
+                        "topics": [
+                          "factor-analysis",
+                          "mofa",
+                          "multi-omics"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1718,12 +2701,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "GeneCompass",
+                        "homepage": "https://xcompass-ai.github.io/GeneCompass/",
                         "id": 692021074,
                         "language": "Jupyter Notebook",
+                        "license": null,
                         "last_commit": "2026-02-10T07:02:09Z",
+                        "open_issues": 20,
                         "owner": "xCompass-AI",
                         "repo": "GeneCompass",
-                        "stars": 122
+                        "stars": 122,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1734,12 +2722,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "PyTorch implementation of the MIDAS algorithm for single-cell multimodal data integration (Nature Biotechnology 2024).",
+                        "homepage": null,
                         "id": 741372854,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-05-10T05:02:30Z",
+                        "open_issues": 0,
                         "owner": "labomics",
                         "repo": "midas",
-                        "stars": 72
+                        "stars": 72,
+                        "topics": [
+                          "deep-generative-model",
+                          "deep-learning",
+                          "single-cell-data-integration",
+                          "single-cell-multiomics"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1750,12 +2748,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Python package for analysis of multiomic single cell RNA-seq and ATAC-seq.",
+                        "homepage": null,
                         "id": 417525270,
                         "language": "HTML",
+                        "license": null,
                         "last_commit": "2025-07-08T02:44:05Z",
+                        "open_issues": 23,
                         "owner": "cistrome",
                         "repo": "MIRA",
-                        "stars": 70
+                        "stars": 70,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1766,12 +2769,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Repository for paper scMulan: a multitask generative pre-trained language model for single-cell analysis.",
+                        "homepage": null,
                         "id": 715997702,
                         "language": "Jupyter Notebook",
+                        "license": "MIT",
                         "last_commit": "2024-05-30T02:54:51Z",
+                        "open_issues": 13,
                         "owner": "SuperBianC",
                         "repo": "scMulan",
-                        "stars": 63
+                        "stars": 63,
+                        "topics": [
+                          "foundation-models",
+                          "gpt",
+                          "single-cell"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1782,12 +2794,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Deep learning model for single-cell inference of multi-omic profiles from a single input modality.",
+                        "homepage": "https://www.pnas.org/content/118/15/e2023070118",
                         "id": 303775141,
                         "language": "Jupyter Notebook",
+                        "license": null,
                         "last_commit": "2023-07-17T02:11:11Z",
+                        "open_issues": 8,
                         "owner": "wukevin",
                         "repo": "babel",
-                        "stars": 53
+                        "stars": 53,
+                        "topics": [
+                          "deep-neural-networks",
+                          "multi-omics",
+                          "scatac-seq",
+                          "scrna-seq",
+                          "single-cell"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1798,12 +2821,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 582745024,
                         "language": "Jupyter Notebook",
+                        "license": "GPL-3.0",
                         "last_commit": "2024-03-31T00:28:41Z",
+                        "open_issues": 5,
                         "owner": "LiuLab-Bioelectronics-Harvard",
                         "repo": "UnitedNet",
-                        "stars": 53
+                        "stars": 53,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1814,12 +2842,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 419722815,
                         "language": "Jupyter Notebook",
+                        "license": "GPL-3.0",
                         "last_commit": "2022-12-29T02:22:52Z",
+                        "open_issues": 2,
                         "owner": "melobio",
                         "repo": "Concerto-reproducibility",
-                        "stars": 41
+                        "stars": 41,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1830,12 +2863,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Multigrate: multiomic data integration for single-cell genomics",
+                        "homepage": "https://multigrate.rtfd.io/",
                         "id": 478055865,
                         "language": "Python",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2026-08-24T19:57:06Z",
+                        "open_issues": 4,
                         "owner": "theislab",
                         "repo": "multigrate",
-                        "stars": 35
+                        "stars": 35,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1846,12 +2884,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A versatile single-cell cross-modality translation method via dual-aligned variational autoencoders",
+                        "homepage": null,
                         "id": 691492319,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-07-01T00:36:06Z",
+                        "open_issues": 10,
                         "owner": "BioX-NKU",
                         "repo": "scButterfly",
-                        "stars": 30
+                        "stars": 30,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1862,12 +2905,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official implementation of JAMIE, Joint variational Autoencoders for Multimodal Imputation and Embedding",
+                        "homepage": "https://doi.org/10.1038/s42256-023-00663-z",
                         "id": 414000510,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2025-09-11T13:54:31Z",
+                        "open_issues": 0,
                         "owner": "Oafish1",
                         "repo": "JAMIE",
-                        "stars": 17
+                        "stars": 17,
+                        "topics": [
+                          "autoencoder",
+                          "imputation",
+                          "integration",
+                          "multimodal",
+                          "variational",
+                          "variational-autoencoder"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1878,12 +2933,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "scPair: Boosting single cell multimodal analysis by leveraging single cell atlases and implicit feature selection",
+                        "homepage": "https://www.nature.com/articles/s41467-024-53971-2",
                         "id": 684201494,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-09-08T07:03:52Z",
+                        "open_issues": 1,
                         "owner": "quon-titative-biology",
                         "repo": "scPair",
-                        "stars": 11
+                        "stars": 11,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     }
@@ -1901,12 +2961,28 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Reference mapping for single-cell genomics",
+                        "homepage": "https://docs.scarches.org/en/latest/",
                         "id": 201998885,
                         "language": "Jupyter Notebook",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2026-06-26T11:25:32Z",
+                        "open_issues": 67,
                         "owner": "theislab",
                         "repo": "scarches",
-                        "stars": 407
+                        "stars": 407,
+                        "topics": [
+                          "batch-correction",
+                          "data-integration",
+                          "deep-learning",
+                          "human-cell-atlas",
+                          "multimodal-deep-learning",
+                          "multiomics",
+                          "rna-seq-analysis",
+                          "scrna-seq",
+                          "single-cell",
+                          "single-cell-genomics"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     }
@@ -1931,12 +3007,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official Repository for the Uni-Mol Series Methods",
+                        "homepage": null,
                         "id": 495067397,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-05-29T07:41:36Z",
+                        "open_issues": 113,
                         "owner": "deepmodeling",
                         "repo": "Uni-Mol",
-                        "stars": 1156
+                        "stars": 1156,
+                        "topics": [
+                          "deep-learning",
+                          "molecular-modeling",
+                          "pre-trained-model",
+                          "pretraining"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1947,12 +3033,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "bert-loves-chemistry: a repository of HuggingFace models applied on chemical SMILES data for drug design, chemical modelling, etc.",
+                        "homepage": null,
                         "id": 252310686,
                         "language": "Jupyter Notebook",
+                        "license": "MIT",
                         "last_commit": "2024-10-27T22:58:10Z",
+                        "open_issues": 10,
                         "owner": "seyonechithrananda",
                         "repo": "bert-loves-chemistry",
-                        "stars": 501
+                        "stars": 501,
+                        "topics": [
+                          "bert",
+                          "chemical-modelling",
+                          "chemical-smiles-data",
+                          "huggingface"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1963,12 +3059,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Repository for MolFormer",
+                        "homepage": null,
                         "id": 563024131,
                         "language": "Jupyter Notebook",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-09-17T23:33:44Z",
+                        "open_issues": 15,
                         "owner": "IBM",
                         "repo": "molformer",
-                        "stars": 409
+                        "stars": 409,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1979,12 +3080,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "This is a Pytorch implementation of the paper: Self-Supervised Graph Transformer on Large-Scale Molecular Data",
+                        "homepage": null,
                         "id": 330585003,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-02-25T06:11:20Z",
+                        "open_issues": 19,
                         "owner": "tencent-ailab",
                         "repo": "grover",
-                        "stars": 394
+                        "stars": 394,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -1995,12 +3101,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Mol2vec - an unsupervised machine learning approach to learn vector representations of molecular substructures",
+                        "homepage": null,
                         "id": 110900966,
                         "language": "Python",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2022-09-19T13:40:41Z",
+                        "open_issues": 5,
                         "owner": "samoturk",
                         "repo": "mol2vec",
-                        "stars": 293
+                        "stars": 293,
+                        "topics": [
+                          "cheminformatics",
+                          "machine-learning",
+                          "python"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     }
@@ -2025,12 +3140,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
+                        "homepage": null,
                         "id": 291783502,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-02-07T03:31:38Z",
+                        "open_issues": 115,
                         "owner": "facebookresearch",
                         "repo": "esm",
-                        "stars": 4170
+                        "stars": 4171,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -2041,12 +3161,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "ProtTrans is providing state of the art pretrained language models for proteins. ProtTrans was trained on thousands of GPUs from Summit and hundreds of Google TPUs using Transformers Models.",
+                        "homepage": null,
                         "id": 263028569,
                         "language": "Jupyter Notebook",
+                        "license": "MIT",
                         "last_commit": "2025-05-22T08:47:16Z",
+                        "open_issues": 21,
                         "owner": "agemagician",
                         "repo": "ProtTrans",
-                        "stars": 1324
+                        "stars": 1324,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -2057,12 +3182,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official release of the ProGen models",
+                        "homepage": null,
                         "id": 493025361,
                         "language": "Python",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2026-06-02T18:14:16Z",
+                        "open_issues": 40,
                         "owner": "salesforce",
                         "repo": "progen",
-                        "stars": 705
+                        "stars": 705,
+                        "topics": [
+                          "generative-model",
+                          "language-model",
+                          "protein"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -2073,12 +3207,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Ankh: Optimized Protein Language Model",
+                        "homepage": null,
                         "id": 558533231,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-06-16T14:19:35Z",
+                        "open_issues": 11,
                         "owner": "agemagician",
                         "repo": "Ankh",
-                        "stars": 250
+                        "stars": 250,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     }
@@ -2096,12 +3235,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "AlphaFold 3 inference pipeline.",
+                        "homepage": null,
                         "id": 886637886,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-08-19T15:43:52Z",
+                        "open_issues": 17,
                         "owner": "google-deepmind",
                         "repo": "alphafold3",
-                        "stars": 8500
+                        "stars": 8500,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -2112,12 +3256,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official repository for the Boltz biomolecular interaction models",
+                        "homepage": null,
                         "id": 889915078,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-05-29T08:20:25Z",
+                        "open_issues": 152,
                         "owner": "jwohlwend",
                         "repo": "boltz",
-                        "stars": 4184
+                        "stars": 4185,
+                        "topics": [
+                          "binding-prediction",
+                          "drug-discovery",
+                          "protein-structure"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -2128,12 +3281,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
+                        "homepage": null,
                         "id": 291783502,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-02-07T03:31:38Z",
+                        "open_issues": 115,
                         "owner": "facebookresearch",
                         "repo": "esm",
-                        "stars": 4170
+                        "stars": 4171,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -2144,12 +3302,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2",
+                        "homepage": null,
                         "id": 406555580,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-12-16T09:41:53Z",
+                        "open_issues": 245,
                         "owner": "aqlaboratory",
                         "repo": "openfold",
-                        "stars": 3420
+                        "stars": 3420,
+                        "topics": [
+                          "alphafold2",
+                          "protein-structure",
+                          "pytorch"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -2160,12 +3327,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Code for running RFdiffusion",
+                        "homepage": null,
                         "id": 620471484,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-07-15T18:08:01Z",
+                        "open_issues": 244,
                         "owner": "RosettaCommons",
                         "repo": "RFdiffusion",
-                        "stars": 3028
+                        "stars": 3028,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -2176,12 +3348,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 819771555,
                         "language": "Jupyter Notebook",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-08-27T21:41:06Z",
+                        "open_issues": 74,
                         "owner": "Biohub",
                         "repo": "esm",
-                        "stars": 2929
+                        "stars": 2931,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -2192,12 +3369,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "This package contains deep learning models and related scripts for RoseTTAFold",
+                        "homepage": null,
                         "id": 381498685,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-02-15T15:28:32Z",
+                        "open_issues": 99,
                         "owner": "RosettaCommons",
                         "repo": "RoseTTAFold",
-                        "stars": 2258
+                        "stars": 2258,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -2208,12 +3390,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Chai-1, SOTA model for biomolecular structure prediction",
+                        "homepage": "https://www.chaidiscovery.com",
                         "id": 854372212,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-06-30T07:48:29Z",
+                        "open_issues": 93,
                         "owner": "chaidiscovery",
                         "repo": "chai-lab",
-                        "stars": 1987
+                        "stars": 1987,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -2224,12 +3411,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Code for the ProteinMPNN paper",
+                        "homepage": null,
                         "id": 496457253,
                         "language": "Jupyter Notebook",
+                        "license": "MIT",
                         "last_commit": "2024-08-14T02:57:30Z",
+                        "open_issues": 88,
                         "owner": "dauparas",
                         "repo": "ProteinMPNN",
-                        "stars": 1835
+                        "stars": 1835,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -2240,12 +3432,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Generation of protein sequences and evolutionary alignments via discrete diffusion models",
+                        "homepage": null,
                         "id": 500969679,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-01-15T21:54:06Z",
+                        "open_issues": 14,
                         "owner": "microsoft",
                         "repo": "evodiff",
-                        "stars": 682
+                        "stars": 682,
+                        "topics": [
+                          "discrete-diffusion",
+                          "generative-model",
+                          "multiple-sequence-alignment",
+                          "protein-sequences"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -2256,12 +3458,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "OmegaFold Release Code",
+                        "homepage": null,
                         "id": 516457982,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2022-12-12T14:47:33Z",
+                        "open_issues": 49,
                         "owner": "HeliXonProtein",
                         "repo": "OmegaFold",
-                        "stars": 627
+                        "stars": 627,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     }
@@ -2284,12 +3491,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Clinical Histopathology Imaging Evaluation Foundation Model",
+                    "homepage": null,
                     "id": 706390767,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-01-08T04:58:12Z",
+                    "open_issues": 49,
                     "owner": "hms-dbmi",
                     "repo": "CHIEF",
-                    "stars": 721
+                    "stars": 721,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -2300,12 +3512,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pathology Language and Image Pre-Training (PLIP) is the first vision and language foundation model for Pathology AI (Nature Medicine). PLIP is a large-scale pre-trained model that can be used to extract visual and language features from pathology images and text description. The model is a fine-tuned version of the original CLIP model.",
+                    "homepage": null,
                     "id": 602218185,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-09-20T03:39:03Z",
+                    "open_issues": 6,
                     "owner": "PathologyFoundation",
                     "repo": "plip",
-                    "stars": 382
+                    "stars": 382,
+                    "topics": [
+                      "artificial-intelligence",
+                      "clip",
+                      "pathology",
+                      "vision-and-language"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -2316,12 +3538,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fusing Histology and Genomics via Deep Learning - IEEE TMI",
+                    "homepage": "http://www.mahmoodlab.org",
                     "id": 227980102,
                     "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-08-22T03:55:00Z",
+                    "open_issues": 10,
                     "owner": "mahmoodlab",
                     "repo": "PathomicFusion",
-                    "stars": 327
+                    "stars": 327,
+                    "topics": [
+                      "computational-pathogenomics",
+                      "fusion",
+                      "genomics",
+                      "histopathology",
+                      "mahmoodlab",
+                      "multimodal",
+                      "multimodal-network",
+                      "pathology",
+                      "pathomic",
+                      "transcriptomics"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -2332,12 +3570,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pan-Cancer Integrative Histology-Genomic Analysis via Multimodal Deep Learning - Cancer Cell",
+                    "homepage": "http://pancancer.mahmoodlab.org",
                     "id": 331128469,
                     "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-02-07T03:55:21Z",
+                    "open_issues": 8,
                     "owner": "mahmoodlab",
                     "repo": "PORPOISE",
-                    "stars": 250
+                    "stars": 250,
+                    "topics": [
+                      "genomics",
+                      "histology",
+                      "mahmoodlab",
+                      "pan-cancer-analysis",
+                      "wsi-images"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -2348,12 +3597,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 806308054,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-10-26T22:00:17Z",
+                    "open_issues": 4,
                     "owner": "lilab-stanford",
                     "repo": "MUSK",
-                    "stars": 243
+                    "stars": 243,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -2364,12 +3618,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AI-based pathology predicts origins for cancers of unknown primary - Nature",
+                    "homepage": "http://toad.mahmoodlab.org",
                     "id": 273431072,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2021-11-01T09:55:07Z",
+                    "open_issues": 8,
                     "owner": "mahmoodlab",
                     "repo": "TOAD",
-                    "stars": 186
+                    "stars": 186,
+                    "topics": [
+                      "bioimage-analysis",
+                      "bioimage-informatics",
+                      "cancer-detection",
+                      "cancer-imaging-research",
+                      "cancer-research",
+                      "cup",
+                      "deep",
+                      "deep-learning",
+                      "histology",
+                      "histopathology",
+                      "mahmoodlab",
+                      "pathology",
+                      "toad",
+                      "unknown-primary",
+                      "wsi-images"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 }
@@ -2387,12 +3662,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+                    "homepage": null,
                     "id": 165826654,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-17T13:51:27Z",
+                    "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15170
+                    "stars": 15173,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -2403,12 +3683,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Biological foundation modeling from molecular to genome scale",
+                    "homepage": null,
                     "id": 759144653,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-20T20:58:37Z",
+                    "open_issues": 41,
                     "owner": "evo-design",
                     "repo": "evo",
-                    "stars": 1561
+                    "stars": 1561,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -2419,12 +3704,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Foundation Models for Genomics & Transcriptomics",
+                    "homepage": null,
                     "id": 592851523,
                     "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-24T21:37:51Z",
+                    "open_issues": 13,
                     "owner": "instadeepai",
                     "repo": "nucleotide-transformer",
-                    "stars": 912
+                    "stars": 912,
+                    "topics": [
+                      "biology",
+                      "deep-learning",
+                      "dna",
+                      "foundation-models",
+                      "genomics",
+                      "transcriptomics",
+                      "transformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -2435,12 +3733,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation for HyenaDNA, a long-range genomic foundation model built with Hyena",
+                    "homepage": "https://arxiv.org/abs/2306.15794",
                     "id": 657810085,
                     "language": "Assembly",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-04-22T19:15:50Z",
+                    "open_issues": 38,
                     "owner": "HazyResearch",
                     "repo": "hyena-dna",
-                    "stars": 807
+                    "stars": 807,
+                    "topics": [
+                      "foundation-models",
+                      "genomics",
+                      "language-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -2451,12 +3758,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome",
+                    "homepage": "https://doi.org/10.1093/bioinformatics/btab083",
                     "id": 271571046,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-22T20:30:14Z",
+                    "open_issues": 73,
                     "owner": "jerryji1993",
                     "repo": "DNABERT",
-                    "stars": 777
+                    "stars": 777,
+                    "topics": [
+                      "deep-learning",
+                      "dnabert-model",
+                      "genome",
+                      "gpu",
+                      "kmer",
+                      "kmer-format",
+                      "machine-learning",
+                      "natural-language-processing",
+                      "nlp",
+                      "sequence"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -2467,12 +3790,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2024] DNABERT-2: Efficient Foundation Model and Benchmark for Multi-Species Genome",
+                    "homepage": null,
                     "id": 657481315,
                     "language": "Shell",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-01T02:34:12Z",
+                    "open_issues": 52,
                     "owner": "MAGICS-LAB",
                     "repo": "DNABERT_2",
-                    "stars": 512
+                    "stars": 512,
+                    "topics": [
+                      "covid",
+                      "dataset",
+                      "dna",
+                      "dna-processing",
+                      "dna-training",
+                      "genome",
+                      "genome-analysis",
+                      "language-model",
+                      "promoter",
+                      "promoter-analysis",
+                      "promoters",
+                      "splice",
+                      "splice-site",
+                      "transcription-factor-binding",
+                      "transcription-factor-binding-site",
+                      "transcription-factors"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -2483,12 +3828,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sequential regulatory activity predictions with deep convolutional neural networks.",
+                    "homepage": null,
                     "id": 96346574,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-15T23:47:20Z",
+                    "open_issues": 87,
                     "owner": "calico",
                     "repo": "basenji",
-                    "stars": 474
+                    "stars": 474,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -2499,12 +3849,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Genomic Pretrained Network - GPN, GPN-MSA, PhyloGPN, GPN-Star",
+                    "homepage": "https://gpn.readthedocs.io",
                     "id": 462508804,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T03:35:55Z",
+                    "open_issues": 7,
                     "owner": "songlab-cal",
                     "repo": "gpn",
-                    "stars": 353
+                    "stars": 353,
+                    "topics": [
+                      "dna",
+                      "genomics",
+                      "language-model",
+                      "variant-effect-prediction"
+                    ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -2515,12 +3875,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RNA-seq prediction with deep convolutional neural networks.",
+                    "homepage": null,
                     "id": 684740365,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-08-28T17:25:24Z",
+                    "open_issues": 13,
                     "owner": "calico",
                     "repo": "borzoi",
-                    "stars": 261
+                    "stars": 261,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -2531,12 +3896,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bi-Directional Equivariant Long-Range DNA Sequence Modeling",
+                    "homepage": null,
                     "id": 763575757,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-18T20:09:28Z",
+                    "open_issues": 10,
                     "owner": "kuleshov-group",
                     "repo": "caduceus",
-                    "stars": 251
+                    "stars": 251,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 },
@@ -2547,12 +3917,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "code to run sei and obtain sei and sequence class predictions",
+                    "homepage": null,
                     "id": 351861416,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-12-20T18:40:14Z",
+                    "open_issues": 13,
                     "owner": "FunctionLab",
                     "repo": "sei-framework",
-                    "stars": 117
+                    "stars": 117,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
                 }
@@ -2571,15 +3946,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:26:12.684Z",
+    "last_updated": "2026-08-29T04:53:09.681Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of computational biology.",
+      "homepage": null,
       "id": 459787963,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-17T03:20:25Z",
+      "open_issues": 2,
       "owner": "inoue0426",
       "repo": "awesome-computational-biology",
-      "stars": 153
+      "stars": 153,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "computational-biology",
+        "drug-discovery",
+        "drug-repurposing",
+        "machine-learning"
+      ]
     },
     "original_repository_sha": "dd96b38e5775c672020b9372e78dfa8e8b8ecdb6",
     "enhanced_repository": "enhansome/enhansome-computational-biology",
