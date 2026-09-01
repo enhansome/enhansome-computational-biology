@@ -226,7 +226,7 @@
             "open_issues": 32,
             "owner": "OATML-Markslab",
             "repo": "ProteinGym",
-            "stars": 468,
+            "stars": 469,
             "topics": [
               "benchmark",
               "computational-biology",
@@ -270,7 +270,7 @@
             "id": 552371375,
             "language": "Shell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-24T18:22:34Z",
+            "last_commit": "2026-08-31T18:31:58Z",
             "open_issues": 26,
             "owner": "jump-cellpainting",
             "repo": "datasets",
@@ -416,7 +416,7 @@
             "open_issues": 1169,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 6969,
+            "stars": 6971,
             "topics": [
               "biology",
               "deep-learning",
@@ -440,7 +440,7 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-30T02:56:36Z",
+            "last_commit": "2026-09-01T02:59:38Z",
             "open_issues": 75,
             "owner": "rdkit",
             "repo": "rdkit",
@@ -470,7 +470,7 @@
             "open_issues": 1006,
             "owner": "alexdobin",
             "repo": "STAR",
-            "stars": 2242,
+            "stars": 2243,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
@@ -514,7 +514,7 @@
             "language": "R",
             "license": "NOASSERTION",
             "last_commit": "2026-06-05T17:44:33Z",
-            "open_issues": 84,
+            "open_issues": 87,
             "owner": "immunogenomics",
             "repo": "harmony",
             "stars": 669,
@@ -543,7 +543,7 @@
             "open_issues": 10,
             "owner": "cdk",
             "repo": "cdk",
-            "stars": 604,
+            "stars": 605,
             "topics": [
               "bioinformatics",
               "blueobelisk",
@@ -592,7 +592,7 @@
             "open_issues": 82,
             "owner": "theislab",
             "repo": "scvelo",
-            "stars": 509,
+            "stars": 510,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
@@ -690,7 +690,7 @@
             "id": 559861395,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-24T17:01:44Z",
+            "last_commit": "2026-08-31T17:05:31Z",
             "open_issues": 17,
             "owner": "CSOgroup",
             "repo": "cellcharter",
@@ -940,7 +940,7 @@
         {
           "node_type": "item",
           "title": "DeepTalk",
-          "description": "Graph attention network for deciphering cell-cell communication from spatial transcriptomics data.",
+          "description": "Graph attention network for deciphering cell-cell communication from spatial transcriptomics.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1353,7 +1353,7 @@
                     "open_issues": 19,
                     "owner": "myzhengSIMM",
                     "repo": "TranSiGen",
-                    "stars": 37,
+                    "stars": 38,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
@@ -1579,7 +1579,7 @@
                     "open_issues": 132,
                     "owner": "gcorso",
                     "repo": "DiffDock",
-                    "stars": 1571,
+                    "stars": 1570,
                     "topics": [
                       "binding",
                       "computational-biology",
@@ -1844,6 +1844,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "NbBayesLM",
+              "description": "Bayesian neural network integrating protein language model embeddings and physicochemical features to predict nanobody thermostability with uncertainty estimates. Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Uncertainity aware Bayesian Prediction of Nanobody Thermostability Using Protein Language Models",
+                "homepage": null,
+                "id": 1063448266,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-31T16:15:10Z",
+                "open_issues": 0,
+                "owner": "FairuzShadmaniShishir",
+                "repo": "NbBayesLM",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-09-01T12:34:10.859Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Protein Property Prediction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "BioGPT",
               "description": "LLM for biomedical text generation.",
               "children": [],
@@ -1875,7 +1903,7 @@
                 "id": 1166871123,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T08:47:10Z",
+                "last_commit": "2026-09-01T08:46:03Z",
                 "open_issues": 22,
                 "owner": "ClawBio",
                 "repo": "ClawBio",
@@ -2227,7 +2255,7 @@
                         "open_issues": 10,
                         "owner": "OmicsML",
                         "repo": "CellPLM",
-                        "stars": 106,
+                        "stars": 105,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -2440,7 +2468,7 @@
                         "open_issues": 0,
                         "owner": "ratschlab",
                         "repo": "DeepSpot",
-                        "stars": 95,
+                        "stars": 96,
                         "topics": [
                           "bioinformatics",
                           "cancer-research",
@@ -2475,10 +2503,10 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-08-12T09:28:44Z",
-                        "open_issues": 1,
+                        "open_issues": 2,
                         "owner": "ratschlab",
                         "repo": "DeepSpotM",
-                        "stars": 48,
+                        "stars": 49,
                         "topics": [
                           "bioinformatics",
                           "cancer",
@@ -2591,11 +2619,11 @@
                         "id": 102567256,
                         "language": "Python",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-08-25T14:35:41Z",
+                        "last_commit": "2026-09-01T08:57:49Z",
                         "open_issues": 23,
                         "owner": "scverse",
                         "repo": "scvi-tools",
-                        "stars": 1685,
+                        "stars": 1684,
                         "topics": [
                           "cite-seq",
                           "deep-generative-model",
@@ -2623,11 +2651,11 @@
                         "id": 102567256,
                         "language": "Python",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-08-25T14:35:41Z",
+                        "last_commit": "2026-09-01T08:57:49Z",
                         "open_issues": 23,
                         "owner": "scverse",
                         "repo": "scvi-tools",
-                        "stars": 1685,
+                        "stars": 1684,
                         "topics": [
                           "cite-seq",
                           "deep-generative-model",
@@ -2718,7 +2746,7 @@
                     {
                       "node_type": "item",
                       "title": "MIDAS",
-                      "description": "Mosaic integration and differential accessibility model for single-cell multi-omics data that handles arbitrary missing-modality combinations across transcriptomics, chromatin accessibility, and proteomics.",
+                      "description": "Mosaic integration and differential accessibility model for single-cell multi-omics that handles arbitrary missing-modality combinations across transcriptomics, chromatin accessibility, and proteomics.",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2868,7 +2896,7 @@
                         "id": 478055865,
                         "language": "Python",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-08-24T19:57:06Z",
+                        "last_commit": "2026-08-31T20:07:32Z",
                         "open_issues": 4,
                         "owner": "theislab",
                         "repo": "multigrate",
@@ -3244,7 +3272,7 @@
                         "open_issues": 18,
                         "owner": "google-deepmind",
                         "repo": "alphafold3",
-                        "stars": 8509,
+                        "stars": 8508,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3262,10 +3290,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-05-29T08:20:25Z",
-                        "open_issues": 152,
+                        "open_issues": 151,
                         "owner": "jwohlwend",
                         "repo": "boltz",
-                        "stars": 4188,
+                        "stars": 4192,
                         "topics": [
                           "binding-prediction",
                           "drug-discovery",
@@ -3311,7 +3339,7 @@
                         "open_issues": 245,
                         "owner": "aqlaboratory",
                         "repo": "openfold",
-                        "stars": 3421,
+                        "stars": 3422,
                         "topics": [
                           "alphafold2",
                           "protein-structure",
@@ -3336,7 +3364,7 @@
                         "open_issues": 245,
                         "owner": "RosettaCommons",
                         "repo": "RFdiffusion",
-                        "stars": 3030,
+                        "stars": 3034,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3354,10 +3382,10 @@
                         "language": "Jupyter Notebook",
                         "license": "NOASSERTION",
                         "last_commit": "2026-08-27T21:41:06Z",
-                        "open_issues": 74,
+                        "open_issues": 73,
                         "owner": "Biohub",
                         "repo": "esm",
-                        "stars": 2935,
+                        "stars": 2939,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3378,7 +3406,7 @@
                         "open_issues": 99,
                         "owner": "RosettaCommons",
                         "repo": "RoseTTAFold",
-                        "stars": 2258,
+                        "stars": 2259,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3399,7 +3427,7 @@
                         "open_issues": 93,
                         "owner": "chaidiscovery",
                         "repo": "chai-lab",
-                        "stars": 1988,
+                        "stars": 1989,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3420,7 +3448,7 @@
                         "open_issues": 89,
                         "owner": "dauparas",
                         "repo": "ProteinMPNN",
-                        "stars": 1837,
+                        "stars": 1839,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3671,7 +3699,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15176,
+                    "stars": 15177,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3946,7 +3974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T15:05:38.460Z",
+    "last_updated": "2026-09-01T12:34:10.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of computational biology.",
@@ -3954,11 +3982,11 @@
       "id": 459787963,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-08-17T03:20:25Z",
-      "open_issues": 3,
+      "last_commit": "2026-08-31T18:12:58Z",
+      "open_issues": 0,
       "owner": "inoue0426",
       "repo": "awesome-computational-biology",
-      "stars": 153,
+      "stars": 154,
       "topics": [
         "awesome",
         "awesome-list",
@@ -3968,7 +3996,7 @@
         "machine-learning"
       ]
     },
-    "original_repository_sha": "dd96b38e5775c672020b9372e78dfa8e8b8ecdb6",
+    "original_repository_sha": "c6f07d9094b0ddecf06722ae3c395a9d82c046e4",
     "enhanced_repository": "enhansome/enhansome-computational-biology",
     "enhanced_repository_description": null,
     "title": "Awesome Computational Biology with stars"
