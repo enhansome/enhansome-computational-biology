@@ -278,9 +278,9 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 ## Preprocessing Tools
 
-* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 6,988 | 🐛 1,175 | 🌐 Python | 📅 2026-08-20 — Deep learning library for drug discovery, quantum chemistry, and materials science.
-* [RDKit](https://github.com/rdkit/rdkit) ⭐ 3,584 | 🐛 58 | 🌐 HTML | 📅 2026-09-11 — Cheminformatics software & machine learning toolkit.
-* [STAR](https://github.com/alexdobin/STAR) ⭐ 2,246 | 🐛 1,008 | 🌐 C | 📅 2025-03-18 — Ultrafast universal RNA-seq aligner with support for spliced alignment and single-cell quantification via STARsolo.
+* [DeepChem](https://github.com/deepchem/deepchem) ⭐ 6,989 | 🐛 1,175 | 🌐 Python | 📅 2026-08-20 — Deep learning library for drug discovery, quantum chemistry, and materials science.
+* [RDKit](https://github.com/rdkit/rdkit) ⭐ 3,585 | 🐛 56 | 🌐 HTML | 📅 2026-09-12 — Cheminformatics software & machine learning toolkit.
+* [STAR](https://github.com/alexdobin/STAR) ⭐ 2,247 | 🐛 1,008 | 🌐 C | 📅 2025-03-18 — Ultrafast universal RNA-seq aligner with support for spliced alignment and single-cell quantification via STARsolo.
 * [CellChat](https://github.com/sqjin/CellChat) ⚠️ Archived — Inference and analysis of cell-cell communication ligand-receptor networks from single-cell transcriptomics data.
 * [Harmony](https://github.com/immunogenomics/harmony) ⭐ 670 | 🐛 86 | 🌐 R | 📅 2026-06-05 — Fast and scalable integration of single-cell data across datasets, conditions, technologies, and species.
 * [Chemistry Development Kit](https://github.com/cdk/cdk) ⭐ 605 | 🐛 10 | 🌐 Java | 📅 2026-09-07 — Cheminformatics software & machine learning tools.
@@ -292,7 +292,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 * [CellCharter](https://github.com/CSOgroup/cellcharter) ⭐ 190 | 🐛 17 | 🌐 Python | 📅 2026-08-31 — Identification and characterization of spatial cell niches from spatial transcriptomics using VAEs and Gaussian mixture models.
 * [MOGONET](https://github.com/txWang/MOGONET) ⭐ 187 | 🐛 0 | 🌐 Python | 📅 2021-03-31 — Multi-omics graph convolutional network framework for patient classification and biomarker identification.
 * [COMMOT](https://github.com/zcang/COMMOT) ⭐ 145 | 🐛 27 | 🌐 Python | 📅 2026-06-25 — Optimal transport-based framework for screening cell-cell communication in spatial transcriptomics.
-* [LINGER](https://github.com/Durenlab/LINGER) ⭐ 136 | 🐛 55 | 🌐 Jupyter Notebook | 📅 2026-07-11 — Neural network for gene regulatory network inference from single-cell multiome (RNA+ATAC-seq) data with bulk data pretraining.
+* [LINGER](https://github.com/Durenlab/LINGER) ⭐ 137 | 🐛 55 | 🌐 Jupyter Notebook | 📅 2026-07-11 — Neural network for gene regulatory network inference from single-cell multiome (RNA+ATAC-seq) data with bulk data pretraining.
 * [NCEM](https://github.com/theislab/ncem) ⭐ 121 | 🐛 34 | 🌐 Python | 📅 2024-01-15 — GNN-based model for learning intercellular communication from spatial graphs of cells.
 * [CaSpER](https://github.com/akdess/CaSpER) ⭐ 92 | 🐛 41 | 🌐 R | 📅 2021-04-05 — CNV identification and visualization by integrative analysis of single-cell or bulk RNA-seq data.
 * [TIGON](https://github.com/yutongo/TIGON) ⭐ 60 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-03-23 — Neural optimal transport method for reconstructing growth and dynamic trajectories from single-cell transcriptomics.
@@ -334,7 +334,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 #### Drug Perturbation
 
-* [CellOT](https://github.com/bunnech/cellot) ⭐ 181 | 🐛 12 | 🌐 Python | 📅 2024-10-31 — Neural optimal transport framework for predicting single-cell responses to drug and genetic perturbations.
+* [CellOT](https://github.com/bunnech/cellot) ⭐ 182 | 🐛 12 | 🌐 Python | 📅 2024-10-31 — Neural optimal transport framework for predicting single-cell responses to drug and genetic perturbations.
 * [chemCPA](https://github.com/theislab/chemCPA) ⭐ 158 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2025-02-06 — Compositional perturbation autoencoder for predicting single-cell transcriptional responses to unseen drug perturbations and dose combinations.
 * [PRNet](https://github.com/Perturbation-Response-Prediction/PRnet) ⭐ 89 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2024-12-13 — Deep generative model for predicting transcriptional responses to novel chemical perturbations for drug discovery.
 * [CMonge](https://github.com/AI4SCR/conditional-monge-gap) ⭐ 24 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-10 — Conditional optimal transport model for generalizable single-cell perturbation response prediction across drugs and doses.
@@ -379,8 +379,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 ### LLM for Biology
 
 * [BioGPT](https://github.com/microsoft/BioGPT) ⭐ 4,492 | 🐛 75 | 🌐 Python | 📅 2024-07-25 — LLM for biomedical text generation.
-* [ClawBio](https://github.com/ClawBio/ClawBio) ⭐ 1,130 | 🐛 24 | 🌐 Python | 📅 2026-09-11 — Bioinformatics-native AI agent skill library with local-first pharmacogenomics, ancestry PCA, semantic similarity, nutrigenomics, and metagenomics skills.
-* [GeneGPT](https://github.com/ncbi/GeneGPT) ⭐ 431 | 🐛 0 | 🌐 Python | 📅 2025-05-08 — LLM for biomedical information, integrated with various APIs.
+* [ClawBio](https://github.com/ClawBio/ClawBio) ⭐ 1,129 | 🐛 23 | 🌐 Python | 📅 2026-09-12 — Bioinformatics-native AI agent skill library with local-first pharmacogenomics, ancestry PCA, semantic similarity, nutrigenomics, and metagenomics skills.
+* [GeneGPT](https://github.com/ncbi/GeneGPT) ⭐ 430 | 🐛 0 | 🌐 Python | 📅 2025-05-08 — LLM for biomedical information, integrated with various APIs.
 * [GenePT](https://github.com/yiqunchen/GenePT) ⭐ 324 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2024-03-18 — Foundation LLM for single-cell data.
 * [MolT5](https://github.com/blender-nlp/MolT5) ⭐ 196 | 🐛 0 | 🌐 Python | 📅 2023-09-15 — Language model for molecular tasks bridging text and SMILES, enabling molecule captioning and text-driven molecule generation.
 * [ChatDrug](https://github.com/chao1224/ChatDrug) ⭐ 163 | 🐛 0 | 🌐 Python | 📅 2024-05-28 — LLM-based conversational pipeline for drug discovery, using natural language prompts for iterative drug editing and optimization.
@@ -395,14 +395,14 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 ##### Transcriptomics Foundation Models
 
-* [scGPT](https://github.com/bowang-lab/scGPT) ⭐ 1,626 | 🐛 176 | 🌐 Jupyter Notebook | 📅 2026-04-29 — Transformer-based foundation model pretrained on millions of single-cell profiles.
-* [scFoundation](https://github.com/biomap-research/scFoundation) ⭐ 427 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2025-11-23 — Large-scale foundation model for single-cell gene expression, enabling multiple downstream tasks.
-* [GEARS](https://github.com/snap-stanford/GEARS) ⭐ 406 | 🐛 21 | 🌐 Python | 📅 2025-02-01 — Graph-based model for predicting transcriptional responses to single and combinatorial genetic perturbations using biological priors.
+* [scGPT](https://github.com/bowang-lab/scGPT) ⭐ 1,627 | 🐛 176 | 🌐 Jupyter Notebook | 📅 2026-04-29 — Transformer-based foundation model pretrained on millions of single-cell profiles.
+* [scFoundation](https://github.com/biomap-research/scFoundation) ⭐ 428 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2025-11-23 — Large-scale foundation model for single-cell gene expression, enabling multiple downstream tasks.
+* [GEARS](https://github.com/snap-stanford/GEARS) ⭐ 407 | 🐛 21 | 🌐 Python | 📅 2025-02-01 — Graph-based model for predicting transcriptional responses to single and combinatorial genetic perturbations using biological priors.
 * [scBERT](https://github.com/TencentAILabHealthcare/scBERT) ⭐ 363 | 🐛 26 | 🌐 Python | 📅 2023-12-13 — BERT-based foundation model pretrained on large-scale scRNA-seq data for cell type annotation.
 * [UCE](https://github.com/snap-stanford/UCE) ⭐ 338 | 🐛 3 | 🌐 Python | 📅 2026-07-08 — Universal Cell Embeddings: zero-shot single-cell embedding model trained on 36M cells across species, tissues, and assays without fine-tuning.
 * [SATURN](https://github.com/snap-stanford/SATURN) ⭐ 173 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-07-03 — Transformer-based model integrating gene expression and protein sequences via a protein language model to learn unified multi-species cell embeddings.
 * [CellPLM](https://github.com/OmicsML/CellPLM) ⭐ 105 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2024-03-28 — Cell pre-trained language model with inter-cell transformer architecture for diverse single-cell analysis tasks.
-* [BulkFormer](https://github.com/KangBoming/BulkFormer) ⭐ 80 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-07-03 — Foundation model for bulk RNA-seq data; learns general transcriptomic representations.
+* [BulkFormer](https://github.com/KangBoming/BulkFormer) ⭐ 81 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-07-03 — Foundation model for bulk RNA-seq data; learns general transcriptomic representations.
 * [CancerFoundation](https://github.com/BoevaLab/CancerFoundation) ⭐ 31 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-12 — Single-cell RNA-seq foundation model trained exclusively on a curated dataset of malignant cells to learn cancer-specific embeddings.
 * [Geneformer](https://huggingface.co/ctheodoris/Geneformer) — Context-aware, attention-based deep learning model pretrained on a large corpus of single-cell transcriptomes.
 
@@ -447,7 +447,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 ##### Compound Embedding
 
-* [Uni-Mol](https://github.com/deepmodeling/Uni-Mol) ⭐ 1,159 | 🐛 113 | 🌐 Python | 📅 2025-05-29 — 3D molecular pretraining framework for universal representation learning on molecules and protein pockets.
+* [Uni-Mol](https://github.com/deepmodeling/Uni-Mol) ⭐ 1,160 | 🐛 113 | 🌐 Python | 📅 2025-05-29 — 3D molecular pretraining framework for universal representation learning on molecules and protein pockets.
 * [ChemBERTa-2](https://github.com/seyonechithrananda/bert-loves-chemistry) ⭐ 501 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2024-10-27 — RoBERTa-based molecular language model pretrained on SMILES for small-molecule representation learning.
 * [MolFormer](https://github.com/IBM/molformer) ⭐ 410 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2025-09-17 — Linear attention transformer pretrained on millions of SMILES strings for efficient molecular embeddings.
 * [GROVER](https://github.com/tencent-ailab/grover) ⭐ 394 | 🐛 19 | 🌐 Python | 📅 2026-02-25 — Self-supervised graph transformer for large-scale molecular representation learning from unlabeled compounds.
@@ -464,15 +464,15 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 ##### Protein Structure Prediction and Design
 
-* [AlphaFold3](https://github.com/google-deepmind/alphafold3) ⭐ 8,540 | 🐛 26 | 🌐 Python | 📅 2026-08-19 — Predicts structures of proteins, nucleic acids, small molecules, and their complexes.
+* [AlphaFold3](https://github.com/google-deepmind/alphafold3) ⭐ 8,543 | 🐛 26 | 🌐 Python | 📅 2026-08-19 — Predicts structures of proteins, nucleic acids, small molecules, and their complexes.
 * [Boltz-1](https://github.com/jwohlwend/boltz) ⭐ 4,202 | 🐛 138 | 🌐 Python | 📅 2026-05-29 — Open-source all-atom biomolecular structure prediction model for proteins, nucleic acids, small molecules, and their complexes achieving AlphaFold3-level accuracy.
 * [ESMFold](https://github.com/facebookresearch/esm) ⚠️ Archived — Fast protein structure prediction using language model embeddings.
-* [OpenFold](https://github.com/aqlaboratory/openfold) ⭐ 3,425 | 🐛 245 | 🌐 Python | 📅 2025-12-16 — Trainable, memory-efficient open-source reproduction of AlphaFold2 enabling custom protein structure prediction workflows.
+* [OpenFold](https://github.com/aqlaboratory/openfold) ⭐ 3,426 | 🐛 245 | 🌐 Python | 📅 2025-12-16 — Trainable, memory-efficient open-source reproduction of AlphaFold2 enabling custom protein structure prediction workflows.
 * [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) ⭐ 3,043 | 🐛 245 | 🌐 Python | 📅 2026-07-15 — Generative model for protein backbone design using diffusion.
-* [ESM3](https://github.com/evolutionaryscale/esm) ⭐ 2,948 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2026-09-08 — Multimodal protein language model that jointly reasons over sequence, structure, and function for generative protein design and engineering.
+* [ESM3](https://github.com/evolutionaryscale/esm) ⭐ 2,951 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2026-09-08 — Multimodal protein language model that jointly reasons over sequence, structure, and function for generative protein design and engineering.
 * [RoseTTAFold](https://github.com/RosettaCommons/RoseTTAFold) ⭐ 2,261 | 🐛 99 | 🌐 Python | 📅 2024-02-15 — Three-track neural network for protein structure prediction.
 * [Chai-1](https://github.com/chaidiscovery/chai-lab) ⭐ 1,993 | 🐛 93 | 🌐 Python | 📅 2026-06-30 — Unified molecular structure prediction model covering proteins, nucleic acids, small molecules, and complexes.
-* [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) ⭐ 1,846 | 🐛 88 | 🌐 Jupyter Notebook | 📅 2024-08-14 — Deep learning model for protein sequence design given backbone structure.
+* [ProteinMPNN](https://github.com/dauparas/ProteinMPNN) ⭐ 1,849 | 🐛 88 | 🌐 Jupyter Notebook | 📅 2024-08-14 — Deep learning model for protein sequence design given backbone structure.
 * [EvoDiff](https://github.com/microsoft/evodiff) ⭐ 684 | 🐛 14 | 🌐 Python | 📅 2026-01-15 — Discrete diffusion framework for protein sequence generation trained on evolutionary-scale data, supporting unconditional generation, disordered region design, and functional motif scaffolding. \[ [paper-2023](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1) ]
 * [OmegaFold](https://github.com/HeliXonProtein/OmegaFold) ⭐ 626 | 🐛 49 | 🌐 Python | 📅 2022-12-12 — High-resolution de novo protein structure prediction from sequence.
 * [SaProt](https://github.com/westlake-reup/SaProt) — Structure-aware protein language model using structure-aware tokens that encode both sequence and backbone geometry for improved function prediction.
@@ -490,14 +490,14 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 #### Genomics Foundation Models
 
-* [Enformer](https://github.com/deepmind/deepmind-research/tree/master/enformer) ⭐ 15,191 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17 — Transformer model predicting gene expression from DNA sequence.
-* [Evo](https://github.com/evo-design/evo) ⭐ 1,567 | 🐛 41 | 🌐 Python | 📅 2026-03-20 — Long-context genomic foundation model (up to 1M tokens).
+* [Enformer](https://github.com/deepmind/deepmind-research/tree/master/enformer) ⭐ 15,194 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17 — Transformer model predicting gene expression from DNA sequence.
+* [Evo](https://github.com/evo-design/evo) ⭐ 1,566 | 🐛 41 | 🌐 Python | 📅 2026-03-20 — Long-context genomic foundation model (up to 1M tokens).
 * [Nucleotide Transformer](https://github.com/instadeepai/nucleotide-transformer) ⭐ 919 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-02-24 — Foundation model for genomic sequences across multiple species.
-* [HyenaDNA](https://github.com/HazyResearch/hyena-dna) ⭐ 807 | 🐛 38 | 🌐 Assembly | 📅 2025-04-22 — Long-range genomic foundation model handling sequences up to 1M tokens with sub-quadratic attention.
+* [HyenaDNA](https://github.com/HazyResearch/hyena-dna) ⭐ 808 | 🐛 38 | 🌐 Assembly | 📅 2025-04-22 — Long-range genomic foundation model handling sequences up to 1M tokens with sub-quadratic attention.
 * [DNABERT](https://github.com/jerryji1993/DNABERT) ⭐ 778 | 🐛 73 | 🌐 Python | 📅 2026-01-22 — Pre-trained bidirectional encoder for DNA sequence analysis.
 * [DNABERT-2](https://github.com/Zhihan1996/DNABERT_2) ⭐ 513 | 🐛 52 | 🌐 Shell | 📅 2026-01-01 — Improved genome foundation model with efficient tokenization.
 * [Basenji](https://github.com/calico/basenji) ⭐ 475 | 🐛 87 | 🌐 Python | 📅 2026-01-15 — Sequential regulatory activity prediction from DNA sequences.
-* [GPN (Genomic Pre-trained Network)](https://github.com/songlab-cal/gpn) ⭐ 364 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-09-10 — Masked language model for DNA sequences enabling zero-shot variant effect prediction without requiring functional annotations.
+* [GPN (Genomic Pre-trained Network)](https://github.com/songlab-cal/gpn) ⭐ 367 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-09-10 — Masked language model for DNA sequences enabling zero-shot variant effect prediction without requiring functional annotations.
 * [Borzoi](https://github.com/calico/borzoi) ⭐ 262 | 🐛 13 | 🌐 Python | 📅 2025-08-28 — Extended successor to Enformer for predicting RNA-seq coverage from long genomic sequence windows (524 kb) with improved resolution.
 * [Caduceus](https://github.com/kuleshov-group/caduceus) ⭐ 252 | 🐛 10 | 🌐 Python | 📅 2026-03-18 — Bidirectional equivariant long-range DNA sequence model based on Mamba.
 * [Sei](https://github.com/FunctionLab/sei-framework) ⭐ 117 | 🐛 13 | 🌐 Python | 📅 2022-12-20 — Sequence-to-function framework learning a genome-wide regulatory activity code from DNA sequences for variant effect prediction.
@@ -541,4 +541,4 @@ We generally do **not** accept entries that are only promotional pages, personal
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
