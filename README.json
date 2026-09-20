@@ -416,7 +416,7 @@
             "open_issues": 1180,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7004,
+            "stars": 7006,
             "topics": [
               "biology",
               "deep-learning",
@@ -440,11 +440,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-19T05:48:28Z",
+            "last_commit": "2026-09-20T05:57:49Z",
             "open_issues": 84,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3591,
+            "stars": 3592,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -1886,7 +1886,7 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "BioGPT",
-                "stars": 4492,
+                "stars": 4491,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:12.684Z"
@@ -1903,8 +1903,8 @@
                 "id": 1166871123,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T08:47:40Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-20T08:53:19Z",
+                "open_issues": 24,
                 "owner": "ClawBio",
                 "repo": "ClawBio",
                 "stars": 1140,
@@ -2329,7 +2329,7 @@
                         "open_issues": 32,
                         "owner": "mahmoodlab",
                         "repo": "UNI",
-                        "stars": 780,
+                        "stars": 781,
                         "topics": [
                           "computational-pathology",
                           "digital-pathology",
@@ -2389,7 +2389,7 @@
                         "open_issues": 16,
                         "owner": "mahmoodlab",
                         "repo": "CONCH",
-                        "stars": 532,
+                        "stars": 533,
                         "topics": [
                           "bioimage-analysis",
                           "bioimage-informatics",
@@ -3044,7 +3044,7 @@
                         "open_issues": 113,
                         "owner": "deepmodeling",
                         "repo": "Uni-Mol",
-                        "stars": 1160,
+                        "stars": 1161,
                         "topics": [
                           "deep-learning",
                           "molecular-modeling",
@@ -3272,7 +3272,7 @@
                         "open_issues": 27,
                         "owner": "google-deepmind",
                         "repo": "alphafold3",
-                        "stars": 8569,
+                        "stars": 8570,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3385,7 +3385,7 @@
                         "open_issues": 68,
                         "owner": "Biohub",
                         "repo": "esm",
-                        "stars": 2964,
+                        "stars": 2966,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3406,7 +3406,7 @@
                         "open_issues": 99,
                         "owner": "RosettaCommons",
                         "repo": "RoseTTAFold",
-                        "stars": 2263,
+                        "stars": 2264,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3448,7 +3448,7 @@
                         "open_issues": 88,
                         "owner": "dauparas",
                         "repo": "ProteinMPNN",
-                        "stars": 1854,
+                        "stars": 1856,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3699,7 +3699,7 @@
                     "open_issues": 359,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15202,
+                    "stars": 15203,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3886,7 +3886,7 @@
                     "open_issues": 8,
                     "owner": "songlab-cal",
                     "repo": "gpn",
-                    "stars": 377,
+                    "stars": 378,
                     "topics": [
                       "dna",
                       "genomics",
@@ -3974,7 +3974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:55:58.136Z",
+    "last_updated": "2026-09-20T12:21:43.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of computational biology.",
