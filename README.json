@@ -134,265 +134,440 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "MOSES",
-          "description": "Benchmarking platform for molecular generation models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models",
-            "homepage": "https://arxiv.org/abs/1811.12823",
-            "id": 159494117,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-07-08T06:36:49Z",
-            "open_issues": 31,
-            "owner": "molecularsets",
-            "repo": "moses",
-            "stars": 991,
-            "topics": [
-              "benchmark",
-              "drug-discovery",
-              "generative-models",
-              "machine-learning"
-            ]
-          },
-          "first_seen": "2026-08-28T19:26:12.684Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JUMP Cell Painting Datasets",
+              "description": "Consortium-scale cell imaging perturbation datasets (chemical and genetic) for phenotypic profiling and drug discovery research.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Images and other data from the JUMP Cell Painting Consortium",
+                "homepage": null,
+                "id": 552371375,
+                "language": "Shell",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-09-28T18:41:09Z",
+                "open_issues": 27,
+                "owner": "jump-cellpainting",
+                "repo": "datasets",
+                "stars": 190,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:26:12.684Z"
+            },
+            {
+              "node_type": "item",
+              "title": "scPerturb",
+              "description": "Curated and continuously updated single-cell perturbation data resource spanning CRISPR and drug perturbation studies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "scPerturb: A resource and a python/R tool for single-cell perturbation data",
+                "homepage": "http://www.sanderlab.org/scPerturb/",
+                "id": 524195971,
+                "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
+                "last_commit": "2025-02-25T16:38:01Z",
+                "open_issues": 13,
+                "owner": "sanderlab",
+                "repo": "scPerturb",
+                "stars": 189,
+                "topics": [
+                  "cite-seq",
+                  "database",
+                  "perturbation",
+                  "python",
+                  "r",
+                  "scatac-seq",
+                  "science",
+                  "scrna-seq",
+                  "single-cell",
+                  "statistics"
+                ]
+              },
+              "first_seen": "2026-08-28T19:26:12.684Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Chem-PerturBridge",
+              "description": "Harmonized compendium and processing pipelines for small-molecule perturbation transcriptomics across heterogeneous assays and gene panels.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 984988630,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-22T16:56:56Z",
+                "open_issues": 2,
+                "owner": "theislab",
+                "repo": "Chem-PerturBridge",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T04:36:31.587Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LINCS L1000 Phase 1",
+              "description": "Phase-1 L1000 benchmark view used by Bison with 692,787 profiles, 9,233 molecules, 70 contexts, and 978 landmark genes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 984988630,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-22T16:56:56Z",
+                "open_issues": 2,
+                "owner": "theislab",
+                "repo": "Chem-PerturBridge",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T04:36:31.587Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LINCS L1000 Phase 2",
+              "description": "Phase-2 L1000 benchmark view used by Bison with 333,263 profiles, 1,760 molecules, 30 contexts, and 978 landmark genes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 984988630,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-22T16:56:56Z",
+                "open_issues": 2,
+                "owner": "theislab",
+                "repo": "Chem-PerturBridge",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T04:36:31.587Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Novartis Perturbation Dataset",
+              "description": "Large chemical perturbation transcriptomic screen used in Chem-PerturBridge; the Bison benchmark view contains 46,748 profiles and 3,770 molecules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 984988630,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-22T16:56:56Z",
+                "open_issues": 2,
+                "owner": "theislab",
+                "repo": "Chem-PerturBridge",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T04:36:31.587Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OP3",
+              "description": "Chemical perturbation dataset used by Chem-PerturBridge and the Bison unseen-compound benchmark; the Bison benchmark view contains 1,813 profiles, 138 molecules, and 4 cellular contexts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 984988630,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-22T16:56:56Z",
+                "open_issues": 2,
+                "owner": "theislab",
+                "repo": "Chem-PerturBridge",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T04:36:31.587Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VCPI-0001",
+              "description": "Bulk chemical perturbation dataset used in Chem-PerturBridge; the Bison benchmark view contains 27,517 profiles and 2,272 molecules in one cellular context.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 984988630,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-22T16:56:56Z",
+                "open_issues": 2,
+                "owner": "theislab",
+                "repo": "Chem-PerturBridge",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T04:36:31.587Z"
+            },
+            {
+              "node_type": "item",
+              "title": "VCPI-0002",
+              "description": "Bulk chemical perturbation dataset used in Chem-PerturBridge; the Bison benchmark view contains 18,139 profiles and 1,488 molecules in one cellular context.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 984988630,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-22T16:56:56Z",
+                "open_issues": 2,
+                "owner": "theislab",
+                "repo": "Chem-PerturBridge",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T04:36:31.587Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Drug Response & Perturbation"
         },
         {
-          "node_type": "item",
-          "title": "TAPE (Tasks Assessing Protein Embeddings)",
-          "description": "Benchmark suite of five biologically meaningful semi-supervised learning tasks for evaluating protein representations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tasks Assessing Protein Embeddings (TAPE), a set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology.",
-            "homepage": "https://www.biorxiv.org/content/10.1101/676825v1",
-            "id": 226796593,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2022-12-11T00:20:03Z",
-            "open_issues": 30,
-            "owner": "songlab-cal",
-            "repo": "tape",
-            "stars": 745,
-            "topics": [
-              "benchmark",
-              "dataset",
-              "deep-learning",
-              "language-modeling",
-              "protein-sequences",
-              "protein-structure",
-              "pytorch",
-              "semi-supervised-learning"
-            ]
-          },
-          "first_seen": "2026-08-28T19:26:12.684Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "scIB (Single-cell Integration Benchmarks)",
+              "description": "Comprehensive benchmarking framework for single-cell data integration methods.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Benchmarking analysis of data integration tools",
+                "homepage": null,
+                "id": 197154974,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-04-27T20:13:28Z",
+                "open_issues": 44,
+                "owner": "theislab",
+                "repo": "scib",
+                "stars": 432,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:26:12.684Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Single-Cell & Spatial"
         },
         {
-          "node_type": "item",
-          "title": "GuacaMol",
-          "description": "Benchmark suite for generative molecular design models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Benchmarks for generative chemistry",
-            "homepage": null,
-            "id": 157866463,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-02-11T08:59:38Z",
-            "open_issues": 13,
-            "owner": "BenevolentAI",
-            "repo": "guacamol",
-            "stars": 534,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:26:12.684Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MOSES",
+              "description": "Benchmarking platform for molecular generation models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models",
+                "homepage": "https://arxiv.org/abs/1811.12823",
+                "id": 159494117,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-07-08T06:36:49Z",
+                "open_issues": 31,
+                "owner": "molecularsets",
+                "repo": "moses",
+                "stars": 991,
+                "topics": [
+                  "benchmark",
+                  "drug-discovery",
+                  "generative-models",
+                  "machine-learning"
+                ]
+              },
+              "first_seen": "2026-08-28T19:26:12.684Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TAPE (Tasks Assessing Protein Embeddings)",
+              "description": "Benchmark suite of five biologically meaningful semi-supervised learning tasks for evaluating protein representations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Tasks Assessing Protein Embeddings (TAPE), a set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology.",
+                "homepage": "https://www.biorxiv.org/content/10.1101/676825v1",
+                "id": 226796593,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2022-12-11T00:20:03Z",
+                "open_issues": 30,
+                "owner": "songlab-cal",
+                "repo": "tape",
+                "stars": 745,
+                "topics": [
+                  "benchmark",
+                  "dataset",
+                  "deep-learning",
+                  "language-modeling",
+                  "protein-sequences",
+                  "protein-structure",
+                  "pytorch",
+                  "semi-supervised-learning"
+                ]
+              },
+              "first_seen": "2026-08-28T19:26:12.684Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GuacaMol",
+              "description": "Benchmark suite for generative molecular design models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Benchmarks for generative chemistry",
+                "homepage": null,
+                "id": 157866463,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-02-11T08:59:38Z",
+                "open_issues": 13,
+                "owner": "BenevolentAI",
+                "repo": "guacamol",
+                "stars": 534,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:26:12.684Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ProteinGym",
+              "description": "Large-scale benchmark of deep mutational scanning assays for evaluating protein fitness landscape models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repository for the ProteinGym benchmarks",
+                "homepage": "https://proteingym.org/",
+                "id": 578803085,
+                "language": "HTML",
+                "license": "MIT",
+                "last_commit": "2026-03-25T03:54:18Z",
+                "open_issues": 33,
+                "owner": "OATML-Markslab",
+                "repo": "ProteinGym",
+                "stars": 474,
+                "topics": [
+                  "benchmark",
+                  "computational-biology",
+                  "protein",
+                  "protein-design",
+                  "protein-fitness"
+                ]
+              },
+              "first_seen": "2026-08-28T19:26:12.684Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FLIP (Fitness Landscape Inference for Proteins)",
+              "description": "Benchmark collection of protein fitness landscape datasets for evaluating protein ML models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A collection of tasks to probe the effectiveness of protein sequence representations in modeling aspects of protein design",
+                "homepage": null,
+                "id": 367129997,
+                "language": "Jupyter Notebook",
+                "license": "AFL-3.0",
+                "last_commit": "2026-04-23T17:29:32Z",
+                "open_issues": 4,
+                "owner": "J-SNACKKB",
+                "repo": "FLIP",
+                "stars": 141,
+                "topics": [
+                  "protein",
+                  "protein-design",
+                  "protein-fitness-prediction",
+                  "protein-function-prediction",
+                  "protein-sequences",
+                  "representation-learning"
+                ]
+              },
+              "first_seen": "2026-08-28T19:26:12.684Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Bento",
+              "description": "Protein-ligand docking benchmark covering rigid, flexible, de novo, blind, induced-fit, and covalent docking tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "UV-first benchmark for protein-ligand docking with reproducible annotation, pocket similarity, and HPC workflows.",
+                "homepage": null,
+                "id": 1124683203,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2026-03-04T07:57:37Z",
+                "open_issues": 0,
+                "owner": "LigandPro",
+                "repo": "Bento",
+                "stars": 13,
+                "topics": [
+                  "benchmark",
+                  "bioinformatics",
+                  "cheminformatics",
+                  "computational-chemistry",
+                  "drug-discovery",
+                  "hpc",
+                  "molecular-docking",
+                  "protein-ligand-docking",
+                  "python",
+                  "slurm",
+                  "structure-based-drug-design",
+                  "uv"
+                ]
+              },
+              "first_seen": "2026-08-28T19:26:12.684Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Molecular, Protein & Drug Discovery"
         },
         {
-          "node_type": "item",
-          "title": "ProteinGym",
-          "description": "Large-scale benchmark of deep mutational scanning assays for evaluating protein fitness landscape models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official repository for the ProteinGym benchmarks",
-            "homepage": "https://proteingym.org/",
-            "id": 578803085,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2026-03-25T03:54:18Z",
-            "open_issues": 33,
-            "owner": "OATML-Markslab",
-            "repo": "ProteinGym",
-            "stars": 474,
-            "topics": [
-              "benchmark",
-              "computational-biology",
-              "protein",
-              "protein-design",
-              "protein-fitness"
-            ]
-          },
-          "first_seen": "2026-08-28T19:26:12.684Z"
-        },
-        {
-          "node_type": "item",
-          "title": "scIB (Single-cell Integration Benchmarks)",
-          "description": "Comprehensive benchmarking framework for single-cell data integration methods.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Benchmarking analysis of data integration tools",
-            "homepage": null,
-            "id": 197154974,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-04-27T20:13:28Z",
-            "open_issues": 44,
-            "owner": "theislab",
-            "repo": "scib",
-            "stars": 432,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:26:12.684Z"
-        },
-        {
-          "node_type": "item",
-          "title": "JUMP Cell Painting Datasets",
-          "description": "Consortium-scale cell imaging perturbation datasets (chemical and genetic) for phenotypic profiling and drug discovery research.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Images and other data from the JUMP Cell Painting Consortium",
-            "homepage": null,
-            "id": 552371375,
-            "language": "Shell",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-09-28T18:41:09Z",
-            "open_issues": 27,
-            "owner": "jump-cellpainting",
-            "repo": "datasets",
-            "stars": 190,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:26:12.684Z"
-        },
-        {
-          "node_type": "item",
-          "title": "scPerturb",
-          "description": "Curated and continuously updated single-cell perturbation data resource spanning CRISPR and drug perturbation studies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "scPerturb: A resource and a python/R tool for single-cell perturbation data",
-            "homepage": "http://www.sanderlab.org/scPerturb/",
-            "id": 524195971,
-            "language": "Jupyter Notebook",
-            "license": "NOASSERTION",
-            "last_commit": "2025-02-25T16:38:01Z",
-            "open_issues": 13,
-            "owner": "sanderlab",
-            "repo": "scPerturb",
-            "stars": 189,
-            "topics": [
-              "cite-seq",
-              "database",
-              "perturbation",
-              "python",
-              "r",
-              "scatac-seq",
-              "science",
-              "scrna-seq",
-              "single-cell",
-              "statistics"
-            ]
-          },
-          "first_seen": "2026-08-28T19:26:12.684Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OpenBioLink",
-          "description": "Benchmark datasets for biological knowledge graph completion.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "OpenBioLink is a resource and evaluation framework for evaluating link prediction models on heterogeneous biomedical graph data.",
-            "homepage": null,
-            "id": 199718903,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-05-03T19:43:39Z",
-            "open_issues": 11,
-            "owner": "OpenBioLink",
-            "repo": "OpenBioLink",
-            "stars": 164,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:26:12.684Z"
-        },
-        {
-          "node_type": "item",
-          "title": "FLIP (Fitness Landscape Inference for Proteins)",
-          "description": "Benchmark collection of protein fitness landscape datasets for evaluating protein ML models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of tasks to probe the effectiveness of protein sequence representations in modeling aspects of protein design",
-            "homepage": null,
-            "id": 367129997,
-            "language": "Jupyter Notebook",
-            "license": "AFL-3.0",
-            "last_commit": "2026-04-23T17:29:32Z",
-            "open_issues": 4,
-            "owner": "J-SNACKKB",
-            "repo": "FLIP",
-            "stars": 141,
-            "topics": [
-              "protein",
-              "protein-design",
-              "protein-fitness-prediction",
-              "protein-function-prediction",
-              "protein-sequences",
-              "representation-learning"
-            ]
-          },
-          "first_seen": "2026-08-28T19:26:12.684Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bento",
-          "description": "Protein-ligand docking benchmark covering rigid, flexible, de novo, blind, induced-fit, and covalent docking tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "UV-first benchmark for protein-ligand docking with reproducible annotation, pocket similarity, and HPC workflows.",
-            "homepage": null,
-            "id": 1124683203,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2026-03-04T07:57:37Z",
-            "open_issues": 0,
-            "owner": "LigandPro",
-            "repo": "Bento",
-            "stars": 13,
-            "topics": [
-              "benchmark",
-              "bioinformatics",
-              "cheminformatics",
-              "computational-chemistry",
-              "drug-discovery",
-              "hpc",
-              "molecular-docking",
-              "protein-ligand-docking",
-              "python",
-              "slurm",
-              "structure-based-drug-design",
-              "uv"
-            ]
-          },
-          "first_seen": "2026-08-28T19:26:12.684Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenBioLink",
+              "description": "Benchmark datasets for biological knowledge graph completion.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OpenBioLink is a resource and evaluation framework for evaluating link prediction models on heterogeneous biomedical graph data.",
+                "homepage": null,
+                "id": 199718903,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-05-03T19:43:39Z",
+                "open_issues": 11,
+                "owner": "OpenBioLink",
+                "repo": "OpenBioLink",
+                "stars": 164,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:26:12.684Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General Biological ML & Knowledge Graph Benchmarks"
         }
       ],
       "title": "Benchmarks & Datasets"
@@ -416,7 +591,7 @@
             "open_issues": 1210,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7027,
+            "stars": 7032,
             "topics": [
               "biology",
               "deep-learning",
@@ -440,8 +615,8 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-30T04:22:49Z",
-            "open_issues": 89,
+            "last_commit": "2026-10-03T03:44:43Z",
+            "open_issues": 91,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3604,
@@ -491,7 +666,7 @@
             "open_issues": 454,
             "owner": "sqjin",
             "repo": "CellChat",
-            "stars": 792,
+            "stars": 791,
             "topics": [
               "cell-cell-communication",
               "cell-cell-interaction",
@@ -540,7 +715,7 @@
             "language": "Java",
             "license": "LGPL-2.1",
             "last_commit": "2026-09-29T10:11:18Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "cdk",
             "repo": "cdk",
             "stars": 606,
@@ -613,7 +788,7 @@
             "open_issues": 48,
             "owner": "Teichlab",
             "repo": "celltypist",
-            "stars": 506,
+            "stars": 507,
             "topics": [
               "cell-type-classification",
               "label-transfer",
@@ -1106,6 +1281,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "PASO",
+                  "description": "Pathway-aware multi-omics drug response model combining pathway-difference features, multi-scale convolutions, Transformer encoding, and drug SMILES.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This study introduced a deep learning model PASO, which integrated transformer encoder, multi-scale convolutional networks and attention mechanisms to predict the sensitivity of cell lines to anticancer drugs, based on the omics data of cell lines and the SMILES representations of drug molecules.",
+                    "homepage": null,
+                    "id": 916952586,
+                    "language": "Jupyter Notebook",
+                    "license": null,
+                    "last_commit": "2025-02-27T15:30:30Z",
+                    "open_issues": 0,
+                    "owner": "queryang",
+                    "repo": "PASO",
+                    "stars": 8,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "DeepAEG",
                   "description": "GNN embedding + attention mechanism.",
                   "children": [],
@@ -1166,6 +1362,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "THERAPI",
+                  "description": "Cell-line-to-patient transfer framework that aligns tumor transcriptomes with cancer cell lines and integrates perturbation and gene-level representations for patient drug response prediction.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 983914103,
+                    "language": "Jupyter Notebook",
+                    "license": null,
+                    "last_commit": "2026-02-15T22:41:05Z",
+                    "open_issues": 0,
+                    "owner": "Sunginyoung",
+                    "repo": "THERAPI",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
                 }
               ],
               "description": null,
@@ -1174,6 +1391,27 @@
             },
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "State",
+                  "description": "Transition model for predicting cellular perturbation responses across diverse contexts and sets of cells.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "State is a machine learning model that predicts cellular perturbation response across diverse contexts",
+                    "homepage": null,
+                    "id": 923750281,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-07-24T00:53:03Z",
+                    "open_issues": 61,
+                    "owner": "ArcInstitute",
+                    "repo": "state",
+                    "stars": 707,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
                 {
                   "node_type": "item",
                   "title": "CellOT",
@@ -1225,6 +1463,48 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "CellFlow",
+                  "description": "Conditional flow-matching framework for modeling and predicting cellular phenotypes under chemical, genetic, and other perturbations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Modeling complex perturbations with CellFlow",
+                    "homepage": "https://cellflow.readthedocs.io/",
+                    "id": 827394164,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-28T20:22:30Z",
+                    "open_issues": 68,
+                    "owner": "theislab",
+                    "repo": "CellFlow",
+                    "stars": 160,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "biolord",
+                  "description": "Deep generative model that disentangles known and unknown attributes for conditional generation of single-cell states.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": "https://biolord.readthedocs.io",
+                    "id": 609911872,
+                    "language": "Python",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2024-08-12T06:33:54Z",
+                    "open_issues": 2,
+                    "owner": "nitzanlab",
+                    "repo": "biolord",
+                    "stars": 102,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "PRNet",
                   "description": "Deep generative model for predicting transcriptional responses to novel chemical perturbations for drug discovery.",
                   "children": [],
@@ -1243,6 +1523,111 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "PerturbNet",
+                  "description": "Conditional generative model for predicting distributions of single-cell states under unseen chemical and genetic perturbations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "PerturbNet is a deep generative model that can predict the distribution of cell states induced by chemical or genetic perturbation",
+                    "homepage": null,
+                    "id": 515611446,
+                    "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-01-12T19:30:47Z",
+                    "open_issues": 3,
+                    "owner": "welch-lab",
+                    "repo": "PerturbNet",
+                    "stars": 69,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "LPM",
+                  "description": "Large perturbation model that jointly learns heterogeneous perturbation experiments by disentangling perturbation, readout, and context representations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 996067484,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2025-06-16T01:20:03Z",
+                    "open_issues": 2,
+                    "owner": "perturblib",
+                    "repo": "perturblib",
+                    "stars": 54,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "TxPert",
+                  "description": "Knowledge-graph-informed latent-transfer model for transcriptomic perturbation prediction across unseen single perturbations, combinations, and cross-context settings.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A repository for reproducing experiments from the TxPert paper",
+                    "homepage": null,
+                    "id": 983088643,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-03-25T02:30:53Z",
+                    "open_issues": 2,
+                    "owner": "valence-labs",
+                    "repo": "TxPert",
+                    "stars": 52,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Prophet",
+                  "description": "Transformer model for predicting cellular phenotypes under unseen chemical or genetic perturbations across heterogeneous assays and contexts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 839617355,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-02-24T20:52:56Z",
+                    "open_issues": 6,
+                    "owner": "theislab",
+                    "repo": "prophet",
+                    "stars": 41,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "XPert",
+                  "description": "Knowledge-informed dual-branch Transformer for drug-induced transcriptional perturbation prediction across dose, time, and cellular context.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "XPert: A Knowledge-Informed Dual-Branch Transformer Model for Predicting Drug-Induced Cellular Perturbation Effects",
+                    "homepage": null,
+                    "id": 979739486,
+                    "language": "Jupyter Notebook",
+                    "license": "MIT",
+                    "last_commit": "2025-11-22T09:13:32Z",
+                    "open_issues": 5,
+                    "owner": "GSanShui",
+                    "repo": "XPert",
+                    "stars": 27,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
                 },
                 {
                   "node_type": "item",
@@ -1267,6 +1652,27 @@
                     ]
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "PrePR-CT",
+                  "description": "Graph-based model using cell-type-specific co-expression networks as inductive priors for small-data chemical perturbation response prediction.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 699833834,
+                    "language": "Jupyter Notebook",
+                    "license": "GPL-3.0",
+                    "last_commit": "2025-09-10T12:37:44Z",
+                    "open_issues": 0,
+                    "owner": "reem12345",
+                    "repo": "Cell-Type-Specific-Graphs",
+                    "stars": 8,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
                 },
                 {
                   "node_type": "item",
@@ -1655,7 +2061,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2022-04-18T16:52:27Z",
-                    "open_issues": 3,
+                    "open_issues": 2,
                     "owner": "pschwllr",
                     "repo": "MolecularTransformer",
                     "stars": 429,
@@ -1886,38 +2292,8 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "BioGPT",
-                "stars": 4486,
+                "stars": 4487,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T19:26:12.684Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ClawBio",
-              "description": "Bioinformatics-native AI agent skill library with local-first pharmacogenomics, ancestry PCA, semantic similarity, nutrigenomics, and metagenomics skills.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🦖 ClawBio - The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Open. Free.",
-                "homepage": "https://clawbio.github.io/ClawBio/",
-                "id": 1166871123,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-02T08:47:11Z",
-                "open_issues": 47,
-                "owner": "ClawBio",
-                "repo": "ClawBio",
-                "stars": 1149,
-                "topics": [
-                  "ai-agents",
-                  "bioinformatics",
-                  "equity",
-                  "genomics",
-                  "local-first",
-                  "openclaw",
-                  "population-genetics",
-                  "reproducibility"
-                ]
               },
               "first_seen": "2026-08-28T19:26:12.684Z"
             },
@@ -2062,46 +2438,535 @@
                 ]
               },
               "first_seen": "2026-08-28T19:26:12.684Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CASSIA",
-              "description": "Multi-agent LLM for reference-free, interpretable cell-type annotation of single-cell RNA-seq data, with dedicated annotation, validation, scoring, and reporting agents.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CASSIA: A Multi-Agent LLM-Based Single-Cell Cell Type Annotation Framework",
-                "homepage": "https://elliotxie.github.io/CASSIA/",
-                "id": 860582551,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-11T05:31:09Z",
-                "open_issues": 3,
-                "owner": "ElliotXie",
-                "repo": "CASSIA",
-                "stars": 107,
-                "topics": [
-                  "ai4science",
-                  "annotation",
-                  "bioinformatics",
-                  "cell-annotation",
-                  "llm",
-                  "multiagent-systems",
-                  "prompt-engineering",
-                  "retrieved-augmented-generation",
-                  "rna-seq",
-                  "single-cell",
-                  "singlecell",
-                  "singlecell-data-analysis",
-                  "singlecellgenomics"
-                ]
-              },
-              "first_seen": "2026-08-28T19:26:12.684Z"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "LLM for Biology"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Biomni",
+                  "description": "General-purpose biomedical AI agent integrating planning, code execution, specialized tools, databases, and software across diverse biomedical research tasks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Biomni: a general-purpose biomedical AI agent",
+                    "homepage": "https://biomni.stanford.edu",
+                    "id": 951543275,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-28T19:18:11Z",
+                    "open_issues": 118,
+                    "owner": "snap-stanford",
+                    "repo": "Biomni",
+                    "stars": 3934,
+                    "topics": [
+                      "agent",
+                      "ai",
+                      "biomedicine"
+                    ]
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ToolUniverse",
+                  "description": "Unified scientific tool ecosystem for building AI scientists that can discover, select, and execute biomedical tools and databases.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Democratizing AI scientists with ToolUniverse",
+                    "homepage": "https://aiscientist.tools",
+                    "id": 942272855,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-03T04:17:40Z",
+                    "open_issues": 17,
+                    "owner": "mims-harvard",
+                    "repo": "ToolUniverse",
+                    "stars": 1715,
+                    "topics": [
+                      "agents",
+                      "ai-agents",
+                      "ai-communication",
+                      "ai-for-science",
+                      "ai-scientists",
+                      "automated-science",
+                      "autonomous-agents",
+                      "co-pilot",
+                      "co-scientist",
+                      "llms",
+                      "lrm",
+                      "mcp-servers",
+                      "reasoning-agent",
+                      "reasoning-language-models",
+                      "scientific-skill",
+                      "tool-use"
+                    ]
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ClawBio",
+                  "description": "Bioinformatics-native AI agent skill library with local-first pharmacogenomics, ancestry PCA, semantic similarity, nutrigenomics, and metagenomics skills.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "🦖 ClawBio - The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Open. Free.",
+                    "homepage": "https://clawbio.github.io/ClawBio/",
+                    "id": 1166871123,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-10-02T14:40:06Z",
+                    "open_issues": 33,
+                    "owner": "ClawBio",
+                    "repo": "ClawBio",
+                    "stars": 1150,
+                    "topics": [
+                      "ai-agents",
+                      "bioinformatics",
+                      "equity",
+                      "genomics",
+                      "local-first",
+                      "openclaw",
+                      "population-genetics",
+                      "reproducibility"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T19:26:12.684Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "BioMedAgent",
+                  "description": "Self-evolving multi-agent framework for autonomous biomedical data analysis with tool discovery, workflow planning, code generation, execution, correction, and cross-omics analysis.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 887697632,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-09-01T06:06:10Z",
+                    "open_issues": 3,
+                    "owner": "BOBQWERA",
+                    "repo": "BioMedAgent",
+                    "stars": 143,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "BioMaster",
+                  "description": "Multi-agent system for automated and auditable bioinformatics workflows spanning RNA-seq, ChIP-seq, single-cell, spatial omics, Hi-C, long reads, metagenomics, and proteomics.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 923065867,
+                    "language": "TypeScript",
+                    "license": null,
+                    "last_commit": "2026-07-14T06:25:14Z",
+                    "open_issues": 2,
+                    "owner": "ai4nucleome",
+                    "repo": "BioMaster",
+                    "stars": 114,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "BRAD",
+                  "description": "Retrieval-augmented bioinformatics assistant integrating scientific literature, databases, external tools, and executable workflows.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Bioinformatics Retrieval Augmented Digital (BRAD) Assistant - A LLM powered agent for bioinformatics  🤖",
+                    "homepage": "https://brad-bioinformatics-retrieval-augmented-data.readthedocs.io/en/latest/#",
+                    "id": 799302398,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-05-14T15:36:44Z",
+                    "open_issues": 3,
+                    "owner": "Jpickard1",
+                    "repo": "BRAD",
+                    "stars": 64,
+                    "topics": [
+                      "agentic",
+                      "brad",
+                      "chat",
+                      "chat-application",
+                      "chatbot",
+                      "gpt",
+                      "llm-agent",
+                      "retrieval-augmented-generation"
+                    ]
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "General Biomedical Agents"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TxAgent",
+                  "description": "Therapeutic reasoning agent using multi-step reasoning and a large scientific tool universe for drug interactions, contraindications, and personalized treatment analysis.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools",
+                    "homepage": "https://zitniklab.hms.harvard.edu/TxAgent",
+                    "id": 941157762,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-07-30T03:44:25Z",
+                    "open_issues": 22,
+                    "owner": "mims-harvard",
+                    "repo": "TxAgent",
+                    "stars": 655,
+                    "topics": [
+                      "agents",
+                      "precision-medicine",
+                      "reasoning-agent",
+                      "reasoning-language-models",
+                      "therapeutics",
+                      "tool-use"
+                    ]
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Medea",
+                  "description": "Multi-agent therapeutic discovery system combining research planning, biological data analysis, literature reasoning, and multi-LLM deliberation across single-cell, cell-line, and patient contexts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Medea: An AI agent for therapeutic reasoning across biological contexts",
+                    "homepage": "https://medea.openscientist.ai",
+                    "id": 1114225659,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-07-17T05:04:12Z",
+                    "open_issues": 8,
+                    "owner": "mims-harvard",
+                    "repo": "Medea",
+                    "stars": 131,
+                    "topics": [
+                      "agentic-ai",
+                      "ai-agents",
+                      "ai-scientist",
+                      "foundation-models",
+                      "immunotherapy",
+                      "omics",
+                      "synthetic-lethality",
+                      "target-discovery",
+                      "therapeutic-ai",
+                      "therapeutics",
+                      "tool-use"
+                    ]
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "DrugAgent",
+                  "description": "Multi-agent biomedical evidence synthesis framework for computational drug discovery with reliability-aware aggregation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1246947974,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-07-03T02:41:18Z",
+                    "open_issues": 0,
+                    "owner": "inoue0426",
+                    "repo": "DrugAgent",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Therapeutics & Drug Discovery Agents"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Genomi",
+                  "description": "Local-first genomics agent runtime that indexes personal variants, queries evidence, and generates evidence-grounded reports while keeping raw genome data on-device.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Local-first, open-source Claude Science alternative, before Claude Science is a thing. Turn your AI agent into personal DNA expert.",
+                    "homepage": "https://www.genomiagent.com/",
+                    "id": 1252800918,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-31T19:30:56Z",
+                    "open_issues": 0,
+                    "owner": "exon-research",
+                    "repo": "genomi",
+                    "stars": 483,
+                    "topics": [
+                      "agent-harness",
+                      "genome-analysis",
+                      "whole-genome-sequencing"
+                    ]
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "AutoBA",
+                  "description": "Automated multi-omics analysis agent that plans, executes, and repairs bioinformatics workflows from natural-language objectives.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An AI Agent for Fully Automated Multi-omic Analyses",
+                    "homepage": null,
+                    "id": 686438775,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2024-11-04T11:50:04Z",
+                    "open_issues": 2,
+                    "owner": "JoshuaChou2018",
+                    "repo": "AutoBA",
+                    "stars": 239,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "STELLA",
+                  "description": "Self-evolving biomedical research agent that expands its tool repertoire and supports literature reasoning, computational analysis, and laboratory-oriented scientific workflows.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "STELLA: Self-Evolving LLM Agent for Biomedical Research",
+                    "homepage": null,
+                    "id": 1013790634,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-15T06:17:44Z",
+                    "open_issues": 0,
+                    "owner": "zaixizhang",
+                    "repo": "STELLA",
+                    "stars": 156,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "GenoMAS",
+                  "description": "Multi-agent framework for code-driven gene-expression analysis with planning, execution, debugging, backtracking, and GEO/TCGA-based scientific discovery.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A minimalist multi-agent framework for rubost automation of scientific analysis workflows, such as gene expression analysis.",
+                    "homepage": "https://liu-hy.github.io/GenoMAS/",
+                    "id": 799863312,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-04-20T02:09:09Z",
+                    "open_issues": 0,
+                    "owner": "Liu-Hy",
+                    "repo": "GenoMAS",
+                    "stars": 135,
+                    "topics": [
+                      "agent",
+                      "ai-agents",
+                      "ai4science",
+                      "bioinformatics",
+                      "genomics",
+                      "multi-agent-systems"
+                    ]
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "CASSIA",
+                  "description": "Multi-agent LLM framework for reference-free and interpretable single-cell cell-type annotation with dedicated annotation, validation, scoring, and reporting agents.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "CASSIA: A Multi-Agent LLM-Based Single-Cell Cell Type Annotation Framework",
+                    "homepage": "https://elliotxie.github.io/CASSIA/",
+                    "id": 860582551,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-11T05:31:09Z",
+                    "open_issues": 3,
+                    "owner": "ElliotXie",
+                    "repo": "CASSIA",
+                    "stars": 107,
+                    "topics": [
+                      "ai4science",
+                      "annotation",
+                      "bioinformatics",
+                      "cell-annotation",
+                      "llm",
+                      "multiagent-systems",
+                      "prompt-engineering",
+                      "retrieved-augmented-generation",
+                      "rna-seq",
+                      "single-cell",
+                      "singlecell",
+                      "singlecell-data-analysis",
+                      "singlecellgenomics"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T19:26:12.684Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "BioAgents",
+                  "description": "Multi-agent bioinformatics assistant using specialized language models and retrieval for genomics workflow development and troubleshooting.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 889242861,
+                    "language": "Jupyter Notebook",
+                    "license": "MIT",
+                    "last_commit": "2026-04-21T20:36:09Z",
+                    "open_issues": 2,
+                    "owner": "microsoft",
+                    "repo": "bioinformagus",
+                    "stars": 47,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "BIA",
+                  "description": "Bioinformatics agent for GEO search, sample metadata extraction, count-matrix processing, and pipeline extraction from papers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "BioInformatics Agent (BIA): Unleashing the Power of Large Language Models to Reshape Bioinformatics Workflow",
+                    "homepage": null,
+                    "id": 801824928,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2024-08-21T02:41:30Z",
+                    "open_issues": 1,
+                    "owner": "biagent-dev",
+                    "repo": "bia",
+                    "stars": 45,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Bioinformatics & Omics Agents"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Agent Laboratory",
+                  "description": "End-to-end multi-agent research workflow for literature review, experimentation, implementation, analysis, and report generation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Agent Laboratory is an end-to-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas",
+                    "homepage": null,
+                    "id": 913598542,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-08-20T21:46:43Z",
+                    "open_issues": 61,
+                    "owner": "SamuelSchmidgall",
+                    "repo": "AgentLaboratory",
+                    "stars": 5880,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Virtual Lab",
+                  "description": "Human–AI collaborative research environment in which an LLM principal investigator coordinates specialized scientist agents for scientific discovery.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A virtual lab of LLM agents for science research",
+                    "homepage": null,
+                    "id": 847862507,
+                    "language": "Jupyter Notebook",
+                    "license": "MIT",
+                    "last_commit": "2025-12-31T04:15:53Z",
+                    "open_issues": 7,
+                    "owner": "zou-group",
+                    "repo": "virtual-lab",
+                    "stars": 738,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Multi-Agent Scientific Labs"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Paper2Agent",
+                  "description": "Multi-agent system that transforms research papers and associated code into interactive, testable scientific agents and MCP tools.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents.",
+                    "homepage": null,
+                    "id": 1053373003,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-17T16:56:07Z",
+                    "open_issues": 0,
+                    "owner": "jmiao24",
+                    "repo": "Paper2Agent",
+                    "stars": 3648,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Paper & Workflow Agents"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Agentic AI for Biology"
         },
         {
           "children": [
@@ -2241,6 +3106,27 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "CellFM",
+                      "description": "800M-parameter single-cell foundation model pretrained on transcriptomics from 100 million human cells for annotation, integration, gene-function, and perturbation tasks.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 806030025,
+                        "language": "Jupyter Notebook",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-09-07T09:48:59Z",
+                        "open_issues": 11,
+                        "owner": "biomed-AI",
+                        "repo": "CellFM",
+                        "stars": 115,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-03T04:36:31.587Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "CellPLM",
                       "description": "Cell pre-trained language model with inter-cell transformer architecture for diverse single-cell analysis tasks.",
                       "children": [],
@@ -2280,6 +3166,27 @@
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "scPRINT-2",
+                      "description": "Next-generation single-cell foundation model pretrained on 350M+ cells across 22K+ datasets and 16 species for embeddings, denoising, annotation, gene-network inference, and cross-species transfer.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "🏃🏃 Your next-gen single-cell Foundation Model",
+                        "homepage": "https://cantinilab.github.io/scPRINT/",
+                        "id": 1103293016,
+                        "language": "Jupyter Notebook",
+                        "license": "GPL-3.0",
+                        "last_commit": "2026-09-26T15:57:30Z",
+                        "open_issues": 2,
+                        "owner": "cantinilab",
+                        "repo": "scPRINT-2",
+                        "stars": 39,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-03T04:36:31.587Z"
                     },
                     {
                       "node_type": "item",
@@ -2604,6 +3511,69 @@
                   "description": null,
                   "node_type": "group",
                   "title": "Spatial Foundation Models"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "TITAN",
+                      "description": "Multimodal whole-slide pathology foundation model that combines image and language supervision for slide-level representation and zero-shot analysis.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Multimodal Whole Slide Foundation Model for Pathology - Nature Medicine",
+                        "homepage": null,
+                        "id": 895777359,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2025-12-13T02:04:53Z",
+                        "open_issues": 5,
+                        "owner": "mahmoodlab",
+                        "repo": "TITAN",
+                        "stars": 371,
+                        "topics": [
+                          "computational-pathology",
+                          "histopathology",
+                          "nature-medicine",
+                          "pathology",
+                          "pathology-fm",
+                          "pathology-foundation-model"
+                        ]
+                      },
+                      "first_seen": "2026-10-03T04:36:31.587Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "GenBio-PathFM",
+                      "description": "1.1B-parameter histopathology foundation model trained on public data using morphology-aware curation and dual-stage JEPA+DINO learning.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "GenBio-PathFM is a histopathology foundation model from GenBio AI.",
+                        "homepage": null,
+                        "id": 1174613334,
+                        "language": "Python",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-04-09T06:20:13Z",
+                        "open_issues": 1,
+                        "owner": "genbio-ai",
+                        "repo": "genbio-pathfm",
+                        "stars": 40,
+                        "topics": [
+                          "biology",
+                          "dino",
+                          "foundation-models",
+                          "histopathology",
+                          "jepa",
+                          "pathology"
+                        ]
+                      },
+                      "first_seen": "2026-10-03T04:36:31.587Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Pathology Foundation Models"
                 },
                 {
                   "children": [
@@ -3056,6 +4026,32 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "Uni-Mol2",
+                      "description": "Scaled molecular pretraining model using atomic, graph, and 3D geometry features, with models up to 1.1B parameters pretrained on 800M conformations.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official Repository for the Uni-Mol Series Methods",
+                        "homepage": null,
+                        "id": 495067397,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2025-05-29T07:41:36Z",
+                        "open_issues": 113,
+                        "owner": "deepmodeling",
+                        "repo": "Uni-Mol",
+                        "stars": 1166,
+                        "topics": [
+                          "deep-learning",
+                          "molecular-modeling",
+                          "pre-trained-model",
+                          "pretraining"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T19:26:12.684Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "ChemBERTa-2",
                       "description": "RoBERTa-based molecular language model pretrained on SMILES for small-molecule representation learning.",
                       "children": [],
@@ -3146,6 +4142,27 @@
                         ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "ChemFM",
+                      "description": "1B/3B-parameter chemical language model pretrained on 178M molecules for molecular representation, property prediction, generation, and synthesis tasks.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 872752439,
+                        "language": "Python",
+                        "license": "NOASSERTION",
+                        "last_commit": "2025-06-19T02:57:09Z",
+                        "open_issues": 0,
+                        "owner": "TheLuoFengLab",
+                        "repo": "ChemFM",
+                        "stars": 87,
+                        "topics": []
+                      },
+                      "first_seen": "2026-10-03T04:36:31.587Z"
                     }
                   ],
                   "description": null,
@@ -3178,6 +4195,27 @@
                         "owner": "facebookresearch",
                         "repo": "esm",
                         "stars": 4168,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T19:26:12.684Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "ESM Cambrian (ESM C)",
+                      "description": "Protein representation foundation-model family designed as an efficient next-generation successor to ESM2, spanning 300M to multi-billion-parameter models.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": null,
+                        "homepage": null,
+                        "id": 819771555,
+                        "language": "Jupyter Notebook",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-09-16T14:23:40Z",
+                        "open_issues": 80,
+                        "owner": "Biohub",
+                        "repo": "esm",
+                        "stars": 2979,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3272,7 +4310,7 @@
                         "open_issues": 28,
                         "owner": "google-deepmind",
                         "repo": "alphafold3",
-                        "stars": 8599,
+                        "stars": 8601,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3281,6 +4319,31 @@
                       "node_type": "item",
                       "title": "Boltz-1",
                       "description": "Open-source all-atom biomolecular structure prediction model for proteins, nucleic acids, small molecules, and their complexes achieving AlphaFold3-level accuracy.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Official repository for the Boltz biomolecular interaction models",
+                        "homepage": null,
+                        "id": 889915078,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-05-29T08:20:25Z",
+                        "open_issues": 133,
+                        "owner": "jwohlwend",
+                        "repo": "boltz",
+                        "stars": 4230,
+                        "topics": [
+                          "binding-prediction",
+                          "drug-discovery",
+                          "protein-structure"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T19:26:12.684Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Boltz-2",
+                      "description": "Biomolecular foundation model jointly predicting complex structures and binding affinities for protein–ligand interaction modeling and virtual screening.",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3385,7 +4448,7 @@
                         "open_issues": 80,
                         "owner": "Biohub",
                         "repo": "esm",
-                        "stars": 2980,
+                        "stars": 2979,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3410,6 +4473,30 @@
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Protenix",
+                      "description": "Trainable biomolecular structure-prediction framework for proteins, nucleic acids, ligands, and complexes with open training and inference pipelines.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Toward High-Accuracy Open-Source Biomolecular Structure Prediction.",
+                        "homepage": null,
+                        "id": 885346783,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-09-21T07:04:06Z",
+                        "open_issues": 126,
+                        "owner": "bytedance",
+                        "repo": "Protenix",
+                        "stars": 2067,
+                        "topics": [
+                          "ai4science",
+                          "research"
+                        ]
+                      },
+                      "first_seen": "2026-10-03T04:36:31.587Z"
                     },
                     {
                       "node_type": "item",
@@ -3685,6 +4772,283 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "TESSERA",
+                  "description": "Cancer-genome foundation model jointly pretrained on somatic SNVs and copy-number alterations from TCGA using masked reconstruction and cross-modal contrastive learning.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Foundation Model for the Cancer Genome",
+                    "homepage": null,
+                    "id": 1230462576,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-07-30T00:34:12Z",
+                    "open_issues": 0,
+                    "owner": "JW-Sidhom-Lab",
+                    "repo": "tessera",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Cancer Genome Foundation Models"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "EpiAgent",
+                  "description": "scATAC-seq foundation model pretrained on ~5M cells and >35B tokens for representation learning, annotation, imputation, perturbation prediction, and in-silico cCRE knockout.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A foundation model for single-cell epigenomic data",
+                    "homepage": null,
+                    "id": 905613864,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-06-03T02:28:35Z",
+                    "open_issues": 3,
+                    "owner": "xy-chen16",
+                    "repo": "EpiAgent",
+                    "stars": 72,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "scDNAm-GPT",
+                  "description": "Foundation model for single-cell whole-genome bisulfite sequencing with whole-genome context modeling at single-CpG resolution.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "scDNAm-GPM: A Generative Language Mamba for Analyzing Single-Cell Whole-Genome Bisulfite Sequencing",
+                    "homepage": null,
+                    "id": 935303419,
+                    "language": "Jupyter Notebook",
+                    "license": "MIT",
+                    "last_commit": "2026-08-07T07:23:18Z",
+                    "open_issues": 2,
+                    "owner": "ChaoqiLiang",
+                    "repo": "scDNAm-GPM",
+                    "stars": 20,
+                    "topics": [
+                      "scdnam-gpt"
+                    ]
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ChromFound",
+                  "description": "Genome-aware scATAC-seq foundation model pretrained on 1.97M cells across tissues and disease contexts for zero-shot cell representations, annotation, and cross-omics prediction.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A genome-wide foundation model for single-cell chromatin accessibility data",
+                    "homepage": null,
+                    "id": 1075383652,
+                    "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-04-25T04:53:16Z",
+                    "open_issues": 0,
+                    "owner": "SAIS-LifeScience",
+                    "repo": "ChromFound",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Single-Cell Epigenomics Foundation Models"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "VirTues",
+                  "description": "Spatial-proteomics foundation model learning marker-aware representations across proteins, cells, niches, and tissues from multiplexed imaging.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A foundation model framework for analyzing multiplexed tissue imaging data across molecular, cellular and tissue scales enabling clinical diagnostics, biological discovery and patient case retrieval.",
+                    "homepage": null,
+                    "id": 911954155,
+                    "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-09-07T17:10:40Z",
+                    "open_issues": 5,
+                    "owner": "bunnelab",
+                    "repo": "virtues",
+                    "stars": 156,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "CpGPT",
+                  "description": "DNA methylation foundation model pretrained on >150K samples for zero-shot imputation, array conversion, reference mapping, and downstream phenotype prediction.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "CpGPT: a Foundation Model for DNA Methylation.",
+                    "homepage": null,
+                    "id": 956141601,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-09-05T09:03:44Z",
+                    "open_issues": 6,
+                    "owner": "lucascamillomd",
+                    "repo": "CpGPT",
+                    "stars": 82,
+                    "topics": [
+                      "aging",
+                      "foundation-models",
+                      "methylation"
+                    ]
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "MethylGPT",
+                  "description": "Transformer foundation model for DNA methylation pretrained on >150K human methylomes across thousands of datasets, with 3M/7M/15M parameter variants.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This is the official codebase for methylGPT : a foundation model for the DNA methylome.",
+                    "homepage": "https://www.biorxiv.org/content/10.1101/2024.10.30.621013v2",
+                    "id": 904365394,
+                    "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-03-05T05:02:13Z",
+                    "open_issues": 5,
+                    "owner": "albert-ying",
+                    "repo": "MethylGPT",
+                    "stars": 67,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "OmicsFM",
+                  "description": "Modality-agnostic molecular-expression foundation model with matched proteomics, bulk-transcriptomics, and single-cell-transcriptomics checkpoints.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1259433688,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-10T08:34:54Z",
+                    "open_issues": 0,
+                    "owner": "CompOmics",
+                    "repo": "OmicsFM",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Casanovo Foundation",
+                  "description": "Tandem mass-spectrometry proteomics foundation model that reuses a pretrained Casanovo spectrum encoder for spectrum quality, chimericity, and post-translational-modification prediction.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A foundation model for mass spectrometry proteomics ",
+                    "homepage": null,
+                    "id": 1166441124,
+                    "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-19T22:27:40Z",
+                    "open_issues": 1,
+                    "owner": "Noble-Lab",
+                    "repo": "casanovo-tl",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other Omics Foundation Models"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RNA-FM",
+                  "description": "General-purpose RNA foundation model pretrained on large-scale RNA sequences for structural and functional representation learning.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Nature Methods: RNA foundation model (together with RhoFold)",
+                    "homepage": "https://ml4bio.github.io/RNA-FM/",
+                    "id": 512474951,
+                    "language": "Jupyter Notebook",
+                    "license": "MIT",
+                    "last_commit": "2025-05-27T05:29:04Z",
+                    "open_issues": 18,
+                    "owner": "ml4bio",
+                    "repo": "RNA-FM",
+                    "stars": 392,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "RiNALMo",
+                  "description": "RNA language-model family pretrained on tens of millions of RNA sequences for secondary-structure and functional prediction tasks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "RiboNucleic Acid (RNA) Language Model",
+                    "homepage": "https://www.nature.com/articles/s41467-025-60872-5",
+                    "id": 764873607,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-05-04T12:49:20Z",
+                    "open_issues": 1,
+                    "owner": "lbcb-sci",
+                    "repo": "RiNALMo",
+                    "stars": 177,
+                    "topics": [
+                      "bioinformatics",
+                      "biology",
+                      "foundation-model",
+                      "language-model",
+                      "rna",
+                      "rna-secondary-structure",
+                      "rna-seq",
+                      "rna-structure-prediction",
+                      "secondary-structure",
+                      "splice-site-prediction",
+                      "structural-biology"
+                    ]
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "RNA Foundation Models"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Enformer",
                   "description": "Transformer model predicting gene expression from DNA sequence.",
                   "children": [],
@@ -3706,6 +5070,48 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Evo 2",
+                  "description": "Genome foundation model trained on 9 trillion DNA base pairs across all domains of life with a 1M-token context window and single-nucleotide resolution.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Genome modeling and design across all domains of life",
+                    "homepage": null,
+                    "id": 932443361,
+                    "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-06-19T01:27:27Z",
+                    "open_issues": 56,
+                    "owner": "ArcInstitute",
+                    "repo": "evo2",
+                    "stars": 4238,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "AlphaGenome",
+                  "description": "Long-context DNA model predicting multimodal regulatory outputs including expression, splicing, chromatin features, and contact maps at near base-pair resolution.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This API provides programmatic access to the AlphaGenome model developed by Google DeepMind.",
+                    "homepage": "https://www.alphagenomedocs.com",
+                    "id": 873507399,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-30T11:02:25Z",
+                    "open_issues": 5,
+                    "owner": "google-deepmind",
+                    "repo": "alphagenome",
+                    "stars": 2176,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Evo",
                   "description": "Long-context genomic foundation model (up to 1M tokens).",
                   "children": [],
@@ -3720,7 +5126,7 @@
                     "open_issues": 41,
                     "owner": "evo-design",
                     "repo": "evo",
-                    "stars": 1570,
+                    "stars": 1571,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3940,6 +5346,32 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "modernGENA",
+                  "description": "ModernBERT-style DNA foundation-model family pretrained on hundreds of vertebrate genome assemblies for efficient long-sequence regulatory modeling.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "GENA-LM is a transformer masked language model trained on human DNA sequence.",
+                    "homepage": "https://academic.oup.com/nar/article/53/2/gkae1310/7954523",
+                    "id": 505468738,
+                    "language": "Jupyter Notebook",
+                    "license": "MIT",
+                    "last_commit": "2026-10-02T09:17:07Z",
+                    "open_issues": 5,
+                    "owner": "AIRI-Institute",
+                    "repo": "GENA_LM",
+                    "stars": 232,
+                    "topics": [
+                      "dna",
+                      "genomes",
+                      "language-model",
+                      "t2t"
+                    ]
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Sei",
                   "description": "Sequence-to-function framework learning a genome-wide regulatory activity code from DNA sequences for variant effect prediction.",
                   "children": [],
@@ -3974,7 +5406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:51:27.333Z",
+    "last_updated": "2026-10-03T04:36:31.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of computational biology.",
@@ -3982,11 +5414,11 @@
       "id": 459787963,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-14T03:13:10Z",
+      "last_commit": "2026-10-02T20:40:40Z",
       "open_issues": 0,
       "owner": "inoue0426",
       "repo": "awesome-computational-biology",
-      "stars": 158,
+      "stars": 159,
       "topics": [
         "awesome",
         "awesome-list",
@@ -3996,7 +5428,7 @@
         "machine-learning"
       ]
     },
-    "original_repository_sha": "97f3621ec1a72609f63de7558fc6d10d5e108799",
+    "original_repository_sha": "59c34315d329177a1b6c0235669f16964ef5fec5",
     "enhanced_repository": "enhansome/enhansome-computational-biology",
     "enhanced_repository_description": null,
     "title": "Awesome Computational Biology with stars"
