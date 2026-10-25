@@ -23,7 +23,7 @@
                     "open_issues": 7,
                     "owner": "mims-harvard",
                     "repo": "PrimeKG",
-                    "stars": 836,
+                    "stars": 835,
                     "topics": [
                       "bioinformatics",
                       "dataset",
@@ -460,7 +460,7 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-03-25T03:54:18Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "OATML-Markslab",
                 "repo": "ProteinGym",
                 "stars": 479,
@@ -588,10 +588,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1259,
+            "open_issues": 1262,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7081,
+            "stars": 7086,
             "topics": [
               "biology",
               "deep-learning",
@@ -615,11 +615,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-24T05:16:58Z",
-            "open_issues": 99,
+            "last_commit": "2026-10-25T05:44:49Z",
+            "open_issues": 98,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3635,
+            "stars": 3637,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -1005,7 +1005,7 @@
             "open_issues": 2,
             "owner": "yutongo",
             "repo": "TIGON",
-            "stars": 60,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
@@ -1344,6 +1344,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "THERAPI",
+                  "description": "Cell-line-to-patient transfer framework that aligns tumor transcriptomes with cancer cell lines and integrates perturbation and gene-level representations for patient drug response prediction.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 983914103,
+                    "language": "Jupyter Notebook",
+                    "license": null,
+                    "last_commit": "2026-02-15T22:41:05Z",
+                    "open_issues": 0,
+                    "owner": "Sunginyoung",
+                    "repo": "THERAPI",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-03T04:36:31.587Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "DGDRP",
                   "description": "Multi-view embedding neural network.",
                   "children": [],
@@ -1362,27 +1383,6 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "THERAPI",
-                  "description": "Cell-line-to-patient transfer framework that aligns tumor transcriptomes with cancer cell lines and integrates perturbation and gene-level representations for patient drug response prediction.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 983914103,
-                    "language": "Jupyter Notebook",
-                    "license": null,
-                    "last_commit": "2026-02-15T22:41:05Z",
-                    "open_issues": 0,
-                    "owner": "Sunginyoung",
-                    "repo": "THERAPI",
-                    "stars": 1,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-03T04:36:31.587Z"
                 }
               ],
               "description": null,
@@ -1718,7 +1718,7 @@
                     "open_issues": 18,
                     "owner": "kexinhuang12345",
                     "repo": "DeepPurpose",
-                    "stars": 1198,
+                    "stars": 1199,
                     "topics": [
                       "bioinformatics",
                       "covid19",
@@ -1982,10 +1982,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-05-02T13:59:19Z",
-                    "open_issues": 132,
+                    "open_issues": 133,
                     "owner": "gcorso",
                     "repo": "DiffDock",
-                    "stars": 1586,
+                    "stars": 1587,
                     "topics": [
                       "binding",
                       "computational-biology",
@@ -2464,7 +2464,7 @@
                     "open_issues": 131,
                     "owner": "snap-stanford",
                     "repo": "Biomni",
-                    "stars": 4005,
+                    "stars": 4010,
                     "topics": [
                       "agent",
                       "ai",
@@ -2485,7 +2485,7 @@
                     "id": 942272855,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T09:58:08Z",
+                    "last_commit": "2026-10-25T12:09:14Z",
                     "open_issues": 12,
                     "owner": "mims-harvard",
                     "repo": "ToolUniverse",
@@ -2523,7 +2523,7 @@
                     "id": 1166871123,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-24T08:47:54Z",
+                    "last_commit": "2026-10-25T08:47:21Z",
                     "open_issues": 57,
                     "owner": "ClawBio",
                     "repo": "ClawBio",
@@ -2788,7 +2788,7 @@
                     "id": 799863312,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-20T02:19:09Z",
+                    "last_commit": "2026-10-24T18:07:29Z",
                     "open_issues": 0,
                     "owner": "Liu-Hy",
                     "repo": "GenoMAS",
@@ -2904,7 +2904,7 @@
                     "open_issues": 65,
                     "owner": "SamuelSchmidgall",
                     "repo": "AgentLaboratory",
-                    "stars": 5910,
+                    "stars": 5911,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -2925,7 +2925,7 @@
                     "open_issues": 7,
                     "owner": "zou-group",
                     "repo": "virtual-lab",
-                    "stars": 757,
+                    "stars": 756,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -2953,7 +2953,7 @@
                     "open_issues": 4,
                     "owner": "jmiao24",
                     "repo": "Paper2Agent",
-                    "stars": 3877,
+                    "stars": 3882,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -2990,7 +2990,7 @@
                         "open_issues": 175,
                         "owner": "bowang-lab",
                         "repo": "scGPT",
-                        "stars": 1659,
+                        "stars": 1658,
                         "topics": [
                           "foundation-model",
                           "gpt",
@@ -3078,7 +3078,7 @@
                         "open_issues": 3,
                         "owner": "snap-stanford",
                         "repo": "UCE",
-                        "stars": 350,
+                        "stars": 351,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3158,7 +3158,7 @@
                         "id": 993564936,
                         "language": "Jupyter Notebook",
                         "license": "MIT",
-                        "last_commit": "2026-10-08T22:48:05Z",
+                        "last_commit": "2026-10-24T13:36:21Z",
                         "open_issues": 9,
                         "owner": "KangBoming",
                         "repo": "BulkFormer",
@@ -4014,7 +4014,7 @@
                         "open_issues": 113,
                         "owner": "deepmodeling",
                         "repo": "Uni-Mol",
-                        "stars": 1171,
+                        "stars": 1174,
                         "topics": [
                           "deep-learning",
                           "molecular-modeling",
@@ -4040,7 +4040,7 @@
                         "open_issues": 113,
                         "owner": "deepmodeling",
                         "repo": "Uni-Mol",
-                        "stars": 1171,
+                        "stars": 1174,
                         "topics": [
                           "deep-learning",
                           "molecular-modeling",
@@ -4194,7 +4194,7 @@
                         "open_issues": 115,
                         "owner": "facebookresearch",
                         "repo": "esm",
-                        "stars": 4170,
+                        "stars": 4171,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4215,7 +4215,7 @@
                         "open_issues": 80,
                         "owner": "Biohub",
                         "repo": "esm",
-                        "stars": 3002,
+                        "stars": 3004,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4257,7 +4257,7 @@
                         "open_issues": 40,
                         "owner": "salesforce",
                         "repo": "progen",
-                        "stars": 707,
+                        "stars": 708,
                         "topics": [
                           "generative-model",
                           "language-model",
@@ -4310,7 +4310,7 @@
                         "open_issues": 25,
                         "owner": "google-deepmind",
                         "repo": "alphafold3",
-                        "stars": 8674,
+                        "stars": 8678,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4331,7 +4331,7 @@
                         "open_issues": 135,
                         "owner": "jwohlwend",
                         "repo": "boltz",
-                        "stars": 4268,
+                        "stars": 4269,
                         "topics": [
                           "binding-prediction",
                           "drug-discovery",
@@ -4356,7 +4356,7 @@
                         "open_issues": 135,
                         "owner": "jwohlwend",
                         "repo": "boltz",
-                        "stars": 4268,
+                        "stars": 4269,
                         "topics": [
                           "binding-prediction",
                           "drug-discovery",
@@ -4381,7 +4381,7 @@
                         "open_issues": 115,
                         "owner": "facebookresearch",
                         "repo": "esm",
-                        "stars": 4170,
+                        "stars": 4171,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4424,7 +4424,7 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-07-15T18:08:01Z",
-                        "open_issues": 245,
+                        "open_issues": 246,
                         "owner": "RosettaCommons",
                         "repo": "RFdiffusion",
                         "stars": 3106,
@@ -4448,7 +4448,7 @@
                         "open_issues": 80,
                         "owner": "Biohub",
                         "repo": "esm",
-                        "stars": 3002,
+                        "stars": 3004,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4469,7 +4469,7 @@
                         "open_issues": 99,
                         "owner": "RosettaCommons",
                         "repo": "RoseTTAFold",
-                        "stars": 2275,
+                        "stars": 2278,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4532,10 +4532,10 @@
                         "language": "Jupyter Notebook",
                         "license": "MIT",
                         "last_commit": "2024-08-14T02:57:30Z",
-                        "open_issues": 89,
+                        "open_issues": 90,
                         "owner": "dauparas",
                         "repo": "ProteinMPNN",
-                        "stars": 1888,
+                        "stars": 1890,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4721,7 +4721,7 @@
                     "open_issues": 4,
                     "owner": "lilab-stanford",
                     "repo": "MUSK",
-                    "stars": 247,
+                    "stars": 248,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
@@ -5063,7 +5063,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15247,
+                    "stars": 15248,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
@@ -5084,7 +5084,7 @@
                     "open_issues": 56,
                     "owner": "ArcInstitute",
                     "repo": "evo2",
-                    "stars": 4280,
+                    "stars": 4282,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -5105,7 +5105,7 @@
                     "open_issues": 9,
                     "owner": "google-deepmind",
                     "repo": "alphagenome",
-                    "stars": 2196,
+                    "stars": 2199,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -5406,7 +5406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:59:45.089Z",
+    "last_updated": "2026-10-25T12:34:01.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of computational biology.",
