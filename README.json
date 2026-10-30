@@ -204,7 +204,7 @@
                 "open_issues": 2,
                 "owner": "theislab",
                 "repo": "Chem-PerturBridge",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:36:31.587Z"
@@ -225,7 +225,7 @@
                 "open_issues": 2,
                 "owner": "theislab",
                 "repo": "Chem-PerturBridge",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:36:31.587Z"
@@ -246,7 +246,7 @@
                 "open_issues": 2,
                 "owner": "theislab",
                 "repo": "Chem-PerturBridge",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:36:31.587Z"
@@ -267,7 +267,7 @@
                 "open_issues": 2,
                 "owner": "theislab",
                 "repo": "Chem-PerturBridge",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:36:31.587Z"
@@ -288,7 +288,7 @@
                 "open_issues": 2,
                 "owner": "theislab",
                 "repo": "Chem-PerturBridge",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:36:31.587Z"
@@ -309,7 +309,7 @@
                 "open_issues": 2,
                 "owner": "theislab",
                 "repo": "Chem-PerturBridge",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:36:31.587Z"
@@ -330,7 +330,7 @@
                 "open_issues": 2,
                 "owner": "theislab",
                 "repo": "Chem-PerturBridge",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:36:31.587Z"
@@ -386,7 +386,7 @@
                 "open_issues": 31,
                 "owner": "molecularsets",
                 "repo": "moses",
-                "stars": 996,
+                "stars": 997,
                 "topics": [
                   "benchmark",
                   "drug-discovery",
@@ -442,7 +442,7 @@
                 "open_issues": 13,
                 "owner": "BenevolentAI",
                 "repo": "guacamol",
-                "stars": 536,
+                "stars": 537,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:12.684Z"
@@ -588,10 +588,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1261,
+            "open_issues": 1266,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7106,
+            "stars": 7110,
             "topics": [
               "biology",
               "deep-learning",
@@ -615,11 +615,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-29T10:37:58Z",
-            "open_issues": 100,
+            "last_commit": "2026-10-30T10:00:54Z",
+            "open_issues": 106,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3650,
+            "stars": 3653,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -645,7 +645,7 @@
             "open_issues": 1016,
             "owner": "alexdobin",
             "repo": "STAR",
-            "stars": 2276,
+            "stars": 2277,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
@@ -865,8 +865,8 @@
             "id": 559861395,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-26T18:29:46Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-30T00:44:56Z",
+            "open_issues": 10,
             "owner": "CSOgroup",
             "repo": "cellcharter",
             "stars": 203,
@@ -911,7 +911,7 @@
             "open_issues": 27,
             "owner": "zcang",
             "repo": "COMMOT",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
@@ -1026,7 +1026,7 @@
             "open_issues": 1,
             "owner": "ElliotXie",
             "repo": "autozyme",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "acceleration",
               "agentic-ai",
@@ -1773,6 +1773,27 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "GraphDTA",
+                  "description": "Graph neural network–based DTI prediction using molecular graphs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "GraphDTA: Predicting drug-target binding affinity with graph neural networks",
+                    "homepage": "https://doi.org/10.1093/bioinformatics/btaa921",
+                    "id": 191466400,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2021-04-13T05:13:35Z",
+                    "open_issues": 2,
+                    "owner": "thinng",
+                    "repo": "GraphDTA",
+                    "stars": 310,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T19:26:12.684Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "DeepDTA",
                   "description": "Deep learning model using CNNs on protein sequences and drug SMILES.",
                   "children": [],
@@ -1797,27 +1818,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "GraphDTA",
-                  "description": "Graph neural network–based DTI prediction using molecular graphs.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "GraphDTA: Predicting drug-target binding affinity with graph neural networks",
-                    "homepage": "https://doi.org/10.1093/bioinformatics/btaa921",
-                    "id": 191466400,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2021-04-13T05:13:35Z",
-                    "open_issues": 2,
-                    "owner": "thinng",
-                    "repo": "GraphDTA",
-                    "stars": 309,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T19:26:12.684Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "MolTrans",
                   "description": "Transformer-based DTI model leveraging molecular substructures.",
                   "children": [],
@@ -1832,7 +1832,7 @@
                     "open_issues": 4,
                     "owner": "kexinhuang12345",
                     "repo": "MolTrans",
-                    "stars": 250,
+                    "stars": 251,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
@@ -1985,7 +1985,7 @@
                     "open_issues": 133,
                     "owner": "gcorso",
                     "repo": "DiffDock",
-                    "stars": 1590,
+                    "stars": 1592,
                     "topics": [
                       "binding",
                       "computational-biology",
@@ -2292,7 +2292,7 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "BioGPT",
-                "stars": 4483,
+                "stars": 4482,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:12.684Z"
@@ -2464,7 +2464,7 @@
                     "open_issues": 131,
                     "owner": "snap-stanford",
                     "repo": "Biomni",
-                    "stars": 4026,
+                    "stars": 4030,
                     "topics": [
                       "agent",
                       "ai",
@@ -2489,7 +2489,7 @@
                     "open_issues": 14,
                     "owner": "mims-harvard",
                     "repo": "ToolUniverse",
-                    "stars": 1764,
+                    "stars": 1766,
                     "topics": [
                       "agents",
                       "ai-agents",
@@ -2523,8 +2523,8 @@
                     "id": 1166871123,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-29T11:57:10Z",
-                    "open_issues": 50,
+                    "last_commit": "2026-10-30T08:48:24Z",
+                    "open_issues": 52,
                     "owner": "ClawBio",
                     "repo": "ClawBio",
                     "stars": 1171,
@@ -2557,7 +2557,7 @@
                     "open_issues": 3,
                     "owner": "BOBQWERA",
                     "repo": "BioMedAgent",
-                    "stars": 151,
+                    "stars": 152,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -2904,7 +2904,7 @@
                     "open_issues": 65,
                     "owner": "SamuelSchmidgall",
                     "repo": "AgentLaboratory",
-                    "stars": 5915,
+                    "stars": 5914,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -2925,7 +2925,7 @@
                     "open_issues": 7,
                     "owner": "zou-group",
                     "repo": "virtual-lab",
-                    "stars": 759,
+                    "stars": 762,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -2953,7 +2953,7 @@
                     "open_issues": 4,
                     "owner": "jmiao24",
                     "repo": "Paper2Agent",
-                    "stars": 3909,
+                    "stars": 3914,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -3236,7 +3236,7 @@
                         "open_issues": 32,
                         "owner": "mahmoodlab",
                         "repo": "UNI",
-                        "stars": 795,
+                        "stars": 796,
                         "topics": [
                           "computational-pathology",
                           "digital-pathology",
@@ -3333,7 +3333,7 @@
                         "open_issues": 24,
                         "owner": "theislab",
                         "repo": "nicheformer",
-                        "stars": 178,
+                        "stars": 179,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3589,8 +3589,8 @@
                         "id": 102567256,
                         "language": "Python",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-10-28T19:18:46Z",
-                        "open_issues": 26,
+                        "last_commit": "2026-10-30T08:56:22Z",
+                        "open_issues": 28,
                         "owner": "scverse",
                         "repo": "scvi-tools",
                         "stars": 1720,
@@ -3621,8 +3621,8 @@
                         "id": 102567256,
                         "language": "Python",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-10-28T19:18:46Z",
-                        "open_issues": 26,
+                        "last_commit": "2026-10-30T08:56:22Z",
+                        "open_issues": 28,
                         "owner": "scverse",
                         "repo": "scvi-tools",
                         "stars": 1720,
@@ -3708,7 +3708,7 @@
                         "open_issues": 20,
                         "owner": "xCompass-AI",
                         "repo": "GeneCompass",
-                        "stars": 125,
+                        "stars": 126,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4194,7 +4194,7 @@
                         "open_issues": 115,
                         "owner": "facebookresearch",
                         "repo": "esm",
-                        "stars": 4177,
+                        "stars": 4175,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4211,11 +4211,11 @@
                         "id": 819771555,
                         "language": "Jupyter Notebook",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-28T20:22:04Z",
-                        "open_issues": 81,
+                        "last_commit": "2026-10-30T05:38:24Z",
+                        "open_issues": 80,
                         "owner": "Biohub",
                         "repo": "esm",
-                        "stars": 3006,
+                        "stars": 3008,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4306,11 +4306,11 @@
                         "id": 886637886,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-10-29T11:27:33Z",
-                        "open_issues": 25,
+                        "last_commit": "2026-10-30T13:14:45Z",
+                        "open_issues": 24,
                         "owner": "google-deepmind",
                         "repo": "alphafold3",
-                        "stars": 8696,
+                        "stars": 8699,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4328,10 +4328,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-05-29T08:20:25Z",
-                        "open_issues": 134,
+                        "open_issues": 133,
                         "owner": "jwohlwend",
                         "repo": "boltz",
-                        "stars": 4281,
+                        "stars": 4282,
                         "topics": [
                           "binding-prediction",
                           "drug-discovery",
@@ -4353,10 +4353,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-05-29T08:20:25Z",
-                        "open_issues": 134,
+                        "open_issues": 133,
                         "owner": "jwohlwend",
                         "repo": "boltz",
-                        "stars": 4281,
+                        "stars": 4282,
                         "topics": [
                           "binding-prediction",
                           "drug-discovery",
@@ -4381,7 +4381,7 @@
                         "open_issues": 115,
                         "owner": "facebookresearch",
                         "repo": "esm",
-                        "stars": 4177,
+                        "stars": 4175,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4427,7 +4427,7 @@
                         "open_issues": 247,
                         "owner": "RosettaCommons",
                         "repo": "RFdiffusion",
-                        "stars": 3109,
+                        "stars": 3110,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4444,11 +4444,11 @@
                         "id": 819771555,
                         "language": "Jupyter Notebook",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-28T20:22:04Z",
-                        "open_issues": 81,
+                        "last_commit": "2026-10-30T05:38:24Z",
+                        "open_issues": 80,
                         "owner": "Biohub",
                         "repo": "esm",
-                        "stars": 3006,
+                        "stars": 3008,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4514,7 +4514,7 @@
                         "open_issues": 99,
                         "owner": "chaidiscovery",
                         "repo": "chai-lab",
-                        "stars": 2006,
+                        "stars": 2007,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4831,7 +4831,7 @@
                     "id": 935303419,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T11:00:32Z",
+                    "last_commit": "2026-10-30T04:23:22Z",
                     "open_issues": 2,
                     "owner": "ChaoqiLiang",
                     "repo": "scDNAm-GPM",
@@ -5063,7 +5063,7 @@
                     "open_issues": 358,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15255,
+                    "stars": 15258,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
@@ -5147,7 +5147,7 @@
                     "open_issues": 17,
                     "owner": "instadeepai",
                     "repo": "nucleotide-transformer",
-                    "stars": 928,
+                    "stars": 932,
                     "topics": [
                       "biology",
                       "deep-learning",
@@ -5176,7 +5176,7 @@
                     "open_issues": 39,
                     "owner": "HazyResearch",
                     "repo": "hyena-dna",
-                    "stars": 808,
+                    "stars": 807,
                     "topics": [
                       "foundation-models",
                       "genomics",
@@ -5406,7 +5406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T14:18:00.146Z",
+    "last_updated": "2026-10-30T14:07:11.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of computational biology.",
