@@ -151,7 +151,7 @@
                 "open_issues": 29,
                 "owner": "jump-cellpainting",
                 "repo": "datasets",
-                "stars": 193,
+                "stars": 194,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:12.684Z"
@@ -169,7 +169,7 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2025-02-25T16:38:01Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "sanderlab",
                 "repo": "scPerturb",
                 "stars": 192,
@@ -463,7 +463,7 @@
                 "open_issues": 40,
                 "owner": "OATML-Markslab",
                 "repo": "ProteinGym",
-                "stars": 487,
+                "stars": 488,
                 "topics": [
                   "benchmark",
                   "computational-biology",
@@ -591,7 +591,7 @@
             "open_issues": 1294,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7145,
+            "stars": 7146,
             "topics": [
               "biology",
               "deep-learning",
@@ -615,11 +615,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-13T08:34:06Z",
-            "open_issues": 112,
+            "last_commit": "2026-11-14T07:06:57Z",
+            "open_issues": 115,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3686,
+            "stars": 3687,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -714,8 +714,8 @@
             "id": 660443,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-13T12:12:09Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-14T11:17:12Z",
+            "open_issues": 20,
             "owner": "cdk",
             "repo": "cdk",
             "stars": 614,
@@ -746,7 +746,7 @@
             "open_issues": 23,
             "owner": "chris-mcginnis-ucsf",
             "repo": "DoubletFinder",
-            "stars": 575,
+            "stars": 574,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
@@ -2168,7 +2168,7 @@
                     "open_issues": 22,
                     "owner": "devalab",
                     "repo": "molgpt",
-                    "stars": 178,
+                    "stars": 179,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
@@ -2461,10 +2461,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-09T19:06:15Z",
-                    "open_issues": 132,
+                    "open_issues": 135,
                     "owner": "snap-stanford",
                     "repo": "Biomni",
-                    "stars": 4078,
+                    "stars": 4079,
                     "topics": [
                       "agent",
                       "ai",
@@ -2485,11 +2485,11 @@
                     "id": 942272855,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T12:58:54Z",
-                    "open_issues": 17,
+                    "last_commit": "2026-11-14T10:45:56Z",
+                    "open_issues": 11,
                     "owner": "mims-harvard",
                     "repo": "ToolUniverse",
-                    "stars": 1789,
+                    "stars": 1790,
                     "topics": [
                       "agents",
                       "ai-agents",
@@ -2523,11 +2523,11 @@
                     "id": 1166871123,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-13T08:48:27Z",
-                    "open_issues": 59,
+                    "last_commit": "2026-11-14T08:48:55Z",
+                    "open_issues": 57,
                     "owner": "ClawBio",
                     "repo": "ClawBio",
-                    "stars": 1182,
+                    "stars": 1183,
                     "topics": [
                       "ai-agents",
                       "bioinformatics",
@@ -2578,7 +2578,7 @@
                     "open_issues": 2,
                     "owner": "ai4nucleome",
                     "repo": "BioMaster",
-                    "stars": 121,
+                    "stars": 122,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -2767,7 +2767,7 @@
                     "id": 1013790634,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T02:38:37Z",
+                    "last_commit": "2026-11-14T02:49:11Z",
                     "open_issues": 0,
                     "owner": "zaixizhang",
                     "repo": "STELLA",
@@ -2953,7 +2953,7 @@
                     "open_issues": 5,
                     "owner": "jmiao24",
                     "repo": "Paper2Agent",
-                    "stars": 4019,
+                    "stars": 4021,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -3078,7 +3078,7 @@
                         "open_issues": 3,
                         "owner": "snap-stanford",
                         "repo": "UCE",
-                        "stars": 354,
+                        "stars": 355,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3369,9 +3369,9 @@
                         "description": "DeepSpot: Deep learning model for predicting spatial transcriptomics from H&E histopathology images. Supports spot-level (Visium) and single-cell (Xenium) resolution.",
                         "homepage": "https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3",
                         "id": 861854293,
-                        "language": "Jupyter Notebook",
+                        "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-09T06:10:30Z",
+                        "last_commit": "2026-11-14T08:28:20Z",
                         "open_issues": 0,
                         "owner": "ratschlab",
                         "repo": "DeepSpot",
@@ -3409,7 +3409,7 @@
                         "id": 1268116731,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-09-04T09:45:11Z",
+                        "last_commit": "2026-11-14T08:28:15Z",
                         "open_issues": 2,
                         "owner": "ratschlab",
                         "repo": "DeepSpotM",
@@ -3449,7 +3449,7 @@
                         "id": 757518853,
                         "language": "Jupyter Notebook",
                         "license": "MIT",
-                        "last_commit": "2026-11-09T06:10:06Z",
+                        "last_commit": "2026-11-14T08:28:07Z",
                         "open_issues": 0,
                         "owner": "ratschlab",
                         "repo": "aestetik",
@@ -3484,7 +3484,7 @@
                         "id": 1075947904,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-09T06:05:35Z",
+                        "last_commit": "2026-11-14T08:28:11Z",
                         "open_issues": 0,
                         "owner": "ratschlab",
                         "repo": "DeepSpot2Cell",
@@ -3589,7 +3589,7 @@
                         "id": 102567256,
                         "language": "Python",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-11-12T17:48:23Z",
+                        "last_commit": "2026-11-13T16:48:37Z",
                         "open_issues": 27,
                         "owner": "scverse",
                         "repo": "scvi-tools",
@@ -3621,7 +3621,7 @@
                         "id": 102567256,
                         "language": "Python",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-11-12T17:48:23Z",
+                        "last_commit": "2026-11-13T16:48:37Z",
                         "open_issues": 27,
                         "owner": "scverse",
                         "repo": "scvi-tools",
@@ -3787,33 +3787,6 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "BABEL",
-                      "description": "Cross-modality translation model enabling prediction between scRNA-seq and scATAC-seq profiles without requiring paired single-cell measurements.",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Deep learning model for single-cell inference of multi-omic profiles from a single input modality.",
-                        "homepage": "https://www.pnas.org/content/118/15/e2023070118",
-                        "id": 303775141,
-                        "language": "Jupyter Notebook",
-                        "license": null,
-                        "last_commit": "2023-07-17T02:11:11Z",
-                        "open_issues": 8,
-                        "owner": "wukevin",
-                        "repo": "babel",
-                        "stars": 53,
-                        "topics": [
-                          "deep-neural-networks",
-                          "multi-omics",
-                          "scatac-seq",
-                          "scrna-seq",
-                          "single-cell"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T19:26:12.684Z"
-                    },
-                    {
-                      "node_type": "item",
                       "title": "UnitedNet",
                       "description": "Interpretable multi-task deep neural network for single-cell multi-omics integration spanning transcriptomics, chromatin accessibility, and proteomics.",
                       "children": [],
@@ -3830,6 +3803,33 @@
                         "repo": "UnitedNet",
                         "stars": 53,
                         "topics": []
+                      },
+                      "first_seen": "2026-08-28T19:26:12.684Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "BABEL",
+                      "description": "Cross-modality translation model enabling prediction between scRNA-seq and scATAC-seq profiles without requiring paired single-cell measurements.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Deep learning model for single-cell inference of multi-omic profiles from a single input modality.",
+                        "homepage": "https://www.pnas.org/content/118/15/e2023070118",
+                        "id": 303775141,
+                        "language": "Jupyter Notebook",
+                        "license": null,
+                        "last_commit": "2023-07-17T02:11:11Z",
+                        "open_issues": 8,
+                        "owner": "wukevin",
+                        "repo": "babel",
+                        "stars": 52,
+                        "topics": [
+                          "deep-neural-networks",
+                          "multi-omics",
+                          "scatac-seq",
+                          "scrna-seq",
+                          "single-cell"
+                        ]
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
                     },
@@ -4306,11 +4306,11 @@
                         "id": 886637886,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-13T12:50:02Z",
+                        "last_commit": "2026-11-13T15:55:23Z",
                         "open_issues": 26,
                         "owner": "google-deepmind",
                         "repo": "alphafold3",
-                        "stars": 8772,
+                        "stars": 8775,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4328,7 +4328,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-05-29T08:20:25Z",
-                        "open_issues": 144,
+                        "open_issues": 143,
                         "owner": "jwohlwend",
                         "repo": "boltz",
                         "stars": 4322,
@@ -4353,7 +4353,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-05-29T08:20:25Z",
-                        "open_issues": 144,
+                        "open_issues": 143,
                         "owner": "jwohlwend",
                         "repo": "boltz",
                         "stars": 4322,
@@ -4402,7 +4402,7 @@
                         "open_issues": 246,
                         "owner": "aqlaboratory",
                         "repo": "openfold",
-                        "stars": 3454,
+                        "stars": 3455,
                         "topics": [
                           "alphafold2",
                           "protein-structure",
@@ -4424,7 +4424,7 @@
                         "language": "Python",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-28T16:51:54Z",
-                        "open_issues": 248,
+                        "open_issues": 247,
                         "owner": "RosettaCommons",
                         "repo": "RFdiffusion",
                         "stars": 3138,
@@ -4469,7 +4469,7 @@
                         "open_issues": 99,
                         "owner": "RosettaCommons",
                         "repo": "RoseTTAFold",
-                        "stars": 2281,
+                        "stars": 2278,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4490,7 +4490,7 @@
                         "open_issues": 141,
                         "owner": "bytedance",
                         "repo": "Protenix",
-                        "stars": 2109,
+                        "stars": 2110,
                         "topics": [
                           "ai4science",
                           "research"
@@ -5102,10 +5102,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-11T13:49:23Z",
-                    "open_issues": 11,
+                    "open_issues": 12,
                     "owner": "google-deepmind",
                     "repo": "alphagenome",
-                    "stars": 2237,
+                    "stars": 2238,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -5233,7 +5233,7 @@
                     "open_issues": 52,
                     "owner": "MAGICS-LAB",
                     "repo": "DNABERT_2",
-                    "stars": 519,
+                    "stars": 520,
                     "topics": [
                       "covid",
                       "dataset",
@@ -5288,7 +5288,7 @@
                     "id": 462508804,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-11-13T13:53:53Z",
+                    "last_commit": "2026-11-13T22:19:10Z",
                     "open_issues": 19,
                     "owner": "songlab-cal",
                     "repo": "gpn",
@@ -5406,7 +5406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T15:23:11.858Z",
+    "last_updated": "2026-11-14T14:08:35.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of computational biology.",
