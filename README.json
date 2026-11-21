@@ -661,7 +661,7 @@
             "open_issues": 1298,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7152,
+            "stars": 7153,
             "topics": [
               "biology",
               "deep-learning",
@@ -685,8 +685,8 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-20T05:00:43Z",
-            "open_issues": 122,
+            "last_commit": "2026-11-21T04:40:03Z",
+            "open_issues": 123,
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3701,
@@ -784,8 +784,8 @@
             "id": 660443,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-20T12:39:14Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-21T13:53:37Z",
+            "open_issues": 11,
             "owner": "cdk",
             "repo": "cdk",
             "stars": 613,
@@ -1002,7 +1002,7 @@
             "open_issues": 54,
             "owner": "Durenlab",
             "repo": "LINGER",
-            "stars": 142,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:12.684Z"
@@ -1075,7 +1075,7 @@
             "open_issues": 0,
             "owner": "ElliotXie",
             "repo": "autozyme",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "acceleration",
               "agentic-ai",
@@ -2259,7 +2259,7 @@
                     "open_issues": 3,
                     "owner": "LigandPro",
                     "repo": "Matcha",
-                    "stars": 37,
+                    "stars": 38,
                     "topics": [
                       "alphafold3",
                       "computational-chemistry",
@@ -2531,10 +2531,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-16T19:06:06Z",
-                    "open_issues": 138,
+                    "open_issues": 141,
                     "owner": "snap-stanford",
                     "repo": "Biomni",
-                    "stars": 4097,
+                    "stars": 4100,
                     "topics": [
                       "agent",
                       "ai",
@@ -2555,11 +2555,11 @@
                     "id": 942272855,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T14:47:43Z",
-                    "open_issues": 15,
+                    "last_commit": "2026-11-21T12:20:37Z",
+                    "open_issues": 19,
                     "owner": "mims-harvard",
                     "repo": "ToolUniverse",
-                    "stars": 1797,
+                    "stars": 1798,
                     "topics": [
                       "agents",
                       "ai-agents",
@@ -2593,11 +2593,11 @@
                     "id": 1166871123,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-20T10:12:29Z",
-                    "open_issues": 82,
+                    "last_commit": "2026-11-21T09:16:38Z",
+                    "open_issues": 76,
                     "owner": "ClawBio",
                     "repo": "ClawBio",
-                    "stars": 1186,
+                    "stars": 1188,
                     "topics": [
                       "ai-agents",
                       "bioinformatics",
@@ -2995,7 +2995,7 @@
                     "open_issues": 75,
                     "owner": "SamuelSchmidgall",
                     "repo": "AgentLaboratory",
-                    "stars": 5933,
+                    "stars": 5934,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -3044,7 +3044,7 @@
                     "open_issues": 6,
                     "owner": "jmiao24",
                     "repo": "Paper2Agent",
-                    "stars": 4073,
+                    "stars": 4079,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -3148,7 +3148,7 @@
                         "open_issues": 21,
                         "owner": "snap-stanford",
                         "repo": "GEARS",
-                        "stars": 427,
+                        "stars": 428,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4271,7 +4271,7 @@
                         "open_issues": 0,
                         "owner": "TheLuoFengLab",
                         "repo": "ChemFM",
-                        "stars": 88,
+                        "stars": 89,
                         "topics": []
                       },
                       "first_seen": "2026-10-03T04:36:31.587Z"
@@ -4298,14 +4298,14 @@
                       "repo_info": {
                         "archived": true,
                         "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
-                        "homepage": null,
+                        "homepage": "https://biohub.github.io/esm-archive/",
                         "id": 291783502,
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2024-02-07T03:31:38Z",
                         "open_issues": 115,
-                        "owner": "facebookresearch",
-                        "repo": "esm",
+                        "owner": "Biohub",
+                        "repo": "esm-archive",
                         "stars": 4175,
                         "topics": []
                       },
@@ -4323,8 +4323,8 @@
                         "id": 819771555,
                         "language": "Jupyter Notebook",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-20T00:35:58Z",
-                        "open_issues": 82,
+                        "last_commit": "2026-11-20T18:24:41Z",
+                        "open_issues": 83,
                         "owner": "Biohub",
                         "repo": "esm",
                         "stars": 3028,
@@ -4422,7 +4422,7 @@
                         "open_issues": 26,
                         "owner": "google-deepmind",
                         "repo": "alphafold3",
-                        "stars": 8789,
+                        "stars": 8796,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4443,7 +4443,7 @@
                         "open_issues": 142,
                         "owner": "jwohlwend",
                         "repo": "boltz",
-                        "stars": 4332,
+                        "stars": 4331,
                         "topics": [
                           "binding-prediction",
                           "drug-discovery",
@@ -4468,7 +4468,7 @@
                         "open_issues": 142,
                         "owner": "jwohlwend",
                         "repo": "boltz",
-                        "stars": 4332,
+                        "stars": 4331,
                         "topics": [
                           "binding-prediction",
                           "drug-discovery",
@@ -4485,14 +4485,14 @@
                       "repo_info": {
                         "archived": true,
                         "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
-                        "homepage": null,
+                        "homepage": "https://biohub.github.io/esm-archive/",
                         "id": 291783502,
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2024-02-07T03:31:38Z",
                         "open_issues": 115,
-                        "owner": "facebookresearch",
-                        "repo": "esm",
+                        "owner": "Biohub",
+                        "repo": "esm-archive",
                         "stars": 4175,
                         "topics": []
                       },
@@ -4556,8 +4556,8 @@
                         "id": 819771555,
                         "language": "Jupyter Notebook",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-20T00:35:58Z",
-                        "open_issues": 82,
+                        "last_commit": "2026-11-20T18:24:41Z",
+                        "open_issues": 83,
                         "owner": "Biohub",
                         "repo": "esm",
                         "stars": 3028,
@@ -5175,7 +5175,7 @@
                     "open_issues": 360,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15282,
+                    "stars": 15289,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
@@ -5214,7 +5214,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-11T13:49:23Z",
-                    "open_issues": 11,
+                    "open_issues": 9,
                     "owner": "google-deepmind",
                     "repo": "alphagenome",
                     "stars": 2251,
@@ -5468,7 +5468,7 @@
                     "id": 505468738,
                     "language": "Jupyter Notebook",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T20:26:17Z",
+                    "last_commit": "2026-11-21T13:20:17Z",
                     "open_issues": 6,
                     "owner": "AIRI-Institute",
                     "repo": "GENA_LM",
@@ -5518,7 +5518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:08:10.327Z",
+    "last_updated": "2026-11-21T15:21:21.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of computational biology.",
