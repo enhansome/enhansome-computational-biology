@@ -658,10 +658,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-20T19:01:34Z",
-            "open_issues": 1297,
+            "open_issues": 1300,
             "owner": "deepchem",
             "repo": "deepchem",
-            "stars": 7161,
+            "stars": 7163,
             "topics": [
               "biology",
               "deep-learning",
@@ -685,11 +685,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-26T14:48:39Z",
-            "open_issues": 136,
+            "last_commit": "2026-11-27T16:18:17Z",
+            "open_issues": 135,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3706,
+            "stars": 3707,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -784,8 +784,8 @@
             "id": 660443,
             "language": "Java",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-26T10:24:18Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-26T21:35:35Z",
+            "open_issues": 12,
             "owner": "cdk",
             "repo": "cdk",
             "stars": 614,
@@ -935,8 +935,8 @@
             "id": 559861395,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-23T17:05:02Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-27T00:44:32Z",
+            "open_issues": 11,
             "owner": "CSOgroup",
             "repo": "cellcharter",
             "stars": 206,
@@ -2055,7 +2055,7 @@
                     "open_issues": 134,
                     "owner": "gcorso",
                     "repo": "DiffDock",
-                    "stars": 1615,
+                    "stars": 1614,
                     "topics": [
                       "binding",
                       "computational-biology",
@@ -2555,8 +2555,8 @@
                     "id": 942272855,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-25T17:15:02Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-11-27T03:56:27Z",
+                    "open_issues": 16,
                     "owner": "mims-harvard",
                     "repo": "ToolUniverse",
                     "stars": 1811,
@@ -2593,11 +2593,11 @@
                     "id": 1166871123,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-26T10:10:58Z",
-                    "open_issues": 100,
+                    "last_commit": "2026-11-27T11:20:36Z",
+                    "open_issues": 102,
                     "owner": "ClawBio",
                     "repo": "ClawBio",
-                    "stars": 1190,
+                    "stars": 1193,
                     "topics": [
                       "ai-agents",
                       "bioinformatics",
@@ -2995,7 +2995,7 @@
                     "open_issues": 75,
                     "owner": "SamuelSchmidgall",
                     "repo": "AgentLaboratory",
-                    "stars": 5946,
+                    "stars": 5951,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -3016,7 +3016,7 @@
                     "open_issues": 8,
                     "owner": "zou-group",
                     "repo": "virtual-lab",
-                    "stars": 776,
+                    "stars": 777,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -3044,7 +3044,7 @@
                     "open_issues": 7,
                     "owner": "jmiao24",
                     "repo": "Paper2Agent",
-                    "stars": 4101,
+                    "stars": 4103,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -3081,7 +3081,7 @@
                         "open_issues": 175,
                         "owner": "bowang-lab",
                         "repo": "scGPT",
-                        "stars": 1678,
+                        "stars": 1679,
                         "topics": [
                           "foundation-model",
                           "gpt",
@@ -3106,7 +3106,7 @@
                         "open_issues": 14,
                         "owner": "vandijklab",
                         "repo": "cell2sentence",
-                        "stars": 899,
+                        "stars": 900,
                         "topics": []
                       },
                       "first_seen": "2026-11-17T16:52:38.914Z"
@@ -3148,7 +3148,7 @@
                         "open_issues": 21,
                         "owner": "snap-stanford",
                         "repo": "GEARS",
-                        "stars": 432,
+                        "stars": 433,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -3701,8 +3701,8 @@
                         "id": 102567256,
                         "language": "Python",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-11-26T15:26:09Z",
-                        "open_issues": 21,
+                        "last_commit": "2026-11-26T22:15:39Z",
+                        "open_issues": 23,
                         "owner": "scverse",
                         "repo": "scvi-tools",
                         "stars": 1738,
@@ -3733,8 +3733,8 @@
                         "id": 102567256,
                         "language": "Python",
                         "license": "BSD-3-Clause",
-                        "last_commit": "2026-11-26T15:26:09Z",
-                        "open_issues": 21,
+                        "last_commit": "2026-11-26T22:15:39Z",
+                        "open_issues": 23,
                         "owner": "scverse",
                         "repo": "scvi-tools",
                         "stars": 1738,
@@ -4126,7 +4126,7 @@
                         "open_issues": 113,
                         "owner": "deepmodeling",
                         "repo": "Uni-Mol",
-                        "stars": 1182,
+                        "stars": 1183,
                         "topics": [
                           "deep-learning",
                           "molecular-modeling",
@@ -4152,7 +4152,7 @@
                         "open_issues": 113,
                         "owner": "deepmodeling",
                         "repo": "Uni-Mol",
-                        "stars": 1182,
+                        "stars": 1183,
                         "topics": [
                           "deep-learning",
                           "molecular-modeling",
@@ -4225,7 +4225,7 @@
                         "open_issues": 19,
                         "owner": "tencent-ailab",
                         "repo": "grover",
-                        "stars": 395,
+                        "stars": 396,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4271,7 +4271,7 @@
                         "open_issues": 0,
                         "owner": "TheLuoFengLab",
                         "repo": "ChemFM",
-                        "stars": 89,
+                        "stars": 90,
                         "topics": []
                       },
                       "first_seen": "2026-10-03T04:36:31.587Z"
@@ -4327,7 +4327,7 @@
                         "open_issues": 82,
                         "owner": "Biohub",
                         "repo": "esm",
-                        "stars": 3034,
+                        "stars": 3035,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4418,11 +4418,11 @@
                         "id": 886637886,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-19T11:19:02Z",
-                        "open_issues": 27,
+                        "last_commit": "2026-11-26T18:14:54Z",
+                        "open_issues": 26,
                         "owner": "google-deepmind",
                         "repo": "alphafold3",
-                        "stars": 8816,
+                        "stars": 8818,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4560,7 +4560,7 @@
                         "open_issues": 82,
                         "owner": "Biohub",
                         "repo": "esm",
-                        "stars": 3034,
+                        "stars": 3035,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4647,7 +4647,7 @@
                         "open_issues": 90,
                         "owner": "dauparas",
                         "repo": "ProteinMPNN",
-                        "stars": 1918,
+                        "stars": 1920,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4727,7 +4727,7 @@
                     "open_issues": 49,
                     "owner": "hms-dbmi",
                     "repo": "CHIEF",
-                    "stars": 724,
+                    "stars": 725,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
@@ -4998,7 +4998,7 @@
                     "open_issues": 3,
                     "owner": "bunnelab",
                     "repo": "virtues",
-                    "stars": 168,
+                    "stars": 169,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -5175,7 +5175,7 @@
                     "open_issues": 360,
                     "owner": "google-deepmind",
                     "repo": "deepmind-research",
-                    "stars": 15306,
+                    "stars": 15311,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
@@ -5196,7 +5196,7 @@
                     "open_issues": 59,
                     "owner": "ArcInstitute",
                     "repo": "evo2",
-                    "stars": 4340,
+                    "stars": 4342,
                     "topics": []
                   },
                   "first_seen": "2026-10-03T04:36:31.587Z"
@@ -5238,7 +5238,7 @@
                     "open_issues": 41,
                     "owner": "evo-design",
                     "repo": "evo",
-                    "stars": 1589,
+                    "stars": 1590,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:26:12.684Z"
@@ -5518,7 +5518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:42:37.097Z",
+    "last_updated": "2026-11-27T17:27:19.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of computational biology.",
